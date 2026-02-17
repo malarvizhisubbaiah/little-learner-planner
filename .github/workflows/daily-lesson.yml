@@ -2,14 +2,9 @@ name: 📚 Daily Lesson Plan
 
 on:
   schedule:
-    # Runs every day at 6:00 AM UTC (adjust to your timezone)
     - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
-      day_number:
-        description: 'Lesson day number (e.g., 1, 2, 3...)'
-        required: false
-        default: ''
       focus_topic:
         description: 'Optional focus topic (reading, phonics, or maths)'
         required: false
@@ -17,7 +12,7 @@ on:
 
 permissions:
   issues: write
-  contents: read
+  contents: write
 
 jobs:
   create-lesson-plan:
@@ -25,111 +20,31 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Calculate day number
-        id: day
-        run: |
-          if [ -n "${{ github.event.inputs.day_number }}" ]; then
-            echo "number=${{ github.event.inputs.day_number }}" >> $GITHUB_OUTPUT
-          else
-            # Calculate days since first lesson
-            start_date="2026-02-17"
-            current_date=$(date +%Y-%m-%d)
-            days=$(( ($(date -d "$current_date" +%s) - $(date -d "$start_date" +%s)) / 86400 + 1 ))
-            echo "number=$days" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Determine today's focus
-        id: focus
-        run: |
-          if [ -n "${{ github.event.inputs.focus_topic }}" ]; then
-            echo "topic=${{ github.event.inputs.focus_topic }}" >> $GITHUB_OUTPUT
-          else
-            # Rotate: Day 1=phonics, Day 2=maths, Day 3=reading, repeat
-            day=${{ steps.day.outputs.number }}
-            case $(( day % 3 )) in
-              1) echo "topic=phonics" >> $GITHUB_OUTPUT ;;
-              2) echo "topic=maths" >> $GITHUB_OUTPUT ;;
-              0) echo "topic=reading" >> $GITHUB_OUTPUT ;;
-            esac
-          fi
-
-      - name: Determine phonics letter
-        id: letter
-        run: |
-          # Phonics progression: S, A, T, P, I, N, M, D, G, O, C, K, E, U, R, H, B, F, L
-          letters=("S" "A" "T" "P" "I" "N" "M" "D" "G" "O" "C" "K" "E" "U" "R" "H" "B" "F" "L")
-          day=${{ steps.day.outputs.number }}
-          # Change letter every 3 days
-          index=$(( (day - 1) / 3 % ${#letters[@]} ))
-          echo "current=${letters[$index]}" >> $GITHUB_OUTPUT
-
-      - name: Read curriculum files
-        id: curriculum
-        run: |
-          echo "reading<<EOF" >> $GITHUB_OUTPUT
-          cat curriculum/reading.md >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-
-          echo "phonics<<EOF" >> $GITHUB_OUTPUT
-          cat curriculum/phonics.md >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-
-          echo "maths<<EOF" >> $GITHUB_OUTPUT
-          cat curriculum/maths.md >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-
-      - name: Generate lesson plan issue
-        uses: peter-evans/create-issue-from-file@v5
         with:
-          title: "📚 Day ${{ steps.day.outputs.number }} Lesson Plan — Focus: ${{ steps.focus.outputs.topic }} | Letter: ${{ steps.letter.outputs.current }}"
-          content-filepath: .github/prompts/lesson-plan-template.md
-          labels: |
-            lesson-plan
-            ${{ steps.focus.outputs.topic }}
-            day-${{ steps.day.outputs.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create lesson plan content
-        run: |
-          cat > /tmp/lesson-plan.md << 'LESSON_EOF'
-          ## 📚 Day ${{ steps.day.outputs.number }} — Little Learner Lesson Plan
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-          **Focus:** ${{ steps.focus.outputs.topic }} | **Letter of the Day:** ${{ steps.letter.outputs.current }} | **Duration:** 20 minutes
-
-          ---
-
-          > 🤖 **Parent Note:** This is an auto-generated lesson framework. Use the Copilot Chat agent (`@little-learner-planner`) for a fully personalized plan with specific scenarios and activities!
-
-          ### Teaching Steps
-          1. **Letter Sounds** — Practice the "${{ steps.letter.outputs.current }}" sound with fun associations
-          2. **Counting** — Count objects around the house (target: count to 10)
-          3. **Storytime** — Read a favorite book and ask questions
-
-          ### Suggested Activities (6 × ~3 min each)
-
-          | # | Type | Activity |
-          |---|------|----------|
-          | 1 | 🔤 Phonics | Find 3 objects that start with the "${{ steps.letter.outputs.current }}" sound |
-          | 2 | 🔢 Maths | Count your fingers — how many on each hand? |
-          | 3 | 📖 Reading | Read a book together — ask "What happened?" after each page |
-          | 4 | 🎮 Game | Play "I Spy" — "I spy something that starts with ${{ steps.letter.outputs.current }}!" |
-          | 5 | 🔢 Number Hunt | Find groups of objects and count them (shoes, spoons, toys) |
-          | 6 | 🎵 Rhyming | Think of words that rhyme (cat/bat/hat, sun/fun/run) |
-
-          ### 📝 Worksheets
-          - **Letter ${{ steps.letter.outputs.current }} Tracing**: https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-of-the-alphabet
-          - **Counting 1-10**: https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting
-          - **More worksheets**: See [resources/worksheet-sources.md](../resources/worksheet-sources.md)
-
-          ---
-          *Generated by Little Learner Planner 🎓 | [Get a personalized plan →](https://github.com/microsoft/little-learner-planner)*
-          LESSON_EOF
+      - name: Generate lesson plan from progress
+        id: plan
+        run: node .github/scripts/generate-plan.js "${{ github.event.inputs.focus_topic }}"
 
       - name: Create issue with lesson plan
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh issue create \
-            --title "📚 Day ${{ steps.day.outputs.number }} Lesson Plan — Focus: ${{ steps.focus.outputs.topic }} | Letter: ${{ steps.letter.outputs.current }}" \
+            --title "$(cat /tmp/lesson-title.txt)" \
             --body-file /tmp/lesson-plan.md \
-            --label "lesson-plan,${{ steps.focus.outputs.topic }}"
+            --label "lesson-plan,$(cat /tmp/lesson-labels.txt)"
+
+      - name: Commit updated progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add progress.json
+          git diff --staged --quiet || git commit -m "📊 Update progress after Day $(cat /tmp/lesson-day.txt)"
+          git push

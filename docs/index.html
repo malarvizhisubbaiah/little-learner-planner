@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎓 Little Learner Planner</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>🎓 Little Learner Planner</h1>
+            <p class="subtitle">Daily 20-minute lessons in Reading, Phonics & Maths</p>
+        </div>
+    </header>
+
+    <nav>
+        <button class="tab active" data-tab="today" onclick="switchTab('today')">📚 Today's Plan</button>
+        <button class="tab" data-tab="history" onclick="switchTab('history')">📅 History</button>
+        <button class="tab" data-tab="progress" onclick="switchTab('progress')">🌟 Progress</button>
+    </nav>
+
+    <main>
+        <!-- Config Banner -->
+        <div id="config-banner" class="config-banner" style="display:none;">
+            <p>⚙️ Set your GitHub repo to load lesson plans:</p>
+            <div class="config-form">
+                <input type="text" id="repo-input" placeholder="owner/repo (e.g. microsoft/little-learner-planner)">
+                <button onclick="saveConfig()">Save</button>
+            </div>
+        </div>
+
+        <!-- Today's Plan Tab -->
+        <section id="tab-today" class="tab-content active">
+            <div id="today-loading" class="loading">
+                <div class="spinner"></div>
+                <p>Loading today's lesson plan...</p>
+            </div>
+            <div id="today-empty" class="empty-state" style="display:none;">
+                <div class="empty-icon">📝</div>
+                <h2>No lesson plan for today yet!</h2>
+                <p>Run the daily workflow or check back tomorrow morning.</p>
+                <button onclick="generateLocalPlan()" class="btn-primary">✨ Generate a Sample Plan</button>
+            </div>
+            <div id="today-plan" style="display:none;"></div>
+        </section>
+
+        <!-- History Tab -->
+        <section id="tab-history" class="tab-content">
+            <div class="history-header">
+                <h2>📅 Lesson History</h2>
+                <div class="filter-group">
+                    <button class="filter-btn active" onclick="filterHistory('all')">All</button>
+                    <button class="filter-btn" onclick="filterHistory('phonics')">🔤 Phonics</button>
+                    <button class="filter-btn" onclick="filterHistory('maths')">🔢 Maths</button>
+                    <button class="filter-btn" onclick="filterHistory('reading')">📖 Reading</button>
+                </div>
+            </div>
+            <div id="history-loading" class="loading">
+                <div class="spinner"></div>
+                <p>Loading lesson history...</p>
+            </div>
+            <div id="history-list"></div>
+            <div id="history-empty" class="empty-state" style="display:none;">
+                <div class="empty-icon">📅</div>
+                <h2>No lessons yet</h2>
+                <p>Lesson plans will appear here as they're generated daily.</p>
+            </div>
+        </section>
+
+        <!-- Progress Tab -->
+        <section id="tab-progress" class="tab-content">
+            <h2>🌟 Learning Progress</h2>
+            <div class="progress-grid">
+                <div class="progress-card">
+                    <h3>🔤 Letters Covered</h3>
+                    <div id="letters-progress" class="letter-grid"></div>
+                    <div class="progress-bar-container">
+                        <div id="letters-bar" class="progress-bar"></div>
+                    </div>
+                    <p id="letters-count" class="progress-text"></p>
+                </div>
+                <div class="progress-card">
+                    <h3>📚 Lessons Completed</h3>
+                    <div id="lessons-stats" class="stats-grid">
+                        <div class="stat">
+                            <span id="total-lessons" class="stat-number">0</span>
+                            <span class="stat-label">Total</span>
+                        </div>
+                        <div class="stat">
+                            <span id="phonics-lessons" class="stat-number">0</span>
+                            <span class="stat-label">Phonics</span>
+                        </div>
+                        <div class="stat">
+                            <span id="maths-lessons" class="stat-number">0</span>
+                            <span class="stat-label">Maths</span>
+                        </div>
+                        <div class="stat">
+                            <span id="reading-lessons" class="stat-number">0</span>
+                            <span class="stat-label">Reading</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="progress-card">
+                    <h3>🔢 Maths Topics</h3>
+                    <div id="maths-topics" class="topic-list"></div>
+                </div>
+                <div class="progress-card">
+                    <h3>📖 Reading Skills</h3>
+                    <div id="reading-topics" class="topic-list"></div>
+                </div>
+            </div>
+            <div class="streak-section">
+                <h3>🔥 Learning Streak</h3>
+                <div id="streak-calendar" class="streak-calendar"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Made with ❤️ for little learners everywhere | <a href="https://github.com/microsoft/little-learner-planner" target="_blank">GitHub</a></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
