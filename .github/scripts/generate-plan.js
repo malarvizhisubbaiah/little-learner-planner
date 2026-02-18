@@ -268,9 +268,33 @@ function pickUnused(pool, used) {
   return unused[Math.floor(Math.random() * unused.length)];
 }
 
-function pickBook(library, booksRead) {
-  const unread = library.filter(b => !booksRead.includes(b));
-  if (unread.length === 0) return library[Math.floor(Math.random() * library.length)];
+// Free online books with direct links (no purchase needed)
+const ONLINE_BOOKS = [
+  { title: "The Very Hungry Caterpillar", url: "https://storylineonline.net/books/the-very-hungry-caterpillar/", source: "Storyline Online (video read-aloud)" },
+  { title: "Corduroy", url: "https://storylineonline.net/books/corduroy/", source: "Storyline Online (video read-aloud)" },
+  { title: "Stellaluna", url: "https://storylineonline.net/books/stellaluna/", source: "Storyline Online (video read-aloud)" },
+  { title: "Enemy Pie", url: "https://storylineonline.net/books/enemy-pie/", source: "Storyline Online (video read-aloud)" },
+  { title: "The Snowy Day", url: "https://storylineonline.net/books/the-snowy-day/", source: "Storyline Online (video read-aloud)" },
+  { title: "Giraffes Can't Dance", url: "https://storylineonline.net/books/giraffes-cant-dance/", source: "Storyline Online (video read-aloud)" },
+  { title: "Clark the Shark", url: "https://storylineonline.net/books/clark-the-shark/", source: "Storyline Online (video read-aloud)" },
+  { title: "Pig the Pug", url: "https://storylineonline.net/books/pig-the-pug/", source: "Storyline Online (video read-aloud)" },
+  { title: "Animals in Winter", url: "https://www.uniteforliteracy.com/unite/animals/book?BookId=1586", source: "Unite for Literacy (read online)" },
+  { title: "My Body", url: "https://www.uniteforliteracy.com/unite/body/book?BookId=36", source: "Unite for Literacy (read online)" },
+  { title: "At the Park", url: "https://www.uniteforliteracy.com/unite/community/book?BookId=1646", source: "Unite for Literacy (read online)" },
+  { title: "Colors Everywhere", url: "https://www.uniteforliteracy.com/unite/colors/book?BookId=488", source: "Unite for Literacy (read online)" },
+  { title: "My Family", url: "https://www.uniteforliteracy.com/unite/families/book?BookId=155", source: "Unite for Literacy (read online)" },
+  { title: "What Is Weather?", url: "https://www.uniteforliteracy.com/unite/weather/book?BookId=200", source: "Unite for Literacy (read online)" },
+  { title: "1 2 3 Count With Me", url: "https://www.uniteforliteracy.com/unite/numbers/book?BookId=339", source: "Unite for Literacy (read online)" },
+  { title: "Shapes Around Us", url: "https://www.uniteforliteracy.com/unite/shapes/book?BookId=1733", source: "Unite for Literacy (read online)" },
+  { title: "Baby Animals", url: "https://www.storyberries.com/baby-animals-free-picture-book/", source: "Storyberries (read online)" },
+  { title: "The Little Red Hen", url: "https://www.storyberries.com/fairy-tales-the-little-red-hen/", source: "Storyberries (read online)" },
+  { title: "Goldilocks and the Three Bears", url: "https://www.storyberries.com/fairy-tales-goldilocks-and-the-three-bears/", source: "Storyberries (read online)" },
+  { title: "The Three Billy Goats Gruff", url: "https://www.storyberries.com/fairy-tales-three-billy-goats-gruff/", source: "Storyberries (read online)" },
+];
+
+function pickBook(library_unused, booksRead) {
+  const unread = ONLINE_BOOKS.filter(b => !booksRead.includes(b.title));
+  if (unread.length === 0) return ONLINE_BOOKS[Math.floor(Math.random() * ONLINE_BOOKS.length)];
   return unread[Math.floor(Math.random() * unread.length)];
 }
 
@@ -337,10 +361,10 @@ function main() {
   activities.push({ ...mathsAct, type: 'maths', label: '🔢 Maths' });
 
   // 3. Reading activity
-  const readingAct = READING_SCENARIOS[readingTopic] || { name: "Reading Time", scenario: '"Let\'s read together!"', activity: `Focus: ${readingTopic.replace(/-/g, ' ')}. Read "${book}" together.`, answer: "Reading skills" };
+  const readingAct = READING_SCENARIOS[readingTopic] || { name: "Reading Time", scenario: '"Let\'s read together!"', activity: `Focus: ${readingTopic.replace(/-/g, ' ')}. Read "${book.title}" together.`, answer: "Reading skills" };
   const enrichedReading = { ...readingAct };
-  if (!enrichedReading.activity.includes(book)) {
-    enrichedReading.activity += ` Use the book "${book}" for this activity.`;
+  if (!enrichedReading.activity.includes(book.title)) {
+    enrichedReading.activity += ` Use the book "${book.title}" for this activity.`;
   }
   activities.push({ ...enrichedReading, type: 'reading', label: '📖 Reading' });
 
@@ -408,12 +432,12 @@ function main() {
   // ── Build Markdown ────────────────────────────────────────────────────
 
   let md = `## 📚 Day ${day} — Little Learner Lesson Plan\n\n`;
-  md += `**Focus:** ${focus} | **Letter of the Day:** ${letter} | **Book:** ${book} | **Duration:** 20 minutes\n\n`;
+  md += `**Focus:** ${focus} | **Letter of the Day:** ${letter} | **Duration:** 20 minutes\n\n`;
   md += `---\n\n`;
   md += `### Teaching Steps\n`;
   md += `1. **Letter Sounds** — Practice the "${letter}" sound\n`;
   md += `2. **Maths** — ${mathsTopic.replace(/-/g, ' ')}\n`;
-  md += `3. **Reading** — ${readingTopic.replace(/-/g, ' ')} with "${book}"\n\n`;
+  md += `3. **Reading** — ${readingTopic.replace(/-/g, ' ')} with "${book.title}"\n\n`;
   md += `### Activities (6 × ~3 min each = 20 min)\n\n`;
 
   activities.forEach((act, i) => {
@@ -423,6 +447,8 @@ function main() {
     md += `**Answer:** ${act.answer}\n\n`;
   });
 
+  md += `### 📖 Today's Book\n`;
+  md += `**[${book.title}](${book.url})** — ${book.source}\n\n`;
   md += `### 📝 Today's Worksheet\n`;
   md += `**[${worksheet.title}](${worksheet.url})**\n\n`;
   md += `---\n\n`;
@@ -437,7 +463,7 @@ function main() {
   md += `- **Letters covered:** ${[...progress.phonics.letters_covered, letter].join(', ') || 'Starting today!'}\n`;
   md += `- **Maths topics:** ${progress.maths.topics_covered.length + 1} of ${progress.maths.topics_pool.length}\n`;
   md += `- **Reading skills:** ${progress.reading.topics_covered.length + 1} of ${progress.reading.topics_pool.length}\n`;
-  md += `- **Books read:** ${[...progress.reading.books_read, book].length}\n`;
+  md += `- **Books read:** ${[...progress.reading.books_read, book.title].length}\n`;
   md += `- **Brain Quest questions answered:** ${(progress.brain_quest_used || []).length + brainQuestions.length} of ${BRAIN_QUEST_POOL.length}\n`;
   md += `\n---\n*Generated by Little Learner Planner 🎓*\n`;
 
@@ -456,7 +482,8 @@ function main() {
   if (!progress.phonics.letters_covered.includes(letter)) {
     progress.phonics.letters_covered.push(letter);
   }
-  if (day % 3 === 0 && progress.phonics.current_index < progress.phonics.progression.length - 1) {
+  // Phonics: advance to next letter every day
+  if (progress.phonics.current_index < progress.phonics.progression.length - 1) {
     progress.phonics.current_index += 1;
   }
 
@@ -469,8 +496,8 @@ function main() {
   if (!progress.reading.topics_covered.includes(readingTopic)) {
     progress.reading.topics_covered.push(readingTopic);
   }
-  if (!progress.reading.books_read.includes(book)) {
-    progress.reading.books_read.push(book);
+  if (!progress.reading.books_read.includes(book.title)) {
+    progress.reading.books_read.push(book.title);
   }
 
   // Worksheets assigned
@@ -506,14 +533,14 @@ function main() {
     letter,
     maths_topic: mathsTopic,
     reading_topic: readingTopic,
-    book,
+    book: book.title,
     worksheet: worksheet.url,
   });
 
   // Save
   fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2));
 
-  console.log(`✅ Day ${day} plan generated — Focus: ${focus}, Letter: ${letter}, Book: ${book}`);
+  console.log(`✅ Day ${day} plan generated — Focus: ${focus}, Letter: ${letter}, Book: ${book.title}`);
 }
 
 main();
