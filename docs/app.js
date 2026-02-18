@@ -5,7 +5,7 @@
 
 // ── Config ──────────────────────────────────────────────────────────────────
 
-const DEFAULT_REPO = 'microsoft/little-learner-planner';
+const DEFAULT_REPO = 'malarvizhisubbaiah/little-learner-planner';
 const PHONICS_ORDER = ['S','A','T','P','I','N','M','D','G','O','C','K','E','U','R','H','B','F','L','J','V','W','X','Y','Z','Q'];
 
 const MATHS_MILESTONES = [
@@ -112,26 +112,35 @@ function hideLoading() {
 // ── Today's Plan ────────────────────────────────────────────────────────────
 
 function renderToday() {
-  const todayStr = new Date().toISOString().split('T')[0];
-  const todayIssue = issuesData.find(issue => {
-    const created = issue.created_at.split('T')[0];
-    return created === todayStr;
-  });
-
-  if (todayIssue) {
-    document.getElementById('today-plan').style.display = 'block';
-    document.getElementById('today-plan').innerHTML = renderLessonCard(todayIssue, true);
-  } else if (issuesData.length > 0) {
-    // Show most recent plan
-    document.getElementById('today-plan').style.display = 'block';
-    document.getElementById('today-plan').innerHTML =
-      `<div class="info-banner" style="background:#FFF3CD;border:1px solid #FFEAA7;border-radius:12px;padding:1rem;margin-bottom:1rem;text-align:center;">
-        ⏰ No plan for today yet — showing the most recent lesson:
-      </div>` +
-      renderLessonCard(issuesData[0], true);
-  } else {
+  if (issuesData.length === 0) {
     document.getElementById('today-empty').style.display = 'block';
+    return;
   }
+
+  // Always show the most recent lesson plan
+  const latest = issuesData[0];
+  const createdDate = new Date(latest.created_at).toISOString().split('T')[0];
+  const todayStr = new Date().toISOString().split('T')[0];
+  const isToday = createdDate === todayStr;
+
+  document.getElementById('today-plan').style.display = 'block';
+  let banner = '';
+  if (!isToday) {
+    banner = `<div class="info-banner" style="background:#FFF3CD;border:1px solid #FFEAA7;border-radius:12px;padding:1rem;margin-bottom:1rem;text-align:center;">
+      ⏰ Today's plan hasn't been generated yet — showing the most recent lesson.
+      <br><a href="https://github.com/${getRepo()}/actions/workflows/daily-lesson.yml" target="_blank" style="color:#6C63FF;font-weight:600;">▶️ Generate Next Plan</a>
+    </div>`;
+  }
+  document.getElementById('today-plan').innerHTML = banner + renderLessonCard(latest, true);
+
+  // Show "Generate Next Plan" button below the card
+  document.getElementById('today-plan').innerHTML += `
+    <div style="text-align:center;margin-top:1rem;">
+      <a href="https://github.com/${getRepo()}/actions/workflows/daily-lesson.yml" target="_blank" class="btn-primary" style="display:inline-block;text-decoration:none;">
+        🚀 Generate Next Day's Plan
+      </a>
+      <p style="font-size:0.8rem;color:#888;margin-top:0.5rem;">Click "Run workflow" on GitHub to create the next lesson</p>
+    </div>`;
 }
 
 function renderLessonCard(issue, expanded = false) {
@@ -322,95 +331,6 @@ function switchTab(tabName) {
   document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
   document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
   document.getElementById(`tab-${tabName}`).classList.add('active');
-}
-
-// ── Sample Plan Generator (offline) ─────────────────────────────────────────
-
-function generateLocalPlan() {
-  const plan = `
-    <div class="lesson-card">
-      <div class="lesson-header">
-        <h2>📚 Sample Lesson — Fun with Letter S!</h2>
-        <div class="lesson-meta">
-          <span>📅 Today</span>
-          <span>🎯 Focus: Phonics</span>
-          <span>🔤 Letter: S</span>
-        </div>
-      </div>
-      <div class="lesson-body">
-        <div class="teaching-steps">
-          <h3>Teaching Steps</h3>
-          <ol>
-            <li><strong>Letter Sounds</strong> — Learn the "S" sound (sssss like a snake!)</li>
-            <li><strong>Counting</strong> — Count objects 1 to 5</li>
-            <li><strong>Storytime</strong> — Read "The Very Hungry Caterpillar"</li>
-          </ol>
-        </div>
-
-        <div class="activity phonics">
-          <div class="activity-title"><span class="activity-label label-phonics">🔤 Phonics</span> Snake Sounds</div>
-          <p class="scenario"><strong>Scenario:</strong> "Let's be sneaky snakes! Can you make the sssss sound?"</p>
-          <p><strong>Activity:</strong> Slither around the room like a snake making the S sound. Find 3 things starting with S (sock, spoon, sofa).</p>
-          <p class="answer"><strong>Answer:</strong> S says sssss</p>
-        </div>
-
-        <div class="activity maths">
-          <div class="activity-title"><span class="activity-label label-maths">🔢 Maths</span> Count to 5</div>
-          <p class="scenario"><strong>Scenario:</strong> "Let's count your fingers on one hand! Ready? 1... 2..."</p>
-          <p><strong>Activity:</strong> Touch each finger as you count to 5. Then count 5 toys, 5 steps, 5 claps.</p>
-          <p class="answer"><strong>Answer:</strong> 1, 2, 3, 4, 5</p>
-        </div>
-
-        <div class="activity reading">
-          <div class="activity-title"><span class="activity-label label-reading">📖 Reading</span> Cover Clues</div>
-          <p class="scenario"><strong>Scenario:</strong> "Look at this book cover! What do you think this story is about?"</p>
-          <p><strong>Activity:</strong> Show "The Very Hungry Caterpillar" cover. Let your child guess. Read together and check!</p>
-          <p class="answer"><strong>Answer:</strong> Predictions based on cover art</p>
-        </div>
-
-        <div class="activity game">
-          <div class="activity-title"><span class="activity-label label-game">🎮 Game</span> I Spy Sounds</div>
-          <p class="scenario"><strong>Scenario:</strong> "I spy with my little eye, something that starts with sssss!"</p>
-          <p><strong>Activity:</strong> Take turns finding objects starting with the S sound. Give clues if stuck!</p>
-          <p class="answer"><strong>Answer:</strong> Objects starting with S</p>
-        </div>
-
-        <div class="activity phonics">
-          <div class="activity-title"><span class="activity-label label-phonics">🔤 Phonics</span> Sand Letter S</div>
-          <p class="scenario"><strong>Scenario:</strong> "Let's draw a wiggly snake letter!"</p>
-          <p><strong>Activity:</strong> Pour salt on a tray. Trace the letter S with your finger. Try 3 times!</p>
-          <p class="answer"><strong>Answer:</strong> Tracing the letter S</p>
-        </div>
-
-        <div class="activity game">
-          <div class="activity-title"><span class="activity-label label-game">🎵 Rhyme</span> Rhyme Chain</div>
-          <p class="scenario"><strong>Scenario:</strong> "Cat! What rhymes with cat? Bat! What rhymes with bat?"</p>
-          <p><strong>Activity:</strong> Take turns saying rhyming words. Silly made-up words are OK!</p>
-          <p class="answer"><strong>Answer:</strong> Rhyming words (real and silly)</p>
-        </div>
-
-        <div class="worksheet-section">
-          <h3>📝 Today's Worksheet</h3>
-          <a href="https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet" target="_blank">
-            Letter Tracing Worksheets — K5 Learning (Free) ↗
-          </a>
-        </div>
-
-        <div class="brain-quest-section" style="background:#EBF5FF;border:1px solid #BEE3F8;border-radius:12px;padding:1rem 1.25rem;margin-top:1rem;">
-          <h3 style="color:#2B6CB0;margin-bottom:0.75rem;">🧠 Brain Quest — Daily 5</h3>
-          <p style="font-size:0.85rem;color:#4A5568;margin-bottom:0.75rem;"><em>Read each question aloud. Celebrate every answer!</em></p>
-          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q1.</strong> What color is the sun? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Yellow':'→ Show Answer'">→ Show Answer</span></div>
-          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q2.</strong> Which animal barks — a cat or a dog? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Dog':'→ Show Answer'">→ Show Answer</span></div>
-          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q3.</strong> How many fingers on one hand? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ 5':'→ Show Answer'">→ Show Answer</span></div>
-          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q4.</strong> What do you wear on your feet? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Shoes / Socks':'→ Show Answer'">→ Show Answer</span></div>
-          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q5.</strong> What is the opposite of big? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Small':'→ Show Answer'">→ Show Answer</span></div>
-        </div>
-      </div>
-    </div>`;
-
-  document.getElementById('today-empty').style.display = 'none';
-  document.getElementById('today-plan').style.display = 'block';
-  document.getElementById('today-plan').innerHTML = plan;
 }
 
 // ── Minimal Markdown to HTML ────────────────────────────────────────────────

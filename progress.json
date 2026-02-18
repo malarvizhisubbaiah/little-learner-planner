@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 2,
+  "current_day": 1,
   "phonics": {
     "progression": [
       "S",
@@ -72,9 +72,7 @@
       "number-writing-6-10"
     ],
     "topics_covered": [
-      "sorting-by-shape",
-      "shape-hunt",
-      "ordering-by-size"
+      "patterns-AABB"
     ],
     "current_index": 0
   },
@@ -102,13 +100,11 @@
       "feelings-in-stories"
     ],
     "topics_covered": [
-      "feelings-in-stories",
-      "point-to-words"
+      "repetition-in-stories"
     ],
     "current_index": 0,
     "books_read": [
-      "Elmer the Elephant",
-      "We're Going on a Bear Hunt"
+      "The Gruffalo"
     ]
   },
   "books_library": [
@@ -135,49 +131,31 @@
   ],
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-oko8cg",
-      "p3ir4u",
-      "-st09hv",
-      "-yd8lpj",
-      "-r33t18",
-      "j3bl2i",
       "-x1l3sz",
-      "7eah8l",
-      "ycxga8",
-      "-nn78ac",
-      "wlk1wd",
-      "-pbto60"
+      "hwl7ua",
+      "-tm8g74",
+      "-6o69mx",
+      "-vqi1ia",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
-      "-oko8cg",
-      "p3ir4u",
-      "-st09hv",
-      "-yd8lpj",
-      "-r33t18",
-      "j3bl2i",
       "-x1l3sz",
-      "7eah8l",
-      "ycxga8",
-      "-nn78ac",
-      "wlk1wd",
-      "-pbto60"
+      "hwl7ua",
+      "-tm8g74",
+      "-6o69mx",
+      "-vqi1ia",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
   ],
   "brain_quest_used": [
-    3,
-    39,
-    52,
-    25,
-    46,
-    32,
+    1,
+    42,
+    24,
     17,
-    8,
-    43,
-    2
+    35
   ],
   "history": [
     {
@@ -185,20 +163,10 @@
       "date": "2026-02-18",
       "focus": "phonics",
       "letter": "S",
-      "maths_topic": "sorting-by-shape",
-      "reading_topic": "feelings-in-stories",
-      "book": "Elmer the Elephant",
+      "maths_topic": "patterns-AABB",
+      "reading_topic": "repetition-in-stories",
+      "book": "The Gruffalo",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
-    },
-    {
-      "day": 2,
-      "date": "2026-02-18",
-      "focus": "maths",
-      "letter": "S",
-      "maths_topic": "ordering-by-size",
-      "reading_topic": "point-to-words",
-      "book": "We're Going on a Bear Hunt",
-      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
