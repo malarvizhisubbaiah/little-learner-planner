@@ -128,7 +128,7 @@ function renderToday() {
   if (!isToday) {
     banner = `<div class="info-banner" style="background:#FFF3CD;border:1px solid #FFEAA7;border-radius:12px;padding:1rem;margin-bottom:1rem;text-align:center;">
       ⏰ Today's plan hasn't been generated yet — showing the most recent lesson.
-      <br><a href="https://github.com/${getRepo()}/actions/workflows/daily-lesson.yml" target="_blank" style="color:#6C63FF;font-weight:600;">▶️ Generate Next Plan</a>
+      <br><a href="https://github.com/${getRepo()}/actions/workflows/daily-lesson.yml" target="_blank" style="color:#6C63FF;font-weight:600;">▶️ Generate Plan</a>
     </div>`;
   }
   document.getElementById('today-plan').innerHTML = banner + renderLessonCard(latest, true);
@@ -137,7 +137,7 @@ function renderToday() {
   document.getElementById('today-plan').innerHTML += `
     <div style="text-align:center;margin-top:1rem;">
       <a href="https://github.com/${getRepo()}/actions/workflows/daily-lesson.yml" target="_blank" class="btn-primary" style="display:inline-block;text-decoration:none;">
-        🚀 Generate Next Day's Plan
+        🚀 Generate Plan
       </a>
       <p style="font-size:0.8rem;color:#888;margin-top:0.5rem;">Click "Run workflow" on GitHub to create the next lesson</p>
     </div>`;
