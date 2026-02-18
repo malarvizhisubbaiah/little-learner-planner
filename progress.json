@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 0,
+  "current_day": 1,
   "phonics": {
     "progression": [
       "S",
@@ -33,7 +33,9 @@
       "Z",
       "Q"
     ],
-    "letters_covered": [],
+    "letters_covered": [
+      "S"
+    ],
     "current_index": 0,
     "blending_started": false,
     "cvc_words_practiced": []
@@ -69,7 +71,9 @@
       "number-writing-1-5",
       "number-writing-6-10"
     ],
-    "topics_covered": [],
+    "topics_covered": [
+      "sorting-by-shape"
+    ],
     "current_index": 0
   },
   "reading": {
@@ -95,9 +99,13 @@
       "favorite-book-revisit",
       "feelings-in-stories"
     ],
-    "topics_covered": [],
+    "topics_covered": [
+      "feelings-in-stories"
+    ],
     "current_index": 0,
-    "books_read": []
+    "books_read": [
+      "Elmer the Elephant"
+    ]
   },
   "books_library": [
     "The Very Hungry Caterpillar",
@@ -122,10 +130,43 @@
     "Meg and Mog"
   ],
   "activities_used": {
-    "scenarios_used_last_5_days": [],
-    "all_scenarios_hashes": []
+    "scenarios_used_last_5_days": [
+      "-oko8cg",
+      "p3ir4u",
+      "-st09hv",
+      "-yd8lpj",
+      "-r33t18",
+      "j3bl2i"
+    ],
+    "all_scenarios_hashes": [
+      "-oko8cg",
+      "p3ir4u",
+      "-st09hv",
+      "-yd8lpj",
+      "-r33t18",
+      "j3bl2i"
+    ]
   },
-  "worksheets_assigned": [],
-  "brain_quest_used": [],
-  "history": []
+  "worksheets_assigned": [
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+  ],
+  "brain_quest_used": [
+    3,
+    39,
+    52,
+    25,
+    46
+  ],
+  "history": [
+    {
+      "day": 1,
+      "date": "2026-02-18",
+      "focus": "phonics",
+      "letter": "S",
+      "maths_topic": "sorting-by-shape",
+      "reading_topic": "feelings-in-stories",
+      "book": "Elmer the Elephant",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    }
+  ]
 }
