@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 1,
+  "current_day": 2,
   "phonics": {
     "progression": [
       "S",
@@ -72,7 +72,9 @@
       "number-writing-6-10"
     ],
     "topics_covered": [
-      "patterns-AABB"
+      "patterns-AABB",
+      "number-recognition-4-6",
+      "finger-counting"
     ],
     "current_index": 0
   },
@@ -100,11 +102,13 @@
       "feelings-in-stories"
     ],
     "topics_covered": [
-      "repetition-in-stories"
+      "repetition-in-stories",
+      "picture-dictionary"
     ],
     "current_index": 0,
     "books_read": [
-      "The Gruffalo"
+      "The Gruffalo",
+      "The Cat in the Hat"
     ]
   },
   "books_library": [
@@ -136,7 +140,13 @@
       "-tm8g74",
       "-6o69mx",
       "-vqi1ia",
-      "2qvsf6"
+      "2qvsf6",
+      "-r33t18",
+      "to4cgf",
+      "-liuanj",
+      "j3bl2i",
+      "-lsluj",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -144,18 +154,30 @@
       "-tm8g74",
       "-6o69mx",
       "-vqi1ia",
-      "2qvsf6"
+      "2qvsf6",
+      "-r33t18",
+      "to4cgf",
+      "-liuanj",
+      "j3bl2i",
+      "-lsluj",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
   ],
   "brain_quest_used": [
     1,
     42,
     24,
     17,
-    35
+    35,
+    9,
+    58,
+    34,
+    28,
+    40
   ],
   "history": [
     {
@@ -167,6 +189,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "The Gruffalo",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 2,
+      "date": "2026-02-18",
+      "focus": "maths",
+      "letter": "S",
+      "maths_topic": "finger-counting",
+      "reading_topic": "picture-dictionary",
+      "book": "The Cat in the Hat",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
