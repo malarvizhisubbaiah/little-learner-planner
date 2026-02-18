@@ -15,19 +15,56 @@
         </div>
     </header>
 
+    <nav>
+        <button class="tab active" onclick="switchTab('today')">📚 Today</button>
+        <button class="tab" onclick="switchTab('history')">📜 History</button>
+        <button class="tab" onclick="switchTab('progress')">📊 Progress</button>
+    </nav>
+
     <main>
-        <div id="today-loading" class="loading">
-            <div class="spinner"></div>
-            <p>Loading today's lesson plan...</p>
+        <!-- Today Tab -->
+        <div id="tab-today" class="tab-content active">
+            <div id="today-loading" class="loading">
+                <div class="spinner"></div>
+                <p>Loading today's lesson plan...</p>
+            </div>
+            <div id="today-empty" class="empty-state" style="display:none;">
+                <div class="empty-icon">📝</div>
+                <h2>No lesson plans yet!</h2>
+                <p>Generate your first lesson plan.</p>
+                <button onclick="generateNextPlan()" class="btn-primary">🚀 Generate Plan</button>
+            </div>
+            <div id="today-plan" style="display:none;"></div>
         </div>
-        <div id="today-empty" class="empty-state" style="display:none;">
-            <div class="empty-icon">📝</div>
-            <h2>No lesson plans yet!</h2>
-            <p>Generate your first lesson plan.</p>
-            <button onclick="generateNextPlan()" class="btn-primary">🚀 Generate Plan</button>
+
+        <!-- History Tab -->
+        <div id="tab-history" class="tab-content">
+            <div class="history-header">
+                <h2>📜 Lesson History</h2>
+                <div class="filter-group">
+                    <button class="filter-btn active" onclick="filterHistory('all')">All</button>
+                    <button class="filter-btn" onclick="filterHistory('phonics')">🔤 Phonics</button>
+                    <button class="filter-btn" onclick="filterHistory('maths')">🔢 Maths</button>
+                    <button class="filter-btn" onclick="filterHistory('reading')">📖 Reading</button>
+                </div>
+            </div>
+            <div id="history-list"></div>
         </div>
-        <div id="today-plan" style="display:none;"></div>
+
+        <!-- Progress Tab -->
+        <div id="tab-progress" class="tab-content">
+            <h2 style="margin-bottom:1rem;">📊 Learning Progress</h2>
+            <div id="progress-content"></div>
+        </div>
     </main>
+
+    <!-- Modal for viewing old plans -->
+    <div id="plan-modal" class="modal-overlay" style="display:none;" onclick="if(event.target===this)closeModal()">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">✕</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
 
     <footer>
         <p>Made with ❤️ for little learners everywhere | <a href="https://github.com/malarvizhisubbaiah/little-learner-planner" target="_blank">GitHub</a></p>
