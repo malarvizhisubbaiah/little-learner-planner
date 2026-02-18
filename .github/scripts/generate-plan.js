@@ -270,14 +270,14 @@ function pickUnused(pool, used) {
 
 // Free online books with direct links (no purchase needed)
 const ONLINE_BOOKS = [
-  { title: "The Very Hungry Caterpillar", url: "https://storylineonline.net/books/the-very-hungry-caterpillar/", source: "Storyline Online (video read-aloud)" },
-  { title: "Corduroy", url: "https://storylineonline.net/books/corduroy/", source: "Storyline Online (video read-aloud)" },
   { title: "Stellaluna", url: "https://storylineonline.net/books/stellaluna/", source: "Storyline Online (video read-aloud)" },
   { title: "Enemy Pie", url: "https://storylineonline.net/books/enemy-pie/", source: "Storyline Online (video read-aloud)" },
-  { title: "The Snowy Day", url: "https://storylineonline.net/books/the-snowy-day/", source: "Storyline Online (video read-aloud)" },
-  { title: "Giraffes Can't Dance", url: "https://storylineonline.net/books/giraffes-cant-dance/", source: "Storyline Online (video read-aloud)" },
   { title: "Clark the Shark", url: "https://storylineonline.net/books/clark-the-shark/", source: "Storyline Online (video read-aloud)" },
-  { title: "Pig the Pug", url: "https://storylineonline.net/books/pig-the-pug/", source: "Storyline Online (video read-aloud)" },
+  { title: "A Bad Case of Stripes", url: "https://storylineonline.net/books/a-bad-case-of-stripes/", source: "Storyline Online (video read-aloud)" },
+  { title: "Library Lion", url: "https://storylineonline.net/books/library-lion/", source: "Storyline Online (video read-aloud)" },
+  { title: "Carla's Sandwich", url: "https://storylineonline.net/books/carlas-sandwich/", source: "Storyline Online (video read-aloud)" },
+  { title: "Brave Irene", url: "https://storylineonline.net/books/brave-irene/", source: "Storyline Online (video read-aloud)" },
+  { title: "Chester's Way", url: "https://storylineonline.net/books/chesters-way/", source: "Storyline Online (video read-aloud)" },
   { title: "Animals in Winter", url: "https://www.uniteforliteracy.com/unite/animals/book?BookId=1586", source: "Unite for Literacy (read online)" },
   { title: "My Body", url: "https://www.uniteforliteracy.com/unite/body/book?BookId=36", source: "Unite for Literacy (read online)" },
   { title: "At the Park", url: "https://www.uniteforliteracy.com/unite/community/book?BookId=1646", source: "Unite for Literacy (read online)" },
@@ -286,10 +286,10 @@ const ONLINE_BOOKS = [
   { title: "What Is Weather?", url: "https://www.uniteforliteracy.com/unite/weather/book?BookId=200", source: "Unite for Literacy (read online)" },
   { title: "1 2 3 Count With Me", url: "https://www.uniteforliteracy.com/unite/numbers/book?BookId=339", source: "Unite for Literacy (read online)" },
   { title: "Shapes Around Us", url: "https://www.uniteforliteracy.com/unite/shapes/book?BookId=1733", source: "Unite for Literacy (read online)" },
-  { title: "Baby Animals", url: "https://www.storyberries.com/baby-animals-free-picture-book/", source: "Storyberries (read online)" },
   { title: "The Little Red Hen", url: "https://www.storyberries.com/fairy-tales-the-little-red-hen/", source: "Storyberries (read online)" },
   { title: "Goldilocks and the Three Bears", url: "https://www.storyberries.com/fairy-tales-goldilocks-and-the-three-bears/", source: "Storyberries (read online)" },
-  { title: "The Three Billy Goats Gruff", url: "https://www.storyberries.com/fairy-tales-three-billy-goats-gruff/", source: "Storyberries (read online)" },
+  { title: "The Three Billy Goats Gruff", url: "https://www.storyberries.com/fairy-tales-the-three-billy-goats-gruff-by-katharine-pyle/", source: "Storyberries (read online)" },
+  { title: "The Ugly Duckling", url: "https://www.storyberries.com/fairy-tales-the-ugly-duckling/", source: "Storyberries (read online)" },
 ];
 
 function pickBook(library_unused, booksRead) {
