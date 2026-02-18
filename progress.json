@@ -3,10 +3,39 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 0,
+  "current_day": 2,
   "phonics": {
-    "progression": ["S", "A", "T", "P", "I", "N", "M", "D", "G", "O", "C", "K", "E", "U", "R", "H", "B", "F", "L", "J", "V", "W", "X", "Y", "Z", "Q"],
-    "letters_covered": [],
+    "progression": [
+      "S",
+      "A",
+      "T",
+      "P",
+      "I",
+      "N",
+      "M",
+      "D",
+      "G",
+      "O",
+      "C",
+      "K",
+      "E",
+      "U",
+      "R",
+      "H",
+      "B",
+      "F",
+      "L",
+      "J",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "Q"
+    ],
+    "letters_covered": [
+      "S"
+    ],
     "current_index": 0,
     "blending_started": false,
     "cvc_words_practiced": []
@@ -42,7 +71,11 @@
       "number-writing-1-5",
       "number-writing-6-10"
     ],
-    "topics_covered": [],
+    "topics_covered": [
+      "number-writing-1-5",
+      "number-writing-6-10",
+      "subtraction-with-objects"
+    ],
     "current_index": 0
   },
   "reading": {
@@ -68,9 +101,15 @@
       "favorite-book-revisit",
       "feelings-in-stories"
     ],
-    "topics_covered": [],
+    "topics_covered": [
+      "repetition-in-stories",
+      "retell-with-toys"
+    ],
     "current_index": 0,
-    "books_read": []
+    "books_read": [
+      "Each Peach Pear Plum",
+      "Owl Babies"
+    ]
   },
   "books_library": [
     "The Very Hungry Caterpillar",
@@ -95,10 +134,71 @@
     "Meg and Mog"
   ],
   "activities_used": {
-    "scenarios_used_last_5_days": [],
-    "all_scenarios_hashes": []
+    "scenarios_used_last_5_days": [
+      "-vqi1ia",
+      "-88vsyh",
+      "8mb2mi",
+      "-pbto60",
+      "b25208",
+      "gixxy9",
+      "-oko8cg",
+      "-88vsyh",
+      "8mb2mi",
+      "-87vknw",
+      "907kqy",
+      "-stt7ag"
+    ],
+    "all_scenarios_hashes": [
+      "-vqi1ia",
+      "-88vsyh",
+      "8mb2mi",
+      "-pbto60",
+      "b25208",
+      "gixxy9",
+      "-oko8cg",
+      "-88vsyh",
+      "8mb2mi",
+      "-87vknw",
+      "907kqy",
+      "-stt7ag"
+    ]
   },
-  "worksheets_assigned": [],
-  "brain_quest_used": [],
-  "history": []
+  "worksheets_assigned": [
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+  ],
+  "brain_quest_used": [
+    21,
+    37,
+    55,
+    9,
+    4,
+    30,
+    7,
+    8,
+    10,
+    59
+  ],
+  "history": [
+    {
+      "day": 1,
+      "date": "2026-02-18",
+      "focus": "phonics",
+      "letter": "S",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "repetition-in-stories",
+      "book": "Each Peach Pear Plum",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 2,
+      "date": "2026-02-18",
+      "focus": "maths",
+      "letter": "S",
+      "maths_topic": "subtraction-with-objects",
+      "reading_topic": "retell-with-toys",
+      "book": "Owl Babies",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    }
+  ]
 }
