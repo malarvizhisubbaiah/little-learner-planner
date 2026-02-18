@@ -101,30 +101,36 @@ function renderButtons(issue, isDone) {
 
 async function markDoneAndGenerate(issueNumber) {
   const token = getToken();
-  if (!token) { alert('Please enter your GitHub token first.'); return; }
+  if (!token) { alert('Please enter your GitHub token first (yellow box below).'); return; }
 
   const btn = event.target;
   btn.disabled = true;
   btn.textContent = '⏳ Marking done...';
 
   try {
-    await fetch(`${API}/issues/${issueNumber}`, {
+    // 1. Close the issue
+    const closeRes = await fetch(`${API}/issues/${issueNumber}`, {
       method: 'PATCH', headers: { ...authHeaders(), 'Content-Type': 'application/json' },
       body: JSON.stringify({ state: 'closed' }),
     });
+    if (!closeRes.ok) throw new Error('Failed to close issue: ' + closeRes.status);
 
-    btn.textContent = '⏳ Generating next plan...';
+    btn.textContent = '⏳ Triggering next plan...';
 
-    await fetch(`${API}/actions/workflows/daily-lesson.yml/dispatches`, {
+    // 2. Trigger workflow
+    const triggerRes = await fetch(`${API}/actions/workflows/daily-lesson.yml/dispatches`, {
       method: 'POST', headers: { ...authHeaders(), 'Content-Type': 'application/json' },
       body: JSON.stringify({ ref: 'main' }),
     });
+    if (!triggerRes.ok) throw new Error('Failed to trigger workflow: ' + triggerRes.status);
 
-    btn.textContent = '✅ Done! Refreshing in 20s...';
-    btn.style.background = '#48BB78';
-    setTimeout(() => location.reload(), 20000);
+    btn.textContent = '⏳ Generating plan...';
+
+    // 3. Poll until new issue appears
+    await pollForNewIssue(issueNumber, btn);
+
   } catch (e) {
-    btn.textContent = '❌ Error — try again';
+    btn.textContent = '❌ ' + e.message;
     btn.disabled = false;
     console.error(e);
   }
@@ -132,26 +138,52 @@ async function markDoneAndGenerate(issueNumber) {
 
 async function generateNextPlan() {
   const token = getToken();
-  if (!token) { alert('Please enter your GitHub token first.'); return; }
+  if (!token) { alert('Please enter your GitHub token first (yellow box below).'); return; }
 
   const btn = event.target;
   btn.disabled = true;
-  btn.textContent = '⏳ Generating...';
+  btn.textContent = '⏳ Triggering plan...';
 
   try {
-    await fetch(`${API}/actions/workflows/daily-lesson.yml/dispatches`, {
+    const triggerRes = await fetch(`${API}/actions/workflows/daily-lesson.yml/dispatches`, {
       method: 'POST', headers: { ...authHeaders(), 'Content-Type': 'application/json' },
       body: JSON.stringify({ ref: 'main' }),
     });
+    if (!triggerRes.ok) throw new Error('Failed to trigger workflow: ' + triggerRes.status);
 
-    btn.textContent = '✅ Generating! Refreshing in 20s...';
-    btn.style.background = '#48BB78';
-    setTimeout(() => location.reload(), 20000);
+    btn.textContent = '⏳ Generating plan...';
+    await pollForNewIssue(0, btn);
+
   } catch (e) {
-    btn.textContent = '❌ Error — try again';
+    btn.textContent = '❌ ' + e.message;
     btn.disabled = false;
     console.error(e);
   }
+}
+
+async function pollForNewIssue(oldIssueNumber, btn) {
+  // Poll every 5s for up to 60s until a new issue appears
+  for (let i = 0; i < 12; i++) {
+    btn.textContent = `⏳ Generating plan... (${(i + 1) * 5}s)`;
+    await new Promise(r => setTimeout(r, 5000));
+
+    try {
+      const res = await fetch(`${API}/issues?labels=lesson-plan&state=open&per_page=1&sort=created&direction=desc`, { headers: authHeaders() });
+      if (res.ok) {
+        const issues = await res.json();
+        if (issues.length > 0 && issues[0].number !== oldIssueNumber) {
+          btn.textContent = '✅ New plan ready!';
+          btn.style.background = '#48BB78';
+          setTimeout(() => location.reload(), 1000);
+          return;
+        }
+      }
+    } catch (e) { /* keep polling */ }
+  }
+
+  // Timeout — reload anyway
+  btn.textContent = '⏳ Still generating... reloading';
+  setTimeout(() => location.reload(), 2000);
 }
 
 function markdownToHtml(md) {
