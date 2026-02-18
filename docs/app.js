@@ -44,6 +44,11 @@ let currentFilter = 'all';
 
 document.addEventListener('DOMContentLoaded', init);
 
+// Auto-refresh data when user comes back to the page (after triggering workflow)
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) init();
+});
+
 async function init() {
   const repo = getRepo();
   if (!repo) {
@@ -56,7 +61,13 @@ async function init() {
 }
 
 function getRepo() {
-  return localStorage.getItem('llp-repo') || DEFAULT_REPO;
+  const stored = localStorage.getItem('llp-repo');
+  // Clear old/invalid repo values
+  if (stored && stored.startsWith('microsoft/')) {
+    localStorage.removeItem('llp-repo');
+    return DEFAULT_REPO;
+  }
+  return stored || DEFAULT_REPO;
 }
 
 function saveConfig() {
@@ -71,10 +82,10 @@ function saveConfig() {
 
 async function loadProgress(repo) {
   try {
-    const res = await fetch(`https://raw.githubusercontent.com/${repo}/main/progress.json`);
+    const cacheBust = `?t=${Date.now()}`;
+    const res = await fetch(`https://raw.githubusercontent.com/${repo}/main/progress.json${cacheBust}`);
     if (!res.ok) {
-      // Try master branch
-      const res2 = await fetch(`https://raw.githubusercontent.com/${repo}/master/progress.json`);
+      const res2 = await fetch(`https://raw.githubusercontent.com/${repo}/master/progress.json${cacheBust}`);
       if (res2.ok) progressData = await res2.json();
     } else {
       progressData = await res.json();
