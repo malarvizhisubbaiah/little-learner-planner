@@ -49,21 +49,20 @@
 ### Phonics / Letter Sounds
 | Activity | Recommended Source | Direct Link |
 |----------|-------------------|-------------|
-| Letter tracing (A-Z) | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-of-the-alphabet |
-| Beginning sounds | Worksheet Fun | https://www.worksheetfun.com/category/preschoolkindergarten/beginning-sounds/ |
-| Letter recognition | Education.com | https://www.education.com/worksheets/preschool/reading-writing/the-alphabet/ |
+| Letter tracing (A-Z) | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet |
+| Phonics & sounds | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics |
+| Letter recognition | Education.com | https://www.education.com/worksheets/preschool/ |
 
 ### Maths / Numbers
 | Activity | Recommended Source | Direct Link |
 |----------|-------------------|-------------|
 | Counting (1-10) | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting |
-| Number tracing | Worksheet Fun | https://www.worksheetfun.com/category/preschool/number-tracing/ |
-| Shapes | Education.com | https://www.education.com/worksheets/preschool/math/geometry/ |
-| Patterns | Worksheet Fun | https://www.worksheetfun.com/category/preschool/pattern/ |
+| Shapes | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes |
+| Simple math | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math |
 
 ### Reading
 | Activity | Recommended Source | Direct Link |
 |----------|-------------------|-------------|
-| Sight words | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/sight-words |
-| Story sequencing | Teachers Pay Teachers | https://www.teacherspayteachers.com/Browse/Price-Range/Free/PreK/Search:story+sequencing |
-| Rhyming words | Education.com | https://www.education.com/worksheets/preschool/reading-writing/rhyming/ |
+| Vocabulary | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary |
+| Reading comprehension | K5 Learning | https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension |
+| Preschool worksheets | Education.com | https://www.education.com/worksheets/preschool/ |

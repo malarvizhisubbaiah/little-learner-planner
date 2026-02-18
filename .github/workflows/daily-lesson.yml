@@ -32,14 +32,24 @@ jobs:
         id: plan
         run: node .github/scripts/generate-plan.js "${{ github.event.inputs.focus_topic }}"
 
+      - name: Ensure labels exist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for label in lesson-plan phonics maths reading; do
+            gh label create "$label" --force 2>/dev/null || true
+          done
+
       - name: Create issue with lesson plan
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          TITLE=$(cat /tmp/lesson-title.txt)
+          LABELS=$(cat /tmp/lesson-labels.txt)
           gh issue create \
-            --title "$(cat /tmp/lesson-title.txt)" \
+            --title "$TITLE" \
             --body-file /tmp/lesson-plan.md \
-            --label "lesson-plan,$(cat /tmp/lesson-labels.txt)"
+            --label "$LABELS"
 
       - name: Commit updated progress
         run: |

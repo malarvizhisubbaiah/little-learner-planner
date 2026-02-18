@@ -91,22 +91,97 @@ const GAME_SCENARIOS = [
 
 const WORKSHEET_LINKS = {
   phonics: [
-    { title: "Letter Tracing Worksheets", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-of-the-alphabet" },
-    { title: "Beginning Sounds Worksheets", url: "https://www.worksheetfun.com/category/preschoolkindergarten/beginning-sounds/" },
-    { title: "Alphabet Recognition", url: "https://www.education.com/worksheets/preschool/reading-writing/the-alphabet/" },
+    { title: "Letter Tracing Worksheets (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet" },
+    { title: "Phonics & Sounds Worksheets (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics" },
+    { title: "Alphabet Worksheets (Education.com)", url: "https://www.education.com/worksheets/preschool/" },
   ],
   maths: [
-    { title: "Counting 1-10 Worksheets", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting" },
-    { title: "Number Tracing Worksheets", url: "https://www.worksheetfun.com/category/preschool/number-tracing/" },
-    { title: "Shapes Worksheets", url: "https://www.education.com/worksheets/preschool/math/geometry/" },
-    { title: "Pattern Worksheets", url: "https://www.worksheetfun.com/category/preschool/pattern/" },
+    { title: "Numbers & Counting Worksheets (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting" },
+    { title: "Shapes Worksheets (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes" },
+    { title: "Simple Math Worksheets (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math" },
   ],
   reading: [
-    { title: "Sight Words Worksheets", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/sight-words" },
-    { title: "Rhyming Words Worksheets", url: "https://www.education.com/worksheets/preschool/reading-writing/rhyming/" },
-    { title: "Story Sequencing", url: "https://www.teacherspayteachers.com/Browse/Price-Range/Free/PreK/Search:story+sequencing" },
+    { title: "Vocabulary Worksheets (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary" },
+    { title: "Reading Comprehension (K5 Learning)", url: "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension" },
+    { title: "Preschool Worksheets (Education.com)", url: "https://www.education.com/worksheets/preschool/" },
   ],
 };
+
+// ── Brain Quest–style Q&A bank (ages 3–4) ───────────────────────────────────
+
+const BRAIN_QUEST_POOL = [
+  // Colors & Shapes
+  { q: "What color is the sun?", a: "Yellow", category: "colors" },
+  { q: "What shape is a ball?", a: "Circle", category: "shapes" },
+  { q: "What color is grass?", a: "Green", category: "colors" },
+  { q: "How many sides does a triangle have?", a: "3", category: "shapes" },
+  { q: "What shape is a door?", a: "Rectangle", category: "shapes" },
+  { q: "What color is the sky on a sunny day?", a: "Blue", category: "colors" },
+  { q: "What shape are your eyes?", a: "Oval / Circle", category: "shapes" },
+  { q: "What color do you get when you mix red and yellow?", a: "Orange", category: "colors" },
+  { q: "How many corners does a square have?", a: "4", category: "shapes" },
+  { q: "What color is a fire truck?", a: "Red", category: "colors" },
+
+  // Animals
+  { q: "Which animal barks — a cat or a dog?", a: "Dog", category: "animals" },
+  { q: "Which animal says 'moo'?", a: "Cow", category: "animals" },
+  { q: "What does a cat say?", a: "Meow", category: "animals" },
+  { q: "Which animal has a long trunk?", a: "Elephant", category: "animals" },
+  { q: "Which animal hops — a frog or a fish?", a: "Frog", category: "animals" },
+  { q: "What animal gives us milk?", a: "Cow", category: "animals" },
+  { q: "Which animal has stripes — a zebra or a cow?", a: "Zebra", category: "animals" },
+  { q: "Where do fish live?", a: "In water", category: "animals" },
+  { q: "Which animal is the tallest?", a: "Giraffe", category: "animals" },
+  { q: "What does a duck say?", a: "Quack", category: "animals" },
+
+  // Counting & Numbers
+  { q: "How many fingers do you have on one hand?", a: "5", category: "numbers" },
+  { q: "What comes after 3?", a: "4", category: "numbers" },
+  { q: "How many ears do you have?", a: "2", category: "numbers" },
+  { q: "If you have 2 apples and I give you 1 more, how many?", a: "3", category: "numbers" },
+  { q: "What number comes before 5?", a: "4", category: "numbers" },
+  { q: "How many legs does a dog have?", a: "4", category: "numbers" },
+  { q: "Count the wheels on a car. How many?", a: "4", category: "numbers" },
+  { q: "What comes after 7?", a: "8", category: "numbers" },
+  { q: "How many eyes do you have?", a: "2", category: "numbers" },
+  { q: "If you eat 1 cookie from 3, how many are left?", a: "2", category: "numbers" },
+
+  // Everyday Knowledge
+  { q: "What do you wear on your feet?", a: "Shoes / Socks", category: "knowledge" },
+  { q: "What do you use to brush your teeth?", a: "Toothbrush", category: "knowledge" },
+  { q: "Is the moon out during the day or night?", a: "Night", category: "knowledge" },
+  { q: "What do we use an umbrella for?", a: "Rain / To stay dry", category: "knowledge" },
+  { q: "Which is hot — ice cream or soup?", a: "Soup", category: "knowledge" },
+  { q: "What season do leaves fall from trees?", a: "Autumn / Fall", category: "knowledge" },
+  { q: "What do you drink from — a cup or a hat?", a: "Cup", category: "knowledge" },
+  { q: "What do you wear when it's cold outside?", a: "Coat / Jacket", category: "knowledge" },
+  { q: "Which meal do you eat in the morning?", a: "Breakfast", category: "knowledge" },
+  { q: "What do bees make?", a: "Honey", category: "knowledge" },
+
+  // Letters & Sounds
+  { q: "What letter does 'apple' start with?", a: "A", category: "letters" },
+  { q: "What letter does 'cat' start with?", a: "C", category: "letters" },
+  { q: "What letter does 'dog' start with?", a: "D", category: "letters" },
+  { q: "What letter does your name start with?", a: "(Child's first letter)", category: "letters" },
+  { q: "What sound does the letter S make?", a: "Sssss", category: "letters" },
+  { q: "What rhymes with 'cat' — bat or dog?", a: "Bat", category: "letters" },
+  { q: "What letter does 'sun' start with?", a: "S", category: "letters" },
+  { q: "What rhymes with 'moon' — spoon or star?", a: "Spoon", category: "letters" },
+  { q: "Does 'ball' start with B or D?", a: "B", category: "letters" },
+  { q: "What letter does 'fish' start with?", a: "F", category: "letters" },
+
+  // Opposites & Comparisons
+  { q: "What is the opposite of big?", a: "Small", category: "opposites" },
+  { q: "What is the opposite of hot?", a: "Cold", category: "opposites" },
+  { q: "Which is bigger — an ant or an elephant?", a: "Elephant", category: "opposites" },
+  { q: "What is the opposite of happy?", a: "Sad", category: "opposites" },
+  { q: "What is the opposite of up?", a: "Down", category: "opposites" },
+  { q: "Which is faster — a car or a snail?", a: "Car", category: "opposites" },
+  { q: "What is the opposite of day?", a: "Night", category: "opposites" },
+  { q: "Which is heavier — a feather or a rock?", a: "Rock", category: "opposites" },
+  { q: "What is the opposite of open?", a: "Closed / Shut", category: "opposites" },
+  { q: "What is the opposite of loud?", a: "Quiet", category: "opposites" },
+];
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -224,6 +299,35 @@ function main() {
   const usedUrls = progress.worksheets_assigned;
   let worksheet = worksheetPool.find(w => !usedUrls.includes(w.url)) || worksheetPool[0];
 
+  // ── Pick 5 Brain Quest Questions ──────────────────────────────────────
+
+  const usedBqIndexes = progress.brain_quest_used || [];
+  const brainQuestions = [];
+  const availableBq = BRAIN_QUEST_POOL.map((q, i) => ({ ...q, idx: i }))
+    .filter(q => !usedBqIndexes.includes(q.idx));
+  
+  // Pick 5 from different categories if possible
+  const categories = [...new Set(availableBq.map(q => q.category))];
+  const pickedCategories = new Set();
+  
+  while (brainQuestions.length < 5 && availableBq.length > 0) {
+    // Prefer unpicked categories first
+    let candidates = availableBq.filter(q => !pickedCategories.has(q.category));
+    if (candidates.length === 0) candidates = availableBq;
+    const pick = candidates[Math.floor(Math.random() * candidates.length)];
+    brainQuestions.push(pick);
+    pickedCategories.add(pick.category);
+    availableBq.splice(availableBq.indexOf(pick), 1);
+  }
+
+  // If we ran out of unused questions, reset and pick random
+  if (brainQuestions.length < 5) {
+    const remaining = 5 - brainQuestions.length;
+    for (let i = 0; i < remaining; i++) {
+      brainQuestions.push(BRAIN_QUEST_POOL[Math.floor(Math.random() * BRAIN_QUEST_POOL.length)]);
+    }
+  }
+
   // ── Build Markdown ────────────────────────────────────────────────────
 
   let md = `## 📚 Day ${day} — Little Learner Lesson Plan\n\n`;
@@ -245,11 +349,19 @@ function main() {
   md += `### 📝 Today's Worksheet\n`;
   md += `**[${worksheet.title}](${worksheet.url})**\n\n`;
   md += `---\n\n`;
+  md += `### 🧠 Brain Quest — Daily 5 Questions\n\n`;
+  md += `*Read each question to your child. Celebrate every answer — even silly ones!*\n\n`;
+  brainQuestions.forEach((bq, i) => {
+    md += `**Q${i + 1}.** ${bq.q}\n`;
+    md += `<details><summary>Show Answer</summary>${bq.a}</details>\n\n`;
+  });
+  md += `---\n\n`;
   md += `### 📊 Progress So Far\n`;
   md += `- **Letters covered:** ${[...progress.phonics.letters_covered, letter].join(', ') || 'Starting today!'}\n`;
   md += `- **Maths topics:** ${progress.maths.topics_covered.length + 1} of ${progress.maths.topics_pool.length}\n`;
   md += `- **Reading skills:** ${progress.reading.topics_covered.length + 1} of ${progress.reading.topics_pool.length}\n`;
   md += `- **Books read:** ${[...progress.reading.books_read, book].length}\n`;
+  md += `- **Brain Quest questions answered:** ${(progress.brain_quest_used || []).length + brainQuestions.length} of ${BRAIN_QUEST_POOL.length}\n`;
   md += `\n---\n*Generated by Little Learner Planner 🎓*\n`;
 
   const title = `📚 Day ${day} Lesson Plan — Focus: ${focus} | Letter: ${letter}`;
@@ -296,6 +408,18 @@ function main() {
   });
   // Keep sliding window of last 5 days' scenarios
   progress.activities_used.scenarios_used_last_5_days = progress.activities_used.all_scenarios_hashes.slice(-30);
+
+  // Brain Quest: track used question indexes
+  if (!progress.brain_quest_used) progress.brain_quest_used = [];
+  brainQuestions.forEach(bq => {
+    if (bq.idx !== undefined && !progress.brain_quest_used.includes(bq.idx)) {
+      progress.brain_quest_used.push(bq.idx);
+    }
+  });
+  // Reset when all questions used
+  if (progress.brain_quest_used.length >= BRAIN_QUEST_POOL.length) {
+    progress.brain_quest_used = [];
+  }
 
   // History entry
   progress.history.push({

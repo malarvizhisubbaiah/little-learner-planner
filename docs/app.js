@@ -391,9 +391,19 @@ function generateLocalPlan() {
 
         <div class="worksheet-section">
           <h3>📝 Today's Worksheet</h3>
-          <a href="https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-of-the-alphabet" target="_blank">
+          <a href="https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet" target="_blank">
             Letter Tracing Worksheets — K5 Learning (Free) ↗
           </a>
+        </div>
+
+        <div class="brain-quest-section" style="background:#EBF5FF;border:1px solid #BEE3F8;border-radius:12px;padding:1rem 1.25rem;margin-top:1rem;">
+          <h3 style="color:#2B6CB0;margin-bottom:0.75rem;">🧠 Brain Quest — Daily 5</h3>
+          <p style="font-size:0.85rem;color:#4A5568;margin-bottom:0.75rem;"><em>Read each question aloud. Celebrate every answer!</em></p>
+          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q1.</strong> What color is the sun? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Yellow':'→ Show Answer'">→ Show Answer</span></div>
+          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q2.</strong> Which animal barks — a cat or a dog? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Dog':'→ Show Answer'">→ Show Answer</span></div>
+          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q3.</strong> How many fingers on one hand? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ 5':'→ Show Answer'">→ Show Answer</span></div>
+          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q4.</strong> What do you wear on your feet? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Shoes / Socks':'→ Show Answer'">→ Show Answer</span></div>
+          <div class="bq-question" style="margin-bottom:0.5rem;"><strong>Q5.</strong> What is the opposite of big? <span style="color:#6C63FF;cursor:pointer;" onclick="this.textContent=this.textContent==='→ Show Answer'?'→ Small':'→ Show Answer'">→ Show Answer</span></div>
         </div>
       </div>
     </div>`;
