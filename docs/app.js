@@ -77,7 +77,7 @@ function renderButtons(issue, isDone) {
   const tokenBox = !hasToken ? `
     <div style="margin-top:1rem;padding:1rem;background:#FFF3CD;border-radius:12px;border:1px solid #FFEAA7;text-align:left;max-width:500px;margin-left:auto;margin-right:auto;">
       <p style="font-size:0.85rem;margin-bottom:0.5rem;">🔑 <strong>One-time setup:</strong> Enter a GitHub token to enable buttons.</p>
-      <p style="font-size:0.75rem;color:#666;margin-bottom:0.5rem;">Create one at <a href="https://github.com/settings/tokens/new?scopes=repo&description=Little+Learner+Planner" target="_blank">github.com/settings/tokens</a> with <code>repo</code> scope.</p>
+      <p style="font-size:0.75rem;color:#666;margin-bottom:0.5rem;">Create a <strong>Classic</strong> token at <a href="https://github.com/settings/tokens/new?scopes=repo&description=Little+Learner+Planner" target="_blank">github.com/settings/tokens</a> → select <code>repo</code> scope → Generate.</p>
       <div style="display:flex;gap:0.5rem;">
         <input type="password" id="token-input" placeholder="ghp_xxxxxxxxxxxx" style="flex:1;padding:0.4rem 0.75rem;border:1px solid #ddd;border-radius:8px;font-size:0.85rem;">
         <button onclick="saveToken()" style="padding:0.4rem 1rem;background:#6C63FF;color:white;border:none;border-radius:8px;cursor:pointer;">Save</button>
