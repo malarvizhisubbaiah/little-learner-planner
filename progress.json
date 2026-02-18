@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 1,
+  "current_day": 2,
   "phonics": {
     "progression": [
       "S",
@@ -34,9 +34,10 @@
       "Q"
     ],
     "letters_covered": [
-      "S"
+      "S",
+      "A"
     ],
-    "current_index": 1,
+    "current_index": 2,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -72,7 +73,9 @@
       "number-writing-6-10"
     ],
     "topics_covered": [
-      "patterns-AABB"
+      "patterns-AABB",
+      "shape-hunt",
+      "sorting-by-shape"
     ],
     "current_index": 0
   },
@@ -100,10 +103,13 @@
       "feelings-in-stories"
     ],
     "topics_covered": [
-      "repetition-in-stories"
+      "repetition-in-stories",
+      "point-to-words"
     ],
     "current_index": 0,
-    "books_read": []
+    "books_read": [
+      "The Three Billy Goats Gruff"
+    ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
@@ -112,7 +118,13 @@
       "-tm8g74",
       "-6o69mx",
       "-vqi1ia",
-      "2qvsf6"
+      "2qvsf6",
+      "ktakfo",
+      "p3ir4u",
+      "ycxga8",
+      "j3bl2i",
+      "wlk1wd",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -120,18 +132,30 @@
       "-tm8g74",
       "-6o69mx",
       "-vqi1ia",
-      "2qvsf6"
+      "2qvsf6",
+      "ktakfo",
+      "p3ir4u",
+      "ycxga8",
+      "j3bl2i",
+      "wlk1wd",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
   ],
   "brain_quest_used": [
     1,
     42,
     24,
     17,
-    35
+    35,
+    31,
+    29,
+    53,
+    7,
+    48
   ],
   "history": [
     {
@@ -143,6 +167,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "The Gruffalo",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 2,
+      "date": "2026-02-18",
+      "focus": "maths",
+      "letter": "A",
+      "maths_topic": "sorting-by-shape",
+      "reading_topic": "point-to-words",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
