@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 1,
+  "current_day": 2,
   "phonics": {
     "progression": [
       "S",
@@ -72,7 +72,9 @@
       "number-writing-6-10"
     ],
     "topics_covered": [
-      "sorting-by-shape"
+      "sorting-by-shape",
+      "shape-hunt",
+      "ordering-by-size"
     ],
     "current_index": 0
   },
@@ -100,11 +102,13 @@
       "feelings-in-stories"
     ],
     "topics_covered": [
-      "feelings-in-stories"
+      "feelings-in-stories",
+      "point-to-words"
     ],
     "current_index": 0,
     "books_read": [
-      "Elmer the Elephant"
+      "Elmer the Elephant",
+      "We're Going on a Bear Hunt"
     ]
   },
   "books_library": [
@@ -136,7 +140,13 @@
       "-st09hv",
       "-yd8lpj",
       "-r33t18",
-      "j3bl2i"
+      "j3bl2i",
+      "-x1l3sz",
+      "7eah8l",
+      "ycxga8",
+      "-nn78ac",
+      "wlk1wd",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-oko8cg",
@@ -144,18 +154,30 @@
       "-st09hv",
       "-yd8lpj",
       "-r33t18",
-      "j3bl2i"
+      "j3bl2i",
+      "-x1l3sz",
+      "7eah8l",
+      "ycxga8",
+      "-nn78ac",
+      "wlk1wd",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
   ],
   "brain_quest_used": [
     3,
     39,
     52,
     25,
-    46
+    46,
+    32,
+    17,
+    8,
+    43,
+    2
   ],
   "history": [
     {
@@ -167,6 +189,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "Elmer the Elephant",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 2,
+      "date": "2026-02-18",
+      "focus": "maths",
+      "letter": "S",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "point-to-words",
+      "book": "We're Going on a Bear Hunt",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
