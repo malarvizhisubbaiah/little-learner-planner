@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 3,
+  "current_day": 4,
   "phonics": {
     "progression": [
       "S",
@@ -36,9 +36,10 @@
     "letters_covered": [
       "S",
       "A",
-      "T"
+      "T",
+      "P"
     ],
-    "current_index": 3,
+    "current_index": 4,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -77,7 +78,8 @@
       "patterns-AABB",
       "shape-hunt",
       "sorting-by-shape",
-      "finger-counting"
+      "finger-counting",
+      "more-or-less"
     ],
     "current_index": 0
   },
@@ -108,12 +110,14 @@
       "repetition-in-stories",
       "point-to-words",
       "book-handling",
-      "story-retelling"
+      "story-retelling",
+      "feelings-in-stories"
     ],
     "current_index": 0,
     "books_read": [
       "The Three Billy Goats Gruff",
-      "My Body"
+      "My Body",
+      "Goldilocks and the Three Bears"
     ]
   },
   "activities_used": {
@@ -135,7 +139,13 @@
       "-mldfdj",
       "8jexik",
       "-285mf2",
-      "c02xxf"
+      "c02xxf",
+      "ocbkup",
+      "-oxp8n3",
+      "-st09hv",
+      "-pbto60",
+      "-b0s5ev",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -155,13 +165,20 @@
       "-mldfdj",
       "8jexik",
       "-285mf2",
-      "c02xxf"
+      "c02xxf",
+      "ocbkup",
+      "-oxp8n3",
+      "-st09hv",
+      "-pbto60",
+      "-b0s5ev",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting",
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics"
   ],
   "brain_quest_used": [
     1,
@@ -178,7 +195,12 @@
     21,
     4,
     12,
-    56
+    56,
+    59,
+    14,
+    30,
+    43,
+    26
   ],
   "history": [
     {
@@ -210,6 +232,16 @@
       "reading_topic": "story-retelling",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 4,
+      "date": "2026-02-19",
+      "focus": "phonics",
+      "letter": "P",
+      "maths_topic": "more-or-less",
+      "reading_topic": "feelings-in-stories",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics"
     }
   ]
 }
