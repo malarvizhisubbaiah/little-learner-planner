@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 4,
+  "current_day": 5,
   "phonics": {
     "progression": [
       "S",
@@ -37,9 +37,10 @@
       "S",
       "A",
       "T",
-      "P"
+      "P",
+      "I"
     ],
-    "current_index": 4,
+    "current_index": 5,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -79,7 +80,9 @@
       "shape-hunt",
       "sorting-by-shape",
       "finger-counting",
-      "more-or-less"
+      "more-or-less",
+      "counting-1-to-5",
+      "counting-to-15"
     ],
     "current_index": 0
   },
@@ -111,13 +114,15 @@
       "point-to-words",
       "book-handling",
       "story-retelling",
-      "feelings-in-stories"
+      "feelings-in-stories",
+      "cover-prediction"
     ],
     "current_index": 0,
     "books_read": [
       "The Three Billy Goats Gruff",
       "My Body",
-      "Goldilocks and the Three Bears"
+      "Goldilocks and the Three Bears",
+      "1 2 3 Count With Me"
     ]
   },
   "activities_used": {
@@ -145,7 +150,13 @@
       "-st09hv",
       "-pbto60",
       "-b0s5ev",
-      "-nn78ac"
+      "-nn78ac",
+      "-2dj27j",
+      "-smc7sh",
+      "cbnfsc",
+      "-stt7ag",
+      "-zbpkgb",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -171,14 +182,21 @@
       "-st09hv",
       "-pbto60",
       "-b0s5ev",
-      "-nn78ac"
+      "-nn78ac",
+      "-2dj27j",
+      "-smc7sh",
+      "cbnfsc",
+      "-stt7ag",
+      "-zbpkgb",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary",
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes"
   ],
   "brain_quest_used": [
     1,
@@ -200,7 +218,12 @@
     14,
     30,
     43,
-    26
+    26,
+    49,
+    2,
+    39,
+    16,
+    22
   ],
   "history": [
     {
@@ -242,6 +265,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics"
+    },
+    {
+      "day": 5,
+      "date": "2026-02-20",
+      "focus": "maths",
+      "letter": "I",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "cover-prediction",
+      "book": "1 2 3 Count With Me",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes"
     }
   ]
 }
