@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 5,
+  "current_day": 6,
   "phonics": {
     "progression": [
       "S",
@@ -38,9 +38,10 @@
       "A",
       "T",
       "P",
-      "I"
+      "I",
+      "N"
     ],
-    "current_index": 5,
+    "current_index": 6,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -82,7 +83,8 @@
       "finger-counting",
       "more-or-less",
       "counting-1-to-5",
-      "counting-to-15"
+      "counting-to-15",
+      "ordering-by-size"
     ],
     "current_index": 0
   },
@@ -115,24 +117,21 @@
       "book-handling",
       "story-retelling",
       "feelings-in-stories",
-      "cover-prediction"
+      "cover-prediction",
+      "print-awareness",
+      "who-what-where-questions"
     ],
     "current_index": 0,
     "books_read": [
       "The Three Billy Goats Gruff",
       "My Body",
       "Goldilocks and the Three Bears",
-      "1 2 3 Count With Me"
+      "1 2 3 Count With Me",
+      "Brave Irene"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-x1l3sz",
-      "hwl7ua",
-      "-tm8g74",
-      "-6o69mx",
-      "-vqi1ia",
-      "2qvsf6",
       "ktakfo",
       "p3ir4u",
       "ycxga8",
@@ -156,7 +155,13 @@
       "cbnfsc",
       "-stt7ag",
       "-zbpkgb",
-      "gixxy9"
+      "gixxy9",
+      "-e3e8fk",
+      "7eah8l",
+      "-u7g3q8",
+      "-j0fvl8",
+      "331s5i",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -188,7 +193,13 @@
       "cbnfsc",
       "-stt7ag",
       "-zbpkgb",
-      "gixxy9"
+      "gixxy9",
+      "-e3e8fk",
+      "7eah8l",
+      "-u7g3q8",
+      "-j0fvl8",
+      "331s5i",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -196,7 +207,8 @@
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics",
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension"
   ],
   "brain_quest_used": [
     1,
@@ -223,7 +235,12 @@
     2,
     39,
     16,
-    22
+    22,
+    18,
+    47,
+    51,
+    20,
+    5
   ],
   "history": [
     {
@@ -275,6 +292,16 @@
       "reading_topic": "cover-prediction",
       "book": "1 2 3 Count With Me",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes"
+    },
+    {
+      "day": 6,
+      "date": "2026-02-21",
+      "focus": "reading",
+      "letter": "N",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "who-what-where-questions",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension"
     }
   ]
 }
