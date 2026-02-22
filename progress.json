@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 6,
+  "current_day": 7,
   "phonics": {
     "progression": [
       "S",
@@ -39,9 +39,10 @@
       "T",
       "P",
       "I",
-      "N"
+      "N",
+      "M"
     ],
-    "current_index": 6,
+    "current_index": 7,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -84,7 +85,8 @@
       "more-or-less",
       "counting-1-to-5",
       "counting-to-15",
-      "ordering-by-size"
+      "ordering-by-size",
+      "sorting-by-color"
     ],
     "current_index": 0
   },
@@ -119,7 +121,8 @@
       "feelings-in-stories",
       "cover-prediction",
       "print-awareness",
-      "who-what-where-questions"
+      "who-what-where-questions",
+      "name-recognition"
     ],
     "current_index": 0,
     "books_read": [
@@ -127,17 +130,12 @@
       "My Body",
       "Goldilocks and the Three Bears",
       "1 2 3 Count With Me",
-      "Brave Irene"
+      "Brave Irene",
+      "Animals in Winter"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "ktakfo",
-      "p3ir4u",
-      "ycxga8",
-      "j3bl2i",
-      "wlk1wd",
-      "-yd8lpj",
       "s5rlwt",
       "to4cgf",
       "-mldfdj",
@@ -161,7 +159,13 @@
       "-u7g3q8",
       "-j0fvl8",
       "331s5i",
-      "-87vknw"
+      "-87vknw",
+      "xv8qwg",
+      "-cilvl0",
+      "-nzj9ge",
+      "-ri749c",
+      "-hwztbv",
+      "-6o69mx"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -199,7 +203,13 @@
       "-u7g3q8",
       "-j0fvl8",
       "331s5i",
-      "-87vknw"
+      "-87vknw",
+      "xv8qwg",
+      "-cilvl0",
+      "-nzj9ge",
+      "-ri749c",
+      "-hwztbv",
+      "-6o69mx"
     ]
   },
   "worksheets_assigned": [
@@ -208,7 +218,8 @@
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes",
-    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension"
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension",
+    "https://www.education.com/worksheets/preschool/"
   ],
   "brain_quest_used": [
     1,
@@ -240,7 +251,12 @@
     47,
     51,
     20,
-    5
+    5,
+    0,
+    34,
+    28,
+    8,
+    40
   ],
   "history": [
     {
@@ -302,6 +318,16 @@
       "reading_topic": "who-what-where-questions",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension"
+    },
+    {
+      "day": 7,
+      "date": "2026-02-22",
+      "focus": "phonics",
+      "letter": "M",
+      "maths_topic": "sorting-by-color",
+      "reading_topic": "name-recognition",
+      "book": "Animals in Winter",
+      "worksheet": "https://www.education.com/worksheets/preschool/"
     }
   ]
 }
