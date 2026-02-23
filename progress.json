@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 7,
+  "current_day": 8,
   "phonics": {
     "progression": [
       "S",
@@ -40,9 +40,10 @@
       "P",
       "I",
       "N",
-      "M"
+      "M",
+      "D"
     ],
-    "current_index": 7,
+    "current_index": 8,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -86,7 +87,9 @@
       "counting-1-to-5",
       "counting-to-15",
       "ordering-by-size",
-      "sorting-by-color"
+      "sorting-by-color",
+      "measurement-with-blocks",
+      "number-recognition-1-3"
     ],
     "current_index": 0
   },
@@ -122,7 +125,8 @@
       "cover-prediction",
       "print-awareness",
       "who-what-where-questions",
-      "name-recognition"
+      "name-recognition",
+      "connect-story-to-life"
     ],
     "current_index": 0,
     "books_read": [
@@ -131,17 +135,12 @@
       "Goldilocks and the Three Bears",
       "1 2 3 Count With Me",
       "Brave Irene",
-      "Animals in Winter"
+      "Animals in Winter",
+      "Library Lion"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "s5rlwt",
-      "to4cgf",
-      "-mldfdj",
-      "8jexik",
-      "-285mf2",
-      "c02xxf",
       "ocbkup",
       "-oxp8n3",
       "-st09hv",
@@ -165,7 +164,13 @@
       "-nzj9ge",
       "-ri749c",
       "-hwztbv",
-      "-6o69mx"
+      "-6o69mx",
+      "-po5f2j",
+      "-ysgf43",
+      "-kg85v4",
+      "2qvsf6",
+      "-91ikis",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -209,7 +214,13 @@
       "-nzj9ge",
       "-ri749c",
       "-hwztbv",
-      "-6o69mx"
+      "-6o69mx",
+      "-po5f2j",
+      "-ysgf43",
+      "-kg85v4",
+      "2qvsf6",
+      "-91ikis",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -219,7 +230,8 @@
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/phonics",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/shapes",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/reading-comprehension",
-    "https://www.education.com/worksheets/preschool/"
+    "https://www.education.com/worksheets/preschool/",
+    "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
   "brain_quest_used": [
     1,
@@ -256,7 +268,12 @@
     34,
     28,
     8,
-    40
+    40,
+    52,
+    32,
+    3,
+    13,
+    45
   ],
   "history": [
     {
@@ -328,6 +345,16 @@
       "reading_topic": "name-recognition",
       "book": "Animals in Winter",
       "worksheet": "https://www.education.com/worksheets/preschool/"
+    },
+    {
+      "day": 8,
+      "date": "2026-02-23",
+      "focus": "maths",
+      "letter": "D",
+      "maths_topic": "number-recognition-1-3",
+      "reading_topic": "connect-story-to-life",
+      "book": "Library Lion",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
     }
   ]
 }
