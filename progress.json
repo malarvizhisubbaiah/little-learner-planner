@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 10,
+  "current_day": 11,
   "phonics": {
     "progression": [
       "S",
@@ -43,9 +43,10 @@
       "M",
       "D",
       "G",
-      "O"
+      "O",
+      "C"
     ],
-    "current_index": 10,
+    "current_index": 11,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -93,7 +94,9 @@
       "measurement-with-blocks",
       "number-recognition-1-3",
       "number-writing-1-5",
-      "tall-short-comparison"
+      "tall-short-comparison",
+      "counting-to-20",
+      "shapes-triangle-rectangle"
     ],
     "current_index": 0
   },
@@ -133,7 +136,8 @@
       "connect-story-to-life",
       "rhyming-in-stories",
       "make-a-book",
-      "picture-dictionary"
+      "picture-dictionary",
+      "picture-walk"
     ],
     "current_index": 0,
     "books_read": [
@@ -145,17 +149,12 @@
       "Animals in Winter",
       "Library Lion",
       "Stellaluna",
-      "My Family"
+      "My Family",
+      "Clark the Shark"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-e3e8fk",
-      "7eah8l",
-      "-u7g3q8",
-      "-j0fvl8",
-      "331s5i",
-      "-87vknw",
       "xv8qwg",
       "-cilvl0",
       "-nzj9ge",
@@ -179,7 +178,13 @@
       "-liuanj",
       "8jexik",
       "k2ggel",
-      "-pbto60"
+      "-pbto60",
+      "nqb7zs",
+      "g7o4iw",
+      "tgmhkf",
+      "c02xxf",
+      "-66s437",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -241,7 +246,13 @@
       "-liuanj",
       "8jexik",
       "k2ggel",
-      "-pbto60"
+      "-pbto60",
+      "nqb7zs",
+      "g7o4iw",
+      "tgmhkf",
+      "c02xxf",
+      "-66s437",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -304,7 +315,12 @@
     6,
     36,
     57,
-    41
+    41,
+    10,
+    23,
+    44,
+    54,
+    38
   ],
   "history": [
     {
@@ -406,6 +422,16 @@
       "reading_topic": "picture-dictionary",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 11,
+      "date": "2026-02-26",
+      "focus": "maths",
+      "letter": "C",
+      "maths_topic": "shapes-triangle-rectangle",
+      "reading_topic": "picture-walk",
+      "book": "Clark the Shark",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
