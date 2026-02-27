@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 11,
+  "current_day": 12,
   "phonics": {
     "progression": [
       "S",
@@ -44,9 +44,10 @@
       "D",
       "G",
       "O",
-      "C"
+      "C",
+      "K"
     ],
-    "current_index": 11,
+    "current_index": 12,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -96,7 +97,8 @@
       "number-writing-1-5",
       "tall-short-comparison",
       "counting-to-20",
-      "shapes-triangle-rectangle"
+      "shapes-triangle-rectangle",
+      "addition-with-objects-to-3"
     ],
     "current_index": 0
   },
@@ -137,7 +139,9 @@
       "rhyming-in-stories",
       "make-a-book",
       "picture-dictionary",
-      "picture-walk"
+      "picture-walk",
+      "find-letters-in-name",
+      "favorite-book-revisit"
     ],
     "current_index": 0,
     "books_read": [
@@ -150,17 +154,12 @@
       "Library Lion",
       "Stellaluna",
       "My Family",
-      "Clark the Shark"
+      "Clark the Shark",
+      "Carla's Sandwich"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "xv8qwg",
-      "-cilvl0",
-      "-nzj9ge",
-      "-ri749c",
-      "-hwztbv",
-      "-6o69mx",
       "-po5f2j",
       "-ysgf43",
       "-kg85v4",
@@ -184,7 +183,13 @@
       "tgmhkf",
       "c02xxf",
       "-66s437",
-      "gixxy9"
+      "gixxy9",
+      "bzva8b",
+      "-f7nk2v",
+      "k6e7qn",
+      "-87vknw",
+      "rkdu9z",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -252,7 +257,13 @@
       "tgmhkf",
       "c02xxf",
       "-66s437",
-      "gixxy9"
+      "gixxy9",
+      "bzva8b",
+      "-f7nk2v",
+      "k6e7qn",
+      "-87vknw",
+      "rkdu9z",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -265,63 +276,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    1,
-    42,
-    24,
-    17,
-    35,
-    31,
-    29,
-    53,
-    7,
-    48,
-    9,
-    21,
-    4,
-    12,
-    56,
-    59,
-    14,
-    30,
-    43,
-    26,
-    49,
-    2,
-    39,
-    16,
-    22,
-    18,
-    47,
-    51,
-    20,
-    5,
-    0,
-    34,
-    28,
-    8,
-    40,
-    52,
-    32,
-    3,
-    13,
-    45,
-    58,
-    15,
-    33,
-    25,
-    46,
-    19,
-    6,
-    36,
-    57,
-    41,
-    10,
-    23,
-    44,
-    54,
-    38
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -432,6 +387,16 @@
       "reading_topic": "picture-walk",
       "book": "Clark the Shark",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 12,
+      "date": "2026-02-27",
+      "focus": "reading",
+      "letter": "K",
+      "maths_topic": "addition-with-objects-to-3",
+      "reading_topic": "favorite-book-revisit",
+      "book": "Carla's Sandwich",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
