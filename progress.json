@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 13,
+  "current_day": 14,
   "phonics": {
     "progression": [
       "S",
@@ -46,9 +46,10 @@
       "O",
       "C",
       "K",
-      "E"
+      "E",
+      "U"
     ],
-    "current_index": 13,
+    "current_index": 14,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -100,7 +101,9 @@
       "counting-to-20",
       "shapes-triangle-rectangle",
       "addition-with-objects-to-3",
-      "number-writing-6-10"
+      "number-writing-6-10",
+      "number-bonds-to-5",
+      "counting-1-to-10"
     ],
     "current_index": 0
   },
@@ -144,7 +147,8 @@
       "picture-walk",
       "find-letters-in-name",
       "favorite-book-revisit",
-      "new-vocabulary-words"
+      "new-vocabulary-words",
+      "turning-pages"
     ],
     "current_index": 0,
     "books_read": [
@@ -159,17 +163,12 @@
       "My Family",
       "Clark the Shark",
       "Carla's Sandwich",
-      "The Little Red Hen"
+      "The Little Red Hen",
+      "Chester's Way"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-t0vjdf",
-      "euaeef",
-      "fdkdu6",
-      "-yd8lpj",
-      "qjokh3",
-      "-ctopef",
       "-8i7qu2",
       "42k0b0",
       "-liuanj",
@@ -193,7 +192,13 @@
       "-otqon4",
       "-nn78ac",
       "7o893c",
-      "-j0fvl8"
+      "-j0fvl8",
+      "2r8ajk",
+      "b21lyb",
+      "-7q4gyd",
+      "2qvsf6",
+      "y5vgct",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -273,7 +278,13 @@
       "-otqon4",
       "-nn78ac",
       "7o893c",
-      "-j0fvl8"
+      "-j0fvl8",
+      "2r8ajk",
+      "b21lyb",
+      "-7q4gyd",
+      "2qvsf6",
+      "y5vgct",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -291,7 +302,12 @@
     38,
     5,
     4,
-    50
+    50,
+    8,
+    58,
+    49,
+    14,
+    35
   ],
   "history": [
     {
@@ -423,6 +439,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 14,
+      "date": "2026-03-01",
+      "focus": "maths",
+      "letter": "U",
+      "maths_topic": "counting-1-to-10",
+      "reading_topic": "turning-pages",
+      "book": "Chester's Way",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
