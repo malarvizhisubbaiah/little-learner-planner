@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 14,
+  "current_day": 15,
   "phonics": {
     "progression": [
       "S",
@@ -47,9 +47,10 @@
       "C",
       "K",
       "E",
-      "U"
+      "U",
+      "R"
     ],
-    "current_index": 14,
+    "current_index": 15,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -103,7 +104,8 @@
       "addition-with-objects-to-3",
       "number-writing-6-10",
       "number-bonds-to-5",
-      "counting-1-to-10"
+      "counting-1-to-10",
+      "number-recognition-4-6"
     ],
     "current_index": 0
   },
@@ -148,7 +150,9 @@
       "find-letters-in-name",
       "favorite-book-revisit",
       "new-vocabulary-words",
-      "turning-pages"
+      "turning-pages",
+      "predict-what-happens-next",
+      "retell-with-toys"
     ],
     "current_index": 0,
     "books_read": [
@@ -164,17 +168,12 @@
       "Clark the Shark",
       "Carla's Sandwich",
       "The Little Red Hen",
-      "Chester's Way"
+      "Chester's Way",
+      "Shapes Around Us"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-8i7qu2",
-      "42k0b0",
-      "-liuanj",
-      "8jexik",
-      "k2ggel",
-      "-pbto60",
       "nqb7zs",
       "g7o4iw",
       "tgmhkf",
@@ -198,7 +197,13 @@
       "-7q4gyd",
       "2qvsf6",
       "y5vgct",
-      "j3bl2i"
+      "j3bl2i",
+      "s33umb",
+      "-lsluj",
+      "il3pt0",
+      "-yd8lpj",
+      "8nu5c7",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -284,7 +289,13 @@
       "-7q4gyd",
       "2qvsf6",
       "y5vgct",
-      "j3bl2i"
+      "j3bl2i",
+      "s33umb",
+      "-lsluj",
+      "il3pt0",
+      "-yd8lpj",
+      "8nu5c7",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -307,7 +318,12 @@
     58,
     49,
     14,
-    35
+    35,
+    0,
+    33,
+    56,
+    48,
+    20
   ],
   "history": [
     {
@@ -449,6 +465,16 @@
       "reading_topic": "turning-pages",
       "book": "Chester's Way",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 15,
+      "date": "2026-03-02",
+      "focus": "reading",
+      "letter": "R",
+      "maths_topic": "number-recognition-4-6",
+      "reading_topic": "retell-with-toys",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
