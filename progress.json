@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 15,
+  "current_day": 16,
   "phonics": {
     "progression": [
       "S",
@@ -48,9 +48,10 @@
       "K",
       "E",
       "U",
-      "R"
+      "R",
+      "H"
     ],
-    "current_index": 15,
+    "current_index": 16,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -105,7 +106,8 @@
       "number-writing-6-10",
       "number-bonds-to-5",
       "counting-1-to-10",
-      "number-recognition-4-6"
+      "number-recognition-4-6",
+      "patterns-ABAB"
     ],
     "current_index": 0
   },
@@ -169,17 +171,12 @@
       "Carla's Sandwich",
       "The Little Red Hen",
       "Chester's Way",
-      "Shapes Around Us"
+      "Shapes Around Us",
+      "Enemy Pie"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "nqb7zs",
-      "g7o4iw",
-      "tgmhkf",
-      "c02xxf",
-      "-66s437",
-      "gixxy9",
       "bzva8b",
       "-f7nk2v",
       "k6e7qn",
@@ -203,7 +200,13 @@
       "il3pt0",
       "-yd8lpj",
       "8nu5c7",
-      "-ctopef"
+      "-ctopef",
+      "-tjj2er",
+      "cno7ay",
+      "ycxga8",
+      "-6o69mx",
+      "-tjj2er",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -295,7 +298,13 @@
       "il3pt0",
       "-yd8lpj",
       "8nu5c7",
-      "-ctopef"
+      "-ctopef",
+      "-tjj2er",
+      "cno7ay",
+      "ycxga8",
+      "-6o69mx",
+      "-tjj2er",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -323,7 +332,12 @@
     33,
     56,
     48,
-    20
+    20,
+    16,
+    41,
+    59,
+    2,
+    30
   ],
   "history": [
     {
@@ -475,6 +489,16 @@
       "reading_topic": "retell-with-toys",
       "book": "Shapes Around Us",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 16,
+      "date": "2026-03-03",
+      "focus": "phonics",
+      "letter": "H",
+      "maths_topic": "patterns-ABAB",
+      "reading_topic": "point-to-words",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
