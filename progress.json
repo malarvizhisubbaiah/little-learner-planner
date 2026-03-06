@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 18,
+  "current_day": 19,
   "phonics": {
     "progression": [
       "S",
@@ -51,9 +51,10 @@
       "R",
       "H",
       "B",
-      "F"
+      "F",
+      "L"
     ],
-    "current_index": 18,
+    "current_index": 19,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -112,7 +113,8 @@
       "patterns-ABAB",
       "number-recognition-7-10",
       "shapes-circle-square",
-      "subtraction-with-objects"
+      "subtraction-with-objects",
+      "addition-with-objects-to-5"
     ],
     "current_index": 0
   },
@@ -180,17 +182,12 @@
       "Shapes Around Us",
       "Enemy Pie",
       "What Is Weather?",
-      "At the Park"
+      "At the Park",
+      "Colors Everywhere"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "2r8ajk",
-      "b21lyb",
-      "-7q4gyd",
-      "2qvsf6",
-      "y5vgct",
-      "j3bl2i",
       "s33umb",
       "-lsluj",
       "il3pt0",
@@ -214,7 +211,13 @@
       "-7q4gyd",
       "-stt7ag",
       "-285mf2",
-      "-pbto60"
+      "-pbto60",
+      "7pqwsp",
+      "-h95fnj",
+      "ycxga8",
+      "-nn78ac",
+      "7pqwsp",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -324,7 +327,13 @@
       "-7q4gyd",
       "-stt7ag",
       "-285mf2",
-      "-pbto60"
+      "-pbto60",
+      "7pqwsp",
+      "-h95fnj",
+      "ycxga8",
+      "-nn78ac",
+      "7pqwsp",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -367,7 +376,12 @@
     42,
     52,
     3,
-    26
+    26,
+    17,
+    47,
+    32,
+    6,
+    53
   ],
   "history": [
     {
@@ -549,6 +563,16 @@
       "reading_topic": "turning-pages",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 19,
+      "date": "2026-03-06",
+      "focus": "phonics",
+      "letter": "L",
+      "maths_topic": "addition-with-objects-to-5",
+      "reading_topic": "point-to-words",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
