@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 19,
+  "current_day": 20,
   "phonics": {
     "progression": [
       "S",
@@ -52,9 +52,10 @@
       "H",
       "B",
       "F",
-      "L"
+      "L",
+      "J"
     ],
-    "current_index": 19,
+    "current_index": 20,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -114,7 +115,9 @@
       "number-recognition-7-10",
       "shapes-circle-square",
       "subtraction-with-objects",
-      "addition-with-objects-to-5"
+      "addition-with-objects-to-5",
+      "story-problems",
+      "big-small-comparison"
     ],
     "current_index": 0
   },
@@ -183,17 +186,12 @@
       "Enemy Pie",
       "What Is Weather?",
       "At the Park",
-      "Colors Everywhere"
+      "Colors Everywhere",
+      "A Bad Case of Stripes"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "s33umb",
-      "-lsluj",
-      "il3pt0",
-      "-yd8lpj",
-      "8nu5c7",
-      "-ctopef",
       "-tjj2er",
       "cno7ay",
       "ycxga8",
@@ -217,7 +215,13 @@
       "ycxga8",
       "-nn78ac",
       "7pqwsp",
-      "-87vknw"
+      "-87vknw",
+      "olny6j",
+      "-3ns982",
+      "fdkdu6",
+      "2qvsf6",
+      "6pdfza",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -333,7 +337,13 @@
       "ycxga8",
       "-nn78ac",
       "7pqwsp",
-      "-87vknw"
+      "-87vknw",
+      "olny6j",
+      "-3ns982",
+      "fdkdu6",
+      "2qvsf6",
+      "6pdfza",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -381,7 +391,12 @@
     47,
     32,
     6,
-    53
+    53,
+    22,
+    34,
+    51,
+    9,
+    11
   ],
   "history": [
     {
@@ -573,6 +588,16 @@
       "reading_topic": "point-to-words",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 20,
+      "date": "2026-03-07",
+      "focus": "maths",
+      "letter": "J",
+      "maths_topic": "big-small-comparison",
+      "reading_topic": "make-a-book",
+      "book": "A Bad Case of Stripes",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
