@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 20,
+  "current_day": 21,
   "phonics": {
     "progression": [
       "S",
@@ -53,9 +53,10 @@
       "B",
       "F",
       "L",
-      "J"
+      "J",
+      "V"
     ],
-    "current_index": 20,
+    "current_index": 21,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -117,7 +118,8 @@
       "subtraction-with-objects",
       "addition-with-objects-to-5",
       "story-problems",
-      "big-small-comparison"
+      "big-small-comparison",
+      "sorting-by-size"
     ],
     "current_index": 0
   },
@@ -165,7 +167,8 @@
       "turning-pages",
       "predict-what-happens-next",
       "retell-with-toys",
-      "book-handling"
+      "book-handling",
+      "feelings-in-stories"
     ],
     "current_index": 0,
     "books_read": [
@@ -187,17 +190,12 @@
       "What Is Weather?",
       "At the Park",
       "Colors Everywhere",
-      "A Bad Case of Stripes"
+      "A Bad Case of Stripes",
+      "The Ugly Duckling"
     ]
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-tjj2er",
-      "cno7ay",
-      "ycxga8",
-      "-6o69mx",
-      "-tjj2er",
-      "8jexik",
       "l481qr",
       "-vez2ia",
       "-liuanj",
@@ -221,7 +219,13 @@
       "fdkdu6",
       "2qvsf6",
       "6pdfza",
-      "gixxy9"
+      "gixxy9",
+      "-5oq85d",
+      "-43t8fa",
+      "fdkdu6",
+      "j3bl2i",
+      "-st09hv",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -343,7 +347,13 @@
       "fdkdu6",
       "2qvsf6",
       "6pdfza",
-      "gixxy9"
+      "gixxy9",
+      "-5oq85d",
+      "-43t8fa",
+      "fdkdu6",
+      "j3bl2i",
+      "-st09hv",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -396,7 +406,12 @@
     34,
     51,
     9,
-    11
+    11,
+    55,
+    12,
+    25,
+    43,
+    37
   ],
   "history": [
     {
@@ -598,6 +613,16 @@
       "reading_topic": "make-a-book",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 21,
+      "date": "2026-03-08",
+      "focus": "reading",
+      "letter": "V",
+      "maths_topic": "sorting-by-size",
+      "reading_topic": "make-a-book",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
