@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 21,
+  "current_day": 22,
   "phonics": {
     "progression": [
       "S",
@@ -54,9 +54,10 @@
       "F",
       "L",
       "J",
-      "V"
+      "V",
+      "W"
     ],
-    "current_index": 21,
+    "current_index": 22,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -196,12 +197,6 @@
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "l481qr",
-      "-vez2ia",
-      "-liuanj",
-      "c02xxf",
-      "-18ggzd",
-      "-ri749c",
       "-cnm10x",
       "-3n33t4",
       "-7q4gyd",
@@ -225,7 +220,13 @@
       "fdkdu6",
       "j3bl2i",
       "-st09hv",
-      "-ctopef"
+      "-ctopef",
+      "-e4oqua",
+      "-3ns982",
+      "-liuanj",
+      "-6o69mx",
+      "-e4oqua",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -353,7 +354,13 @@
       "fdkdu6",
       "j3bl2i",
       "-st09hv",
-      "-ctopef"
+      "-ctopef",
+      "-e4oqua",
+      "-3ns982",
+      "-liuanj",
+      "-6o69mx",
+      "-e4oqua",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -411,7 +418,12 @@
     12,
     25,
     43,
-    37
+    37,
+    45,
+    10,
+    24,
+    36,
+    57
   ],
   "history": [
     {
@@ -623,6 +635,16 @@
       "reading_topic": "make-a-book",
       "book": "The Ugly Duckling",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 22,
+      "date": "2026-03-09",
+      "focus": "phonics",
+      "letter": "W",
+      "maths_topic": "big-small-comparison",
+      "reading_topic": "picture-dictionary",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
