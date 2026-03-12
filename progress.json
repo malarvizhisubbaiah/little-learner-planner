@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 24,
+  "current_day": 25,
   "phonics": {
     "progression": [
       "S",
@@ -57,9 +57,10 @@
       "V",
       "W",
       "X",
-      "Y"
+      "Y",
+      "Z"
     ],
-    "current_index": 24,
+    "current_index": 25,
     "blending_started": false,
     "cvc_words_practiced": []
   },
@@ -201,12 +202,6 @@
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "olny6j",
-      "-3ns982",
-      "fdkdu6",
-      "2qvsf6",
-      "6pdfza",
-      "gixxy9",
       "-5oq85d",
       "-43t8fa",
       "fdkdu6",
@@ -230,7 +225,13 @@
       "8nu5c7",
       "8jexik",
       "k6e7qn",
-      "-stt7ag"
+      "-stt7ag",
+      "vkjr23",
+      "-ysgf43",
+      "8nu5c7",
+      "-nn78ac",
+      "vkjr23",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -376,7 +377,13 @@
       "8nu5c7",
       "8jexik",
       "k6e7qn",
-      "-stt7ag"
+      "-stt7ag",
+      "vkjr23",
+      "-ysgf43",
+      "8nu5c7",
+      "-nn78ac",
+      "vkjr23",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -389,7 +396,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    28,
+    54,
+    47,
+    9,
+    15
+  ],
   "history": [
     {
       "day": 1,
@@ -630,6 +643,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 25,
+      "date": "2026-03-12",
+      "focus": "phonics",
+      "letter": "Z",
+      "maths_topic": "number-recognition-1-3",
+      "reading_topic": "predict-what-happens-next",
+      "book": "Clark the Shark",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
