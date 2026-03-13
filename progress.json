@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 25,
+  "current_day": 26,
   "phonics": {
     "progression": [
       "S",
@@ -58,7 +58,8 @@
       "W",
       "X",
       "Y",
-      "Z"
+      "Z",
+      "Q"
     ],
     "current_index": 25,
     "blending_started": false,
@@ -124,7 +125,8 @@
       "story-problems",
       "big-small-comparison",
       "sorting-by-size",
-      "ordering-by-size"
+      "ordering-by-size",
+      "counting-1-to-10"
     ],
     "current_index": 0
   },
@@ -202,12 +204,6 @@
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-5oq85d",
-      "-43t8fa",
-      "fdkdu6",
-      "j3bl2i",
-      "-st09hv",
-      "-ctopef",
       "-e4oqua",
       "-3ns982",
       "-liuanj",
@@ -231,7 +227,13 @@
       "8nu5c7",
       "-nn78ac",
       "vkjr23",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-h95fnj",
+      "-nzj9ge",
+      "2qvsf6",
+      "b21lyb",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -383,7 +385,13 @@
       "8nu5c7",
       "-nn78ac",
       "vkjr23",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-h95fnj",
+      "-nzj9ge",
+      "2qvsf6",
+      "b21lyb",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -401,7 +409,12 @@
     54,
     47,
     9,
-    15
+    15,
+    42,
+    11,
+    8,
+    5,
+    27
   ],
   "history": [
     {
@@ -653,6 +666,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Clark the Shark",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 26,
+      "date": "2026-03-13",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-5",
+      "reading_topic": "name-recognition",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
