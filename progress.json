@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 26,
+  "current_day": 27,
   "phonics": {
     "progression": [
       "S",
@@ -176,7 +176,8 @@
       "retell-with-toys",
       "book-handling",
       "feelings-in-stories",
-      "favorite-book-revisit"
+      "favorite-book-revisit",
+      "name-recognition"
     ],
     "current_index": 0,
     "books_read": [
@@ -204,12 +205,6 @@
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-e4oqua",
-      "-3ns982",
-      "-liuanj",
-      "-6o69mx",
-      "-e4oqua",
-      "-j0fvl8",
       "-mkn9j7",
       "-ysgf43",
       "tgmhkf",
@@ -233,7 +228,13 @@
       "-nzj9ge",
       "2qvsf6",
       "b21lyb",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-oxp8n3",
+      "-mldfdj",
+      "-87vknw",
+      "-nzj9ge",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -391,7 +392,13 @@
       "-nzj9ge",
       "2qvsf6",
       "b21lyb",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-oxp8n3",
+      "-mldfdj",
+      "-87vknw",
+      "-nzj9ge",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -414,7 +421,12 @@
     11,
     8,
     5,
-    27
+    27,
+    21,
+    19,
+    7,
+    49,
+    37
   ],
   "history": [
     {
@@ -676,6 +688,16 @@
       "reading_topic": "name-recognition",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 27,
+      "date": "2026-03-14",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "more-or-less",
+      "reading_topic": "story-retelling",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
