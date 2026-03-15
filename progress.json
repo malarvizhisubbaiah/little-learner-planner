@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 27,
+  "current_day": 28,
   "phonics": {
     "progression": [
       "S",
@@ -205,12 +205,6 @@
   },
   "activities_used": {
     "scenarios_used_last_5_days": [
-      "-mkn9j7",
-      "-ysgf43",
-      "tgmhkf",
-      "-yd8lpj",
-      "7eah8l",
-      "c02xxf",
       "-v0ls84",
       "42k0b0",
       "8nu5c7",
@@ -234,7 +228,13 @@
       "-mldfdj",
       "-87vknw",
       "-nzj9ge",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "to4cgf",
+      "331s5i",
+      "-6o69mx",
+      "-yi1onw",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -398,7 +398,13 @@
       "-mldfdj",
       "-87vknw",
       "-nzj9ge",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "to4cgf",
+      "331s5i",
+      "-6o69mx",
+      "-yi1onw",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -426,7 +432,12 @@
     19,
     7,
     49,
-    37
+    37,
+    38,
+    56,
+    29,
+    10,
+    6
   ],
   "history": [
     {
@@ -698,6 +709,16 @@
       "reading_topic": "story-retelling",
       "book": "What Is Weather?",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 28,
+      "date": "2026-03-15",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "finger-counting",
+      "reading_topic": "print-awareness",
+      "book": "The Little Red Hen",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
