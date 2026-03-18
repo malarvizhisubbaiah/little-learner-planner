@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 30,
+  "current_day": 31,
   "phonics": {
     "progression": [
       "S",
@@ -208,12 +208,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-h95fnj",
-      "-nzj9ge",
-      "2qvsf6",
-      "b21lyb",
-      "gixxy9",
-      "-yi1onw",
       "-oxp8n3",
       "-mldfdj",
       "-87vknw",
@@ -236,7 +230,13 @@
       "331s5i",
       "j3bl2i",
       "-liuanj",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-smc7sh",
+      "-kg85v4",
+      "-pbto60",
+      "-yi1onw",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -418,7 +418,13 @@
       "331s5i",
       "j3bl2i",
       "-liuanj",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-smc7sh",
+      "-kg85v4",
+      "-pbto60",
+      "-yi1onw",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -461,7 +467,12 @@
     30,
     26,
     58,
-    18
+    18,
+    34,
+    13,
+    59,
+    41,
+    2
   ],
   "history": [
     {
@@ -763,6 +774,16 @@
       "reading_topic": "print-awareness",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 31,
+      "date": "2026-03-18",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "connect-story-to-life",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
