@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 31,
+  "current_day": 32,
   "phonics": {
     "progression": [
       "S",
@@ -127,7 +127,8 @@
       "sorting-by-size",
       "ordering-by-size",
       "counting-1-to-10",
-      "shapes-circle-square"
+      "shapes-circle-square",
+      "number-writing-6-10"
     ],
     "current_index": 0
   },
@@ -208,12 +209,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-oxp8n3",
-      "-mldfdj",
-      "-87vknw",
-      "-nzj9ge",
-      "-ctopef",
-      "-yi1onw",
       "to4cgf",
       "331s5i",
       "-6o69mx",
@@ -236,7 +231,13 @@
       "-kg85v4",
       "-pbto60",
       "-yi1onw",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-91ikis",
+      "-otqon4",
+      "-nn78ac",
+      "885ub1",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -424,7 +425,13 @@
       "-kg85v4",
       "-pbto60",
       "-yi1onw",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-91ikis",
+      "-otqon4",
+      "-nn78ac",
+      "885ub1",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -472,7 +479,12 @@
     13,
     59,
     41,
-    2
+    2,
+    12,
+    36,
+    50,
+    22,
+    0
   ],
   "history": [
     {
@@ -784,6 +796,16 @@
       "reading_topic": "connect-story-to-life",
       "book": "What Is Weather?",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 32,
+      "date": "2026-03-19",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "measurement-with-blocks",
+      "reading_topic": "new-vocabulary-words",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
