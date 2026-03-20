@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 32,
+  "current_day": 33,
   "phonics": {
     "progression": [
       "S",
@@ -180,7 +180,8 @@
       "feelings-in-stories",
       "favorite-book-revisit",
       "name-recognition",
-      "picture-dictionary"
+      "picture-dictionary",
+      "repetition-in-stories"
     ],
     "current_index": 0,
     "books_read": [
@@ -209,12 +210,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "to4cgf",
-      "331s5i",
-      "-6o69mx",
-      "-yi1onw",
-      "-ri749c",
-      "-yi1onw",
       "cno7ay",
       "-tm8g74",
       "-j0fvl8",
@@ -237,7 +232,13 @@
       "-otqon4",
       "-nn78ac",
       "885ub1",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-oxp8n3",
+      "-mldfdj",
+      "-87vknw",
+      "-tm8g74",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -431,7 +432,13 @@
       "-otqon4",
       "-nn78ac",
       "885ub1",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-oxp8n3",
+      "-mldfdj",
+      "-87vknw",
+      "-tm8g74",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -484,7 +491,12 @@
     36,
     50,
     22,
-    0
+    0,
+    52,
+    32,
+    4,
+    25,
+    40
   ],
   "history": [
     {
@@ -806,6 +818,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 33,
+      "date": "2026-03-20",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "more-or-less",
+      "reading_topic": "story-retelling",
+      "book": "1 2 3 Count With Me",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
