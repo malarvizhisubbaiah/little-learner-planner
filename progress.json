@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 33,
+  "current_day": 34,
   "phonics": {
     "progression": [
       "S",
@@ -210,12 +210,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "cno7ay",
-      "-tm8g74",
-      "-j0fvl8",
-      "-vez2ia",
-      "-yd8lpj",
-      "-yi1onw",
       "6pdfza",
       "331s5i",
       "j3bl2i",
@@ -238,7 +232,13 @@
       "-mldfdj",
       "-87vknw",
       "-tm8g74",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "wlk1wd",
+      "-mldfdj",
+      "c02xxf",
+      "-yi1onw",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -438,7 +438,13 @@
       "-mldfdj",
       "-87vknw",
       "-tm8g74",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "wlk1wd",
+      "-mldfdj",
+      "c02xxf",
+      "-yi1onw",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -496,7 +502,12 @@
     32,
     4,
     25,
-    40
+    40,
+    44,
+    55,
+    35,
+    16,
+    20
   ],
   "history": [
     {
@@ -828,6 +839,16 @@
       "reading_topic": "story-retelling",
       "book": "1 2 3 Count With Me",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 34,
+      "date": "2026-03-21",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "shape-hunt",
+      "reading_topic": "story-retelling",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
