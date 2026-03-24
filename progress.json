@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 36,
+  "current_day": 37,
   "phonics": {
     "progression": [
       "S",
@@ -212,12 +212,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-91ikis",
-      "-otqon4",
-      "-nn78ac",
-      "885ub1",
-      "2qvsf6",
-      "-yi1onw",
       "-oxp8n3",
       "-mldfdj",
       "-87vknw",
@@ -240,7 +234,13 @@
       "-7q4gyd",
       "j3bl2i",
       "-kg85v4",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-43t8fa",
+      "fdkdu6",
+      "-j0fvl8",
+      "-yi1onw",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -458,7 +458,13 @@
       "-7q4gyd",
       "j3bl2i",
       "-kg85v4",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-43t8fa",
+      "fdkdu6",
+      "-j0fvl8",
+      "-yi1onw",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -471,7 +477,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    24,
+    47,
+    4,
+    37,
+    13
+  ],
   "history": [
     {
       "day": 1,
@@ -832,6 +844,16 @@
       "reading_topic": "turning-pages",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 37,
+      "date": "2026-03-24",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "sorting-by-size",
+      "reading_topic": "make-a-book",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
