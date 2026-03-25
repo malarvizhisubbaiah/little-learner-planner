@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 37,
+  "current_day": 38,
   "phonics": {
     "progression": [
       "S",
@@ -129,6 +129,7 @@
       "counting-1-to-10",
       "shapes-circle-square",
       "number-writing-6-10",
+      "big-small-comparison",
       "big-small-comparison"
     ],
     "current_index": 0
@@ -212,12 +213,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-oxp8n3",
-      "-mldfdj",
-      "-87vknw",
-      "-tm8g74",
-      "-ctopef",
-      "-yi1onw",
       "wlk1wd",
       "-mldfdj",
       "c02xxf",
@@ -240,7 +235,13 @@
       "fdkdu6",
       "-j0fvl8",
       "-yi1onw",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-h95fnj",
+      "-liuanj",
+      "8jexik",
+      "-3ns982",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -464,7 +465,13 @@
       "fdkdu6",
       "-j0fvl8",
       "-yi1onw",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-h95fnj",
+      "-liuanj",
+      "8jexik",
+      "-3ns982",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -482,7 +489,12 @@
     47,
     4,
     37,
-    13
+    13,
+    43,
+    52,
+    38,
+    26,
+    12
   ],
   "history": [
     {
@@ -854,6 +866,16 @@
       "reading_topic": "make-a-book",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 38,
+      "date": "2026-03-25",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-5",
+      "reading_topic": "picture-dictionary",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
