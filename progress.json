@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 39,
+  "current_day": 40,
   "phonics": {
     "progression": [
       "S",
@@ -214,12 +214,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-vez2ia",
-      "-nzj9ge",
-      "-6o69mx",
-      "-3ns982",
-      "gixxy9",
-      "-yi1onw",
       "-smc7sh",
       "-7q4gyd",
       "j3bl2i",
@@ -242,7 +236,13 @@
       "-otqon4",
       "-nn78ac",
       "-285mf2",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-66s437",
+      "ycxga8",
+      "c02xxf",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -478,7 +478,13 @@
       "-otqon4",
       "-nn78ac",
       "-285mf2",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-66s437",
+      "ycxga8",
+      "c02xxf",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -506,7 +512,12 @@
     23,
     2,
     58,
-    35
+    35,
+    7,
+    8,
+    22,
+    45,
+    10
   ],
   "history": [
     {
@@ -898,6 +909,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "Animals in Winter",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 40,
+      "date": "2026-03-27",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "point-to-words",
+      "book": "A Bad Case of Stripes",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
