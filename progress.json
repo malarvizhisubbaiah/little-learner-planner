@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 40,
+  "current_day": 41,
   "phonics": {
     "progression": [
       "S",
@@ -130,7 +130,8 @@
       "shapes-circle-square",
       "number-writing-6-10",
       "big-small-comparison",
-      "big-small-comparison"
+      "big-small-comparison",
+      "counting-1-to-10"
     ],
     "current_index": 0
   },
@@ -214,12 +215,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "-7q4gyd",
-      "j3bl2i",
-      "-kg85v4",
-      "-stt7ag",
-      "-yi1onw",
       "-43t8fa",
       "fdkdu6",
       "-j0fvl8",
@@ -242,7 +237,13 @@
       "ycxga8",
       "c02xxf",
       "-yi1onw",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "885ub1",
+      "-liuanj",
+      "-ri749c",
+      "b21lyb",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -484,7 +485,13 @@
       "ycxga8",
       "c02xxf",
       "-yi1onw",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "885ub1",
+      "-liuanj",
+      "-ri749c",
+      "b21lyb",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -517,7 +524,12 @@
     8,
     22,
     45,
-    10
+    10,
+    5,
+    55,
+    49,
+    31,
+    19
   ],
   "history": [
     {
@@ -919,6 +931,16 @@
       "reading_topic": "point-to-words",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 41,
+      "date": "2026-03-28",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "picture-dictionary",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
