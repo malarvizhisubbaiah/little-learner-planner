@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 42,
+  "current_day": 43,
   "phonics": {
     "progression": [
       "S",
@@ -216,12 +216,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-h95fnj",
-      "-liuanj",
-      "8jexik",
-      "-3ns982",
-      "-yd8lpj",
-      "-yi1onw",
       "-cilvl0",
       "-otqon4",
       "-nn78ac",
@@ -244,7 +238,13 @@
       "qjokh3",
       "-6o69mx",
       "8nu5c7",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-zbpkgb",
+      "k6e7qn",
+      "-pbto60",
+      "-yi1onw",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -498,7 +498,13 @@
       "qjokh3",
       "-6o69mx",
       "8nu5c7",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-zbpkgb",
+      "k6e7qn",
+      "-pbto60",
+      "-yi1onw",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -541,7 +547,12 @@
     54,
     14,
     0,
-    29
+    29,
+    56,
+    11,
+    27,
+    40,
+    36
   ],
   "history": [
     {
@@ -963,6 +974,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 43,
+      "date": "2026-03-30",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-5",
+      "reading_topic": "favorite-book-revisit",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
