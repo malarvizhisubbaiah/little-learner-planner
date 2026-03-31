@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 43,
+  "current_day": 44,
   "phonics": {
     "progression": [
       "S",
@@ -131,7 +131,8 @@
       "number-writing-6-10",
       "big-small-comparison",
       "big-small-comparison",
-      "counting-1-to-10"
+      "counting-1-to-10",
+      "number-writing-6-10"
     ],
     "current_index": 0
   },
@@ -216,12 +217,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-cilvl0",
-      "-otqon4",
-      "-nn78ac",
-      "-285mf2",
-      "2qvsf6",
-      "-yi1onw",
       "-66s437",
       "ycxga8",
       "c02xxf",
@@ -244,7 +239,13 @@
       "k6e7qn",
       "-pbto60",
       "-yi1onw",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "-66s437",
+      "331s5i",
+      "-yd8lpj",
+      "885ub1",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -504,7 +505,13 @@
       "k6e7qn",
       "-pbto60",
       "-yi1onw",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "-66s437",
+      "331s5i",
+      "-yd8lpj",
+      "885ub1",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -552,7 +559,12 @@
     11,
     27,
     40,
-    36
+    36,
+    15,
+    9,
+    20,
+    51,
+    30
   ],
   "history": [
     {
@@ -984,6 +996,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 44,
+      "date": "2026-03-31",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "print-awareness",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
