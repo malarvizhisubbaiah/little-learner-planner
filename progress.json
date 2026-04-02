@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 45,
+  "current_day": 46,
   "phonics": {
     "progression": [
       "S",
@@ -218,12 +218,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "-liuanj",
-      "-ri749c",
-      "b21lyb",
-      "-ctopef",
-      "-yi1onw",
       "-91ikis",
       "qjokh3",
       "-6o69mx",
@@ -246,7 +240,13 @@
       "rkdu9z",
       "8jexik",
       "-liuanj",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "to4cgf",
+      "il3pt0",
+      "2qvsf6",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -518,7 +518,13 @@
       "rkdu9z",
       "8jexik",
       "-liuanj",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "to4cgf",
+      "il3pt0",
+      "2qvsf6",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -576,7 +582,12 @@
     21,
     42,
     50,
-    3
+    3,
+    17,
+    46,
+    39,
+    25,
+    57
   ],
   "history": [
     {
@@ -1028,6 +1039,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "Library Lion",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 46,
+      "date": "2026-04-02",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "finger-counting",
+      "reading_topic": "retell-with-toys",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
