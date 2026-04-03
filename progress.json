@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 46,
+  "current_day": 47,
   "phonics": {
     "progression": [
       "S",
@@ -132,7 +132,8 @@
       "big-small-comparison",
       "big-small-comparison",
       "counting-1-to-10",
-      "number-writing-6-10"
+      "number-writing-6-10",
+      "number-bonds-to-5"
     ],
     "current_index": 0
   },
@@ -218,12 +219,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-91ikis",
-      "qjokh3",
-      "-6o69mx",
-      "8nu5c7",
-      "gixxy9",
-      "-yi1onw",
       "-zbpkgb",
       "k6e7qn",
       "-pbto60",
@@ -246,7 +241,13 @@
       "il3pt0",
       "2qvsf6",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "885ub1",
+      "-285mf2",
+      "-ri749c",
+      "y5vgct",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -524,7 +525,13 @@
       "il3pt0",
       "2qvsf6",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "885ub1",
+      "-285mf2",
+      "-ri749c",
+      "y5vgct",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -587,7 +594,12 @@
     46,
     39,
     25,
-    57
+    57,
+    53,
+    28,
+    16,
+    41,
+    1
   ],
   "history": [
     {
@@ -1049,6 +1061,16 @@
       "reading_topic": "retell-with-toys",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 47,
+      "date": "2026-04-03",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "book-handling",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
