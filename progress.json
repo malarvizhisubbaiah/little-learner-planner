@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 47,
+  "current_day": 48,
   "phonics": {
     "progression": [
       "S",
@@ -190,7 +190,8 @@
       "connect-story-to-life",
       "book-handling",
       "predict-what-happens-next",
-      "picture-dictionary"
+      "picture-dictionary",
+      "predict-what-happens-next"
     ],
     "current_index": 0,
     "books_read": [
@@ -219,12 +220,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-zbpkgb",
-      "k6e7qn",
-      "-pbto60",
-      "-yi1onw",
-      "-j0fvl8",
-      "-yi1onw",
       "-66s437",
       "331s5i",
       "-yd8lpj",
@@ -247,7 +242,13 @@
       "-285mf2",
       "-ri749c",
       "y5vgct",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-zbpkgb",
+      "-285mf2",
+      "-ctopef",
+      "8nu5c7",
+      "-6o69mx"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -531,7 +532,13 @@
       "-285mf2",
       "-ri749c",
       "y5vgct",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-zbpkgb",
+      "-285mf2",
+      "-ctopef",
+      "8nu5c7",
+      "-6o69mx"
     ]
   },
   "worksheets_assigned": [
@@ -544,63 +551,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    24,
-    47,
-    4,
-    37,
-    13,
-    43,
-    52,
-    38,
-    26,
-    12,
-    48,
-    23,
-    2,
-    58,
-    35,
-    7,
-    8,
-    22,
-    45,
-    10,
-    5,
-    55,
-    49,
-    31,
-    19,
-    34,
-    54,
-    14,
-    0,
-    29,
-    56,
-    11,
-    27,
-    40,
-    36,
-    15,
-    9,
-    20,
-    51,
-    30,
-    33,
-    21,
-    42,
-    50,
-    3,
-    17,
-    46,
-    39,
-    25,
-    57,
-    53,
-    28,
-    16,
-    41,
-    1
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -1071,6 +1022,16 @@
       "reading_topic": "book-handling",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 48,
+      "date": "2026-04-04",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-5",
+      "reading_topic": "book-handling",
+      "book": "At the Park",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
