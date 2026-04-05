@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 48,
+  "current_day": 49,
   "phonics": {
     "progression": [
       "S",
@@ -220,12 +220,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-66s437",
-      "331s5i",
-      "-yd8lpj",
-      "885ub1",
-      "j3bl2i",
-      "-yi1onw",
       "-43t8fa",
       "rkdu9z",
       "8jexik",
@@ -248,7 +242,13 @@
       "-285mf2",
       "-ctopef",
       "8nu5c7",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-oxp8n3",
+      "-u7g3q8",
+      "-pbto60",
+      "-yi1onw",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -538,7 +538,13 @@
       "-285mf2",
       "-ctopef",
       "8nu5c7",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-oxp8n3",
+      "-u7g3q8",
+      "-pbto60",
+      "-yi1onw",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -551,7 +557,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    27,
+    46,
+    35,
+    6,
+    18
+  ],
   "history": [
     {
       "day": 1,
@@ -1032,6 +1044,16 @@
       "reading_topic": "book-handling",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 49,
+      "date": "2026-04-05",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "more-or-less",
+      "reading_topic": "who-what-where-questions",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
