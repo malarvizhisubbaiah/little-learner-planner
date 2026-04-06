@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 49,
+  "current_day": 50,
   "phonics": {
     "progression": [
       "S",
@@ -133,7 +133,8 @@
       "big-small-comparison",
       "counting-1-to-10",
       "number-writing-6-10",
-      "number-bonds-to-5"
+      "number-bonds-to-5",
+      "counting-1-to-5"
     ],
     "current_index": 0
   },
@@ -220,12 +221,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-43t8fa",
-      "rkdu9z",
-      "8jexik",
-      "-liuanj",
-      "-nn78ac",
-      "-yi1onw",
       "to4cgf",
       "il3pt0",
       "2qvsf6",
@@ -248,7 +243,13 @@
       "-u7g3q8",
       "-pbto60",
       "-yi1onw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-h95fnj",
+      "tgmhkf",
+      "gixxy9",
+      "-zbpkgb",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -544,7 +545,13 @@
       "-u7g3q8",
       "-pbto60",
       "-yi1onw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-h95fnj",
+      "tgmhkf",
+      "gixxy9",
+      "-zbpkgb",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -562,7 +569,12 @@
     46,
     35,
     6,
-    18
+    18,
+    58,
+    31,
+    43,
+    17,
+    5
   ],
   "history": [
     {
@@ -1054,6 +1066,16 @@
       "reading_topic": "who-what-where-questions",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 50,
+      "date": "2026-04-06",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-5",
+      "reading_topic": "picture-walk",
+      "book": "At the Park",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
