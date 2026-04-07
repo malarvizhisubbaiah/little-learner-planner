@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 50,
+  "current_day": 51,
   "phonics": {
     "progression": [
       "S",
@@ -192,7 +192,8 @@
       "book-handling",
       "predict-what-happens-next",
       "picture-dictionary",
-      "predict-what-happens-next"
+      "predict-what-happens-next",
+      "repetition-in-stories"
     ],
     "current_index": 0,
     "books_read": [
@@ -221,12 +222,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "to4cgf",
-      "il3pt0",
-      "2qvsf6",
-      "-yi1onw",
-      "c02xxf",
-      "-yi1onw",
       "885ub1",
       "-285mf2",
       "-ri749c",
@@ -249,7 +244,13 @@
       "tgmhkf",
       "gixxy9",
       "-zbpkgb",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "euaeef",
+      "rkdu9z",
+      "-j0fvl8",
+      "-tm8g74",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -551,7 +552,13 @@
       "tgmhkf",
       "gixxy9",
       "-zbpkgb",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "euaeef",
+      "rkdu9z",
+      "-j0fvl8",
+      "-tm8g74",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -574,7 +581,12 @@
     31,
     43,
     17,
-    5
+    5,
+    13,
+    28,
+    2,
+    44,
+    32
   ],
   "history": [
     {
@@ -1076,6 +1088,16 @@
       "reading_topic": "picture-walk",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 51,
+      "date": "2026-04-07",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "find-letters-in-name",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
