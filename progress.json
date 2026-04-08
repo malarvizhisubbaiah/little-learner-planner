@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 51,
+  "current_day": 52,
   "phonics": {
     "progression": [
       "S",
@@ -222,12 +222,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "-285mf2",
-      "-ri749c",
-      "y5vgct",
-      "-87vknw",
-      "-yi1onw",
       "-zbpkgb",
       "-285mf2",
       "-ctopef",
@@ -250,7 +244,13 @@
       "rkdu9z",
       "-j0fvl8",
       "-tm8g74",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-66s437",
+      "rkdu9z",
+      "-nn78ac",
+      "-yi1onw",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -558,7 +558,13 @@
       "rkdu9z",
       "-j0fvl8",
       "-tm8g74",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-66s437",
+      "rkdu9z",
+      "-nn78ac",
+      "-yi1onw",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -586,7 +592,12 @@
     28,
     2,
     44,
-    32
+    32,
+    8,
+    22,
+    11,
+    57,
+    42
   ],
   "history": [
     {
@@ -1098,6 +1109,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 52,
+      "date": "2026-04-08",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "find-letters-in-name",
+      "book": "Carla's Sandwich",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
