@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 53,
+  "current_day": 54,
   "phonics": {
     "progression": [
       "S",
@@ -194,7 +194,8 @@
       "predict-what-happens-next",
       "picture-dictionary",
       "predict-what-happens-next",
-      "repetition-in-stories"
+      "repetition-in-stories",
+      "predict-what-happens-next"
     ],
     "current_index": 0,
     "books_read": [
@@ -223,12 +224,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-oxp8n3",
-      "-u7g3q8",
-      "-pbto60",
-      "-yi1onw",
-      "-stt7ag",
-      "-yi1onw",
       "-h95fnj",
       "tgmhkf",
       "gixxy9",
@@ -251,7 +246,13 @@
       "-mldfdj",
       "-ri749c",
       "-lsluj",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-3ns982",
+      "-mldfdj",
+      "-6o69mx",
+      "8nu5c7",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -571,7 +572,13 @@
       "-mldfdj",
       "-ri749c",
       "-lsluj",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-3ns982",
+      "-mldfdj",
+      "-6o69mx",
+      "8nu5c7",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -609,7 +616,12 @@
     36,
     51,
     41,
-    20
+    20,
+    4,
+    19,
+    21,
+    50,
+    34
   ],
   "history": [
     {
@@ -1141,6 +1153,16 @@
       "reading_topic": "story-retelling",
       "book": "Chester's Way",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 54,
+      "date": "2026-04-10",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "big-small-comparison",
+      "reading_topic": "story-retelling",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
