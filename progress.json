@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 57,
+  "current_day": 58,
   "phonics": {
     "progression": [
       "S",
@@ -226,12 +226,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "cno7ay",
-      "-mldfdj",
-      "-ri749c",
-      "-lsluj",
-      "-87vknw",
-      "-yi1onw",
       "-3ns982",
       "-mldfdj",
       "-6o69mx",
@@ -254,7 +248,13 @@
       "k6e7qn",
       "-yd8lpj",
       "-liuanj",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "885ub1",
+      "-u7g3q8",
+      "8jexik",
+      "-yi1onw",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -598,7 +598,13 @@
       "k6e7qn",
       "-yd8lpj",
       "-liuanj",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "885ub1",
+      "-u7g3q8",
+      "8jexik",
+      "-yi1onw",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -656,7 +662,12 @@
     54,
     45,
     30,
-    26
+    26,
+    56,
+    9,
+    24,
+    40,
+    15
   ],
   "history": [
     {
@@ -1228,6 +1239,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "Stellaluna",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 58,
+      "date": "2026-04-14",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "who-what-where-questions",
+      "book": "Clark the Shark",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
