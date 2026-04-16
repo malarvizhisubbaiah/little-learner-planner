@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 59,
+  "current_day": 60,
   "phonics": {
     "progression": [
       "S",
@@ -198,7 +198,8 @@
       "predict-what-happens-next",
       "repetition-in-stories",
       "predict-what-happens-next",
-      "picture-dictionary"
+      "picture-dictionary",
+      "find-letters-in-name"
     ],
     "current_index": 0,
     "books_read": [
@@ -227,12 +228,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-43t8fa",
-      "-otqon4",
-      "c02xxf",
-      "-yi1onw",
-      "-stt7ag",
-      "-yi1onw",
       "885ub1",
       "-liuanj",
       "j3bl2i",
@@ -255,7 +250,13 @@
       "-tm8g74",
       "-ri749c",
       "-66s437",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "-vez2ia",
+      "-mldfdj",
+      "-ctopef",
+      "rkdu9z",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -611,7 +612,13 @@
       "-tm8g74",
       "-ri749c",
       "-66s437",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "-vez2ia",
+      "-mldfdj",
+      "-ctopef",
+      "rkdu9z",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -624,63 +631,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    27,
-    46,
-    35,
-    6,
-    18,
-    58,
-    31,
-    43,
-    17,
-    5,
-    13,
-    28,
-    2,
-    44,
-    32,
-    8,
-    22,
-    11,
-    57,
-    42,
-    16,
-    36,
-    51,
-    41,
-    20,
-    4,
-    19,
-    21,
-    50,
-    34,
-    33,
-    47,
-    3,
-    53,
-    29,
-    38,
-    48,
-    23,
-    0,
-    1,
-    10,
-    54,
-    45,
-    30,
-    26,
-    56,
-    9,
-    24,
-    40,
-    15,
-    25,
-    37,
-    59,
-    12,
-    49
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -1271,6 +1222,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "Shapes Around Us",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 60,
+      "date": "2026-04-16",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "shapes-circle-square",
+      "reading_topic": "story-retelling",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
