@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 60,
+  "current_day": 61,
   "phonics": {
     "progression": [
       "S",
@@ -228,12 +228,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "-liuanj",
-      "j3bl2i",
-      "885ub1",
-      "gixxy9",
-      "-yi1onw",
       "hwl7ua",
       "k6e7qn",
       "-yd8lpj",
@@ -256,7 +250,13 @@
       "-mldfdj",
       "-ctopef",
       "rkdu9z",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "euaeef",
+      "ycxga8",
+      "-nn78ac",
+      "-yi1onw",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -618,7 +618,13 @@
       "-mldfdj",
       "-ctopef",
       "rkdu9z",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "euaeef",
+      "ycxga8",
+      "-nn78ac",
+      "-yi1onw",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -631,7 +637,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    28,
+    13,
+    48,
+    34,
+    58
+  ],
   "history": [
     {
       "day": 1,
@@ -1232,6 +1244,16 @@
       "reading_topic": "story-retelling",
       "book": "Shapes Around Us",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 61,
+      "date": "2026-04-17",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "point-to-words",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
