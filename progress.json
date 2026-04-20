@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 63,
+  "current_day": 64,
   "phonics": {
     "progression": [
       "S",
@@ -230,12 +230,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "-tm8g74",
-      "-ri749c",
-      "-66s437",
-      "-j0fvl8",
-      "-yi1onw",
       "-vez2ia",
       "-mldfdj",
       "-ctopef",
@@ -258,7 +252,13 @@
       "-u7g3q8",
       "c02xxf",
       "-st09hv",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "42k0b0",
+      "8nu5c7",
+      "2qvsf6",
+      "-yi1onw",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -638,7 +638,13 @@
       "-u7g3q8",
       "c02xxf",
       "-st09hv",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "42k0b0",
+      "8nu5c7",
+      "2qvsf6",
+      "-yi1onw",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -666,7 +672,12 @@
     19,
     21,
     56,
-    3
+    3,
+    50,
+    31,
+    8,
+    14,
+    27
   ],
   "history": [
     {
@@ -1298,6 +1309,16 @@
       "reading_topic": "who-what-where-questions",
       "book": "Library Lion",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 64,
+      "date": "2026-04-20",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "tall-short-comparison",
+      "reading_topic": "predict-what-happens-next",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
