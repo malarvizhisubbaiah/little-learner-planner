@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 65,
+  "current_day": 66,
   "phonics": {
     "progression": [
       "S",
@@ -202,7 +202,8 @@
       "predict-what-happens-next",
       "picture-dictionary",
       "find-letters-in-name",
-      "feelings-in-stories"
+      "feelings-in-stories",
+      "name-recognition"
     ],
     "current_index": 0,
     "books_read": [
@@ -231,12 +232,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "euaeef",
-      "ycxga8",
-      "-nn78ac",
-      "-yi1onw",
-      "-stt7ag",
-      "-yi1onw",
       "6pdfza",
       "331s5i",
       "-6o69mx",
@@ -259,7 +254,13 @@
       "qjokh3",
       "-ri749c",
       "-3ns982",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-lsluj",
+      "8nu5c7",
+      "-ctopef",
+      "-nzj9ge",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -651,7 +652,13 @@
       "qjokh3",
       "-ri749c",
       "-3ns982",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-lsluj",
+      "8nu5c7",
+      "-ctopef",
+      "-nzj9ge",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -689,7 +696,12 @@
     44,
     23,
     51,
-    36
+    36,
+    6,
+    35,
+    42,
+    20,
+    15
   ],
   "history": [
     {
@@ -1341,6 +1353,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 66,
+      "date": "2026-04-22",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "number-recognition-4-6",
+      "reading_topic": "predict-what-happens-next",
+      "book": "Carla's Sandwich",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
