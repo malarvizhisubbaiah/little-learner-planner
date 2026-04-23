@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 66,
+  "current_day": 67,
   "phonics": {
     "progression": [
       "S",
@@ -232,12 +232,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "6pdfza",
-      "331s5i",
-      "-6o69mx",
-      "-lsluj",
-      "gixxy9",
-      "-yi1onw",
       "-zbpkgb",
       "-u7g3q8",
       "c02xxf",
@@ -260,7 +254,13 @@
       "8nu5c7",
       "-ctopef",
       "-nzj9ge",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "euaeef",
+      "-kg85v4",
+      "-nn78ac",
+      "-yi1onw",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -658,7 +658,13 @@
       "8nu5c7",
       "-ctopef",
       "-nzj9ge",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "euaeef",
+      "-kg85v4",
+      "-nn78ac",
+      "-yi1onw",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -701,7 +707,12 @@
     35,
     42,
     20,
-    15
+    15,
+    17,
+    1,
+    52,
+    39,
+    26
   ],
   "history": [
     {
@@ -1363,6 +1374,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Carla's Sandwich",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 67,
+      "date": "2026-04-23",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "connect-story-to-life",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
