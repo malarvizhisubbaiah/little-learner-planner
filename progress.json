@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 69,
+  "current_day": 70,
   "phonics": {
     "progression": [
       "S",
@@ -234,12 +234,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "b21lyb",
-      "qjokh3",
-      "-ri749c",
-      "-3ns982",
-      "j3bl2i",
-      "-yi1onw",
       "-lsluj",
       "8nu5c7",
       "-ctopef",
@@ -262,7 +256,13 @@
       "cbnfsc",
       "-6o69mx",
       "qjokh3",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "wlk1wd",
+      "cbnfsc",
+      "2qvsf6",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -678,7 +678,13 @@
       "cbnfsc",
       "-6o69mx",
       "qjokh3",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "wlk1wd",
+      "cbnfsc",
+      "2qvsf6",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -736,7 +742,12 @@
     45,
     16,
     5,
-    30
+    30,
+    9,
+    41,
+    57,
+    24,
+    38
   ],
   "history": [
     {
@@ -1428,6 +1439,16 @@
       "reading_topic": "cover-prediction",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 70,
+      "date": "2026-04-26",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "shape-hunt",
+      "reading_topic": "cover-prediction",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
