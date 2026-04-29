@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 72,
+  "current_day": 73,
   "phonics": {
     "progression": [
       "S",
@@ -236,12 +236,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-ysgf43",
-      "il3pt0",
-      "-stt7ag",
-      "-ysgf43",
-      "gixxy9",
-      "-yi1onw",
       "-vez2ia",
       "cbnfsc",
       "-6o69mx",
@@ -264,7 +258,13 @@
       "qjokh3",
       "8jexik",
       "-nzj9ge",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-cilvl0",
+      "cbnfsc",
+      "-ctopef",
+      "-yi1onw",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -698,7 +698,13 @@
       "qjokh3",
       "8jexik",
       "-nzj9ge",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-cilvl0",
+      "cbnfsc",
+      "-ctopef",
+      "-yi1onw",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -711,7 +717,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    48,
+    20,
+    57,
+    3,
+    39
+  ],
   "history": [
     {
       "day": 1,
@@ -1432,6 +1444,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 73,
+      "date": "2026-04-29",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "sorting-by-color",
+      "reading_topic": "cover-prediction",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
