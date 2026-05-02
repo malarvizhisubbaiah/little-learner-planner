@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 75,
+  "current_day": 76,
   "phonics": {
     "progression": [
       "S",
@@ -238,12 +238,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-oxp8n3",
-      "331s5i",
-      "j3bl2i",
-      "-66s437",
-      "-ri749c",
-      "-yi1onw",
       "-3ns982",
       "qjokh3",
       "8jexik",
@@ -266,7 +260,13 @@
       "-mldfdj",
       "-yd8lpj",
       "fdkdu6",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "42k0b0",
+      "il3pt0",
+      "2qvsf6",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -718,7 +718,13 @@
       "-mldfdj",
       "-yd8lpj",
       "fdkdu6",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "42k0b0",
+      "il3pt0",
+      "2qvsf6",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -746,7 +752,12 @@
     8,
     33,
     11,
-    42
+    42,
+    38,
+    26,
+    53,
+    6,
+    45
   ],
   "history": [
     {
@@ -1498,6 +1509,16 @@
       "reading_topic": "story-retelling",
       "book": "Animals in Winter",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 76,
+      "date": "2026-05-02",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "tall-short-comparison",
+      "reading_topic": "retell-with-toys",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
