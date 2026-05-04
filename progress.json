@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 77,
+  "current_day": 78,
   "phonics": {
     "progression": [
       "S",
@@ -210,7 +210,8 @@
       "name-recognition",
       "rhyming-in-stories",
       "name-recognition",
-      "make-a-book"
+      "make-a-book",
+      "turning-pages"
     ],
     "current_index": 0,
     "books_read": [
@@ -239,12 +240,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-cilvl0",
-      "cbnfsc",
-      "-ctopef",
-      "-yi1onw",
-      "-nn78ac",
-      "-yi1onw",
       "b21lyb",
       "ycxga8",
       "gixxy9",
@@ -267,7 +262,13 @@
       "ycxga8",
       "j3bl2i",
       "885ub1",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "g7o4iw",
+      "k6e7qn",
+      "8jexik",
+      "-7q4gyd",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -731,7 +732,13 @@
       "ycxga8",
       "j3bl2i",
       "885ub1",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "g7o4iw",
+      "k6e7qn",
+      "8jexik",
+      "-7q4gyd",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -769,7 +776,12 @@
     36,
     7,
     54,
-    49
+    49,
+    4,
+    34,
+    25,
+    5,
+    55
   ],
   "history": [
     {
@@ -1541,6 +1553,16 @@
       "reading_topic": "point-to-words",
       "book": "Carla's Sandwich",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 78,
+      "date": "2026-05-04",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "shapes-triangle-rectangle",
+      "reading_topic": "favorite-book-revisit",
+      "book": "My Family",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
