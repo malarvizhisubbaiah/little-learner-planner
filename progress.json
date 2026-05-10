@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 83,
+  "current_day": 84,
   "phonics": {
     "progression": [
       "S",
@@ -214,7 +214,8 @@
       "name-recognition",
       "make-a-book",
       "turning-pages",
-      "book-handling"
+      "book-handling",
+      "rhyming-in-stories"
     ],
     "current_index": 0,
     "books_read": [
@@ -243,12 +244,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "42k0b0",
-      "fdkdu6",
-      "-6o69mx",
-      "-yi1onw",
-      "-nn78ac",
-      "-yi1onw",
       "-smc7sh",
       "-nzj9ge",
       "-stt7ag",
@@ -271,7 +266,13 @@
       "8nu5c7",
       "-pbto60",
       "-lsluj",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "-smc7sh",
+      "-tm8g74",
+      "8jexik",
+      "qjokh3",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -771,7 +772,13 @@
       "8nu5c7",
       "-pbto60",
       "-lsluj",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "-smc7sh",
+      "-tm8g74",
+      "8jexik",
+      "qjokh3",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -784,63 +791,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    48,
-    20,
-    57,
-    3,
-    39,
-    27,
-    16,
-    31,
-    44,
-    50,
-    59,
-    8,
-    33,
-    11,
-    42,
-    38,
-    26,
-    53,
-    6,
-    45,
-    29,
-    36,
-    7,
-    54,
-    49,
-    4,
-    34,
-    25,
-    5,
-    55,
-    21,
-    52,
-    1,
-    10,
-    47,
-    0,
-    15,
-    43,
-    30,
-    24,
-    51,
-    46,
-    9,
-    37,
-    17,
-    41,
-    14,
-    56,
-    32,
-    22,
-    2,
-    28,
-    19,
-    40,
-    58
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -1671,6 +1622,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Carla's Sandwich",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 84,
+      "date": "2026-05-10",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "repetition-in-stories",
+      "book": "Carla's Sandwich",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
