@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 84,
+  "current_day": 85,
   "phonics": {
     "progression": [
       "S",
@@ -244,12 +244,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "-nzj9ge",
-      "-stt7ag",
-      "-lsluj",
-      "-ctopef",
-      "-yi1onw",
       "-vez2ia",
       "rkdu9z",
       "gixxy9",
@@ -272,7 +266,13 @@
       "-tm8g74",
       "8jexik",
       "qjokh3",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-cilvl0",
+      "ycxga8",
+      "2qvsf6",
+      "-yi1onw",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -778,7 +778,13 @@
       "-tm8g74",
       "8jexik",
       "qjokh3",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-cilvl0",
+      "ycxga8",
+      "2qvsf6",
+      "-yi1onw",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -791,7 +797,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    21,
+    41,
+    35,
+    58,
+    4
+  ],
   "history": [
     {
       "day": 1,
@@ -1632,6 +1644,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "Carla's Sandwich",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 85,
+      "date": "2026-05-11",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "sorting-by-color",
+      "reading_topic": "point-to-words",
+      "book": "Library Lion",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
