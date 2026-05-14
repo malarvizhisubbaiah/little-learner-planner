@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 87,
+  "current_day": 88,
   "phonics": {
     "progression": [
       "S",
@@ -246,12 +246,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "to4cgf",
-      "8nu5c7",
-      "-pbto60",
-      "-lsluj",
-      "-ri749c",
-      "-yi1onw",
       "-smc7sh",
       "-tm8g74",
       "8jexik",
@@ -274,7 +268,13 @@
       "rkdu9z",
       "gixxy9",
       "-tm8g74",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "to4cgf",
+      "k6e7qn",
+      "-yd8lpj",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -798,7 +798,13 @@
       "rkdu9z",
       "gixxy9",
       "-tm8g74",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "to4cgf",
+      "k6e7qn",
+      "-yd8lpj",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -826,7 +832,12 @@
     34,
     16,
     57,
-    8
+    8,
+    2,
+    11,
+    54,
+    20,
+    40
   ],
   "history": [
     {
@@ -1698,6 +1709,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "Clark the Shark",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 88,
+      "date": "2026-05-14",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "finger-counting",
+      "reading_topic": "favorite-book-revisit",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
