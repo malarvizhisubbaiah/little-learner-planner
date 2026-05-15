@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 88,
+  "current_day": 89,
   "phonics": {
     "progression": [
       "S",
@@ -146,7 +146,8 @@
       "number-writing-6-10",
       "number-recognition-4-6",
       "number-recognition-4-6",
-      "big-small-comparison"
+      "big-small-comparison",
+      "sorting-by-size"
     ],
     "current_index": 0
   },
@@ -246,12 +247,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "-tm8g74",
-      "8jexik",
-      "qjokh3",
-      "j3bl2i",
-      "-yi1onw",
       "-cilvl0",
       "ycxga8",
       "2qvsf6",
@@ -274,7 +269,13 @@
       "k6e7qn",
       "-yd8lpj",
       "-yi1onw",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "y5vgct",
+      "tgmhkf",
+      "-stt7ag",
+      "-43t8fa",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -804,7 +805,13 @@
       "k6e7qn",
       "-yd8lpj",
       "-yi1onw",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "y5vgct",
+      "tgmhkf",
+      "-stt7ag",
+      "-43t8fa",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -837,7 +844,12 @@
     11,
     54,
     20,
-    40
+    40,
+    42,
+    9,
+    52,
+    30,
+    1
   ],
   "history": [
     {
@@ -1719,6 +1731,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 89,
+      "date": "2026-05-15",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-bonds-to-5",
+      "reading_topic": "picture-walk",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
