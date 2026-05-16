@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 89,
+  "current_day": 90,
   "phonics": {
     "progression": [
       "S",
@@ -218,6 +218,7 @@
       "turning-pages",
       "book-handling",
       "rhyming-in-stories",
+      "repetition-in-stories",
       "repetition-in-stories"
     ],
     "current_index": 0,
@@ -247,12 +248,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-cilvl0",
-      "ycxga8",
-      "2qvsf6",
-      "-yi1onw",
-      "-nn78ac",
-      "-yi1onw",
       "hwl7ua",
       "-mldfdj",
       "-6o69mx",
@@ -275,7 +270,13 @@
       "tgmhkf",
       "-stt7ag",
       "-43t8fa",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-91ikis",
+      "-otqon4",
+      "-ri749c",
+      "-tm8g74",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -811,7 +812,13 @@
       "tgmhkf",
       "-stt7ag",
       "-43t8fa",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-91ikis",
+      "-otqon4",
+      "-ri749c",
+      "-tm8g74",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -849,7 +856,12 @@
     9,
     52,
     30,
-    1
+    1,
+    7,
+    28,
+    37,
+    59,
+    47
   ],
   "history": [
     {
@@ -1741,6 +1753,16 @@
       "reading_topic": "picture-walk",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 90,
+      "date": "2026-05-16",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "measurement-with-blocks",
+      "reading_topic": "new-vocabulary-words",
+      "book": "The Little Red Hen",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
