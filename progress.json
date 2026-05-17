@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 90,
+  "current_day": 91,
   "phonics": {
     "progression": [
       "S",
@@ -249,12 +249,6 @@
     "scenarios_used_last_5_days": [
       "-yi1onw",
       "hwl7ua",
-      "-mldfdj",
-      "-6o69mx",
-      "-3ns982",
-      "-ctopef",
-      "-yi1onw",
-      "hwl7ua",
       "rkdu9z",
       "gixxy9",
       "-tm8g74",
@@ -276,7 +270,13 @@
       "-otqon4",
       "-ri749c",
       "-tm8g74",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-3n33t4",
+      "-mldfdj",
+      "8jexik",
+      "-yi1onw",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -818,7 +818,13 @@
       "-otqon4",
       "-ri749c",
       "-tm8g74",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-3n33t4",
+      "-mldfdj",
+      "8jexik",
+      "-yi1onw",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -861,7 +867,12 @@
     28,
     37,
     59,
-    47
+    47,
+    5,
+    38,
+    10,
+    26,
+    49
   ],
   "history": [
     {
@@ -1763,6 +1774,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 91,
+      "date": "2026-05-17",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "subtraction-with-objects",
+      "reading_topic": "story-retelling",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
