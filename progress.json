@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 92,
+  "current_day": 93,
   "phonics": {
     "progression": [
       "S",
@@ -220,7 +220,8 @@
       "book-handling",
       "rhyming-in-stories",
       "repetition-in-stories",
-      "repetition-in-stories"
+      "repetition-in-stories",
+      "story-retelling"
     ],
     "current_index": 0,
     "books_read": [
@@ -249,12 +250,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "to4cgf",
-      "k6e7qn",
-      "-yd8lpj",
-      "-yi1onw",
-      "-87vknw",
-      "-yi1onw",
       "y5vgct",
       "tgmhkf",
       "-stt7ag",
@@ -277,7 +272,13 @@
       "331s5i",
       "j3bl2i",
       "-91ikis",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "42k0b0",
+      "8nu5c7",
+      "-j0fvl8",
+      "-mldfdj",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -831,7 +832,13 @@
       "331s5i",
       "j3bl2i",
       "-91ikis",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "42k0b0",
+      "8nu5c7",
+      "-j0fvl8",
+      "-mldfdj",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -884,7 +891,12 @@
     27,
     12,
     33,
-    50
+    50,
+    17,
+    25,
+    32,
+    44,
+    56
   ],
   "history": [
     {
@@ -1806,6 +1818,16 @@
       "reading_topic": "print-awareness",
       "book": "1 2 3 Count With Me",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 93,
+      "date": "2026-05-19",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "tall-short-comparison",
+      "reading_topic": "predict-what-happens-next",
+      "book": "Library Lion",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
