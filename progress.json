@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 96,
+  "current_day": 97,
   "phonics": {
     "progression": [
       "S",
@@ -252,12 +252,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-3ns982",
-      "331s5i",
-      "j3bl2i",
-      "-91ikis",
-      "-nn78ac",
-      "-yi1onw",
       "42k0b0",
       "8nu5c7",
       "-j0fvl8",
@@ -280,7 +274,13 @@
       "fdkdu6",
       "-stt7ag",
       "rkdu9z",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-lsluj",
+      "-285mf2",
+      "2qvsf6",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -858,7 +858,13 @@
       "fdkdu6",
       "-stt7ag",
       "rkdu9z",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-lsluj",
+      "-285mf2",
+      "2qvsf6",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -871,7 +877,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    54,
+    4,
+    29,
+    39,
+    11
+  ],
   "history": [
     {
       "day": 1,
@@ -1832,6 +1844,16 @@
       "reading_topic": "make-a-book",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 97,
+      "date": "2026-05-23",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-recognition-4-6",
+      "reading_topic": "book-handling",
+      "book": "Carla's Sandwich",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
