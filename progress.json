@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 97,
+  "current_day": 98,
   "phonics": {
     "progression": [
       "S",
@@ -149,7 +149,8 @@
       "big-small-comparison",
       "sorting-by-size",
       "measurement-with-blocks",
-      "tall-short-comparison"
+      "tall-short-comparison",
+      "big-small-comparison"
     ],
     "current_index": 0
   },
@@ -252,12 +253,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "42k0b0",
-      "8nu5c7",
-      "-j0fvl8",
-      "-mldfdj",
-      "-ctopef",
-      "-yi1onw",
       "-43t8fa",
       "cbnfsc",
       "-87vknw",
@@ -280,7 +275,13 @@
       "-285mf2",
       "2qvsf6",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-43t8fa",
+      "-nzj9ge",
+      "-ri749c",
+      "-3ns982",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -864,7 +865,13 @@
       "-285mf2",
       "2qvsf6",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-43t8fa",
+      "-nzj9ge",
+      "-ri749c",
+      "-3ns982",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -882,7 +889,12 @@
     4,
     29,
     39,
-    11
+    11,
+    47,
+    23,
+    57,
+    2,
+    35
   ],
   "history": [
     {
@@ -1854,6 +1866,16 @@
       "reading_topic": "book-handling",
       "book": "Carla's Sandwich",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 98,
+      "date": "2026-05-24",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "sorting-by-size",
+      "reading_topic": "name-recognition",
+      "book": "Library Lion",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
