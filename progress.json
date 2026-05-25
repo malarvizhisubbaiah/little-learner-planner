@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 98,
+  "current_day": 99,
   "phonics": {
     "progression": [
       "S",
@@ -224,6 +224,7 @@
       "repetition-in-stories",
       "repetition-in-stories",
       "story-retelling",
+      "find-letters-in-name",
       "find-letters-in-name"
     ],
     "current_index": 0,
@@ -253,12 +254,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-43t8fa",
-      "cbnfsc",
-      "-87vknw",
-      "-yi1onw",
-      "-yd8lpj",
-      "-yi1onw",
       "-18ggzd",
       "-285mf2",
       "gixxy9",
@@ -281,7 +276,13 @@
       "-nzj9ge",
       "-ri749c",
       "-3ns982",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-vez2ia",
+      "-st09hv",
+      "-ctopef",
+      "rkdu9z",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -871,7 +872,13 @@
       "-nzj9ge",
       "-ri749c",
       "-3ns982",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-vez2ia",
+      "-st09hv",
+      "-ctopef",
+      "rkdu9z",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -894,7 +901,12 @@
     23,
     57,
     2,
-    35
+    35,
+    32,
+    53,
+    17,
+    46,
+    20
   ],
   "history": [
     {
@@ -1876,6 +1888,16 @@
       "reading_topic": "name-recognition",
       "book": "Library Lion",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 99,
+      "date": "2026-05-25",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "shapes-circle-square",
+      "reading_topic": "feelings-in-stories",
+      "book": "Stellaluna",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
