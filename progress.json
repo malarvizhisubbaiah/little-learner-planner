@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 99,
+  "current_day": 100,
   "phonics": {
     "progression": [
       "S",
@@ -254,12 +254,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-18ggzd",
-      "-285mf2",
-      "gixxy9",
-      "42k0b0",
-      "-pbto60",
-      "-yi1onw",
       "to4cgf",
       "fdkdu6",
       "-stt7ag",
@@ -282,7 +276,13 @@
       "-st09hv",
       "-ctopef",
       "rkdu9z",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-oxp8n3",
+      "-u7g3q8",
+      "-yd8lpj",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -878,7 +878,13 @@
       "-st09hv",
       "-ctopef",
       "rkdu9z",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-oxp8n3",
+      "-u7g3q8",
+      "-yd8lpj",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -906,7 +912,12 @@
     53,
     17,
     46,
-    20
+    20,
+    45,
+    52,
+    38,
+    21,
+    10
   ],
   "history": [
     {
@@ -1898,6 +1909,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "Stellaluna",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 100,
+      "date": "2026-05-26",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "more-or-less",
+      "reading_topic": "who-what-where-questions",
+      "book": "Carla's Sandwich",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
