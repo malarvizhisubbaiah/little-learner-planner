@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 111,
+  "current_day": 112,
   "phonics": {
     "progression": [
       "S",
@@ -262,12 +262,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-18ggzd",
-      "fdkdu6",
-      "-87vknw",
-      "-ysgf43",
-      "j3bl2i",
-      "-yi1onw",
       "885ub1",
       "tgmhkf",
       "-ri749c",
@@ -290,7 +284,13 @@
       "331s5i",
       "2qvsf6",
       "cbnfsc",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "to4cgf",
+      "tgmhkf",
+      "-ctopef",
+      "-yi1onw",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -958,7 +958,13 @@
       "331s5i",
       "2qvsf6",
       "cbnfsc",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "to4cgf",
+      "tgmhkf",
+      "-ctopef",
+      "-yi1onw",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -986,7 +992,12 @@
     2,
     17,
     37,
-    46
+    46,
+    42,
+    22,
+    11,
+    38,
+    1
   ],
   "history": [
     {
@@ -2098,6 +2109,16 @@
       "reading_topic": "print-awareness",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 112,
+      "date": "2026-06-07",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "finger-counting",
+      "reading_topic": "picture-walk",
+      "book": "The Little Red Hen",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
