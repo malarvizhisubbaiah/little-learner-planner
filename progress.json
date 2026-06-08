@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 112,
+  "current_day": 113,
   "phonics": {
     "progression": [
       "S",
@@ -154,7 +154,8 @@
       "counting-to-20",
       "subtraction-with-objects",
       "number-recognition-1-3",
-      "number-recognition-7-10"
+      "number-recognition-7-10",
+      "counting-1-to-5"
     ],
     "current_index": 0
   },
@@ -262,12 +263,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "tgmhkf",
-      "-ri749c",
-      "qjokh3",
-      "-pbto60",
-      "-yi1onw",
       "-3ns982",
       "cbnfsc",
       "-j0fvl8",
@@ -290,7 +285,13 @@
       "tgmhkf",
       "-ctopef",
       "-yi1onw",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-3ns982",
+      "-otqon4",
+      "j3bl2i",
+      "-zbpkgb",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -964,7 +965,13 @@
       "tgmhkf",
       "-ctopef",
       "-yi1onw",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-3ns982",
+      "-otqon4",
+      "j3bl2i",
+      "-zbpkgb",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -997,7 +1004,12 @@
     22,
     11,
     38,
-    1
+    1,
+    39,
+    48,
+    56,
+    0,
+    23
   ],
   "history": [
     {
@@ -2119,6 +2131,16 @@
       "reading_topic": "picture-walk",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 113,
+      "date": "2026-06-08",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "big-small-comparison",
+      "reading_topic": "new-vocabulary-words",
+      "book": "The Little Red Hen",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
