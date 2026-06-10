@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 114,
+  "current_day": 115,
   "phonics": {
     "progression": [
       "S",
@@ -264,12 +264,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "6pdfza",
-      "8nu5c7",
-      "-nn78ac",
-      "-18ggzd",
-      "c02xxf",
-      "-yi1onw",
       "-66s437",
       "331s5i",
       "2qvsf6",
@@ -292,7 +286,13 @@
       "331s5i",
       "-ri749c",
       "-kg85v4",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "b21lyb",
+      "-nzj9ge",
+      "-yd8lpj",
+      "-yi1onw",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -978,7 +978,13 @@
       "331s5i",
       "-ri749c",
       "-kg85v4",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "b21lyb",
+      "-nzj9ge",
+      "-yd8lpj",
+      "-yi1onw",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -1021,7 +1027,12 @@
     14,
     53,
     35,
-    3
+    3,
+    58,
+    28,
+    32,
+    47,
+    9
   ],
   "history": [
     {
@@ -2163,6 +2174,16 @@
       "reading_topic": "print-awareness",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 115,
+      "date": "2026-06-10",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-10",
+      "reading_topic": "name-recognition",
+      "book": "Stellaluna",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
