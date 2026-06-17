@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 121,
+  "current_day": 122,
   "phonics": {
     "progression": [
       "S",
@@ -157,7 +157,8 @@
       "number-recognition-7-10",
       "counting-1-to-5",
       "subtraction-with-objects",
-      "big-small-comparison"
+      "big-small-comparison",
+      "sorting-by-shape"
     ],
     "current_index": 0
   },
@@ -268,12 +269,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "il3pt0",
-      "-pbto60",
-      "tgmhkf",
-      "-6o69mx",
-      "-yi1onw",
       "g7o4iw",
       "-otqon4",
       "8jexik",
@@ -296,7 +291,13 @@
       "-st09hv",
       "-yd8lpj",
       "-yi1onw",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "7eah8l",
+      "k6e7qn",
+      "-stt7ag",
+      "p3ir4u",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1024,7 +1025,13 @@
       "-st09hv",
       "-yd8lpj",
       "-yi1onw",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "7eah8l",
+      "k6e7qn",
+      "-stt7ag",
+      "p3ir4u",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1042,7 +1049,12 @@
     39,
     23,
     14,
-    0
+    0,
+    17,
+    40,
+    51,
+    26,
+    1
   ],
   "history": [
     {
@@ -2254,6 +2266,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 122,
+      "date": "2026-06-17",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "favorite-book-revisit",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
