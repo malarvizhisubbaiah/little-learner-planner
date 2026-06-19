@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 123,
+  "current_day": 124,
   "phonics": {
     "progression": [
       "S",
@@ -270,12 +270,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "42k0b0",
-      "-st09hv",
-      "-ctopef",
-      "-3ns982",
-      "-87vknw",
-      "-yi1onw",
       "-vez2ia",
       "ycxga8",
       "gixxy9",
@@ -298,7 +292,13 @@
       "-7q4gyd",
       "-j0fvl8",
       "ycxga8",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "6pdfza",
+      "il3pt0",
+      "c02xxf",
+      "-yi1onw",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1038,7 +1038,13 @@
       "-7q4gyd",
       "-j0fvl8",
       "ycxga8",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "6pdfza",
+      "il3pt0",
+      "c02xxf",
+      "-yi1onw",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -1066,7 +1072,12 @@
     32,
     10,
     50,
-    7
+    7,
+    59,
+    28,
+    15,
+    44,
+    38
   ],
   "history": [
     {
@@ -2298,6 +2309,16 @@
       "reading_topic": "turning-pages",
       "book": "What Is Weather?",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 124,
+      "date": "2026-06-19",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "story-problems",
+      "reading_topic": "retell-with-toys",
+      "book": "My Family",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
