@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 124,
+  "current_day": 125,
   "phonics": {
     "progression": [
       "S",
@@ -158,7 +158,8 @@
       "counting-1-to-5",
       "subtraction-with-objects",
       "big-small-comparison",
-      "sorting-by-shape"
+      "sorting-by-shape",
+      "counting-to-15"
     ],
     "current_index": 0
   },
@@ -270,12 +271,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-vez2ia",
-      "ycxga8",
-      "gixxy9",
-      "k6e7qn",
-      "-ri749c",
-      "-yi1onw",
       "-3ns982",
       "-st09hv",
       "-yd8lpj",
@@ -298,7 +293,13 @@
       "il3pt0",
       "c02xxf",
       "-yi1onw",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "7eah8l",
+      "-liuanj",
+      "8jexik",
+      "-smc7sh",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1044,7 +1045,13 @@
       "il3pt0",
       "c02xxf",
       "-yi1onw",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "7eah8l",
+      "-liuanj",
+      "8jexik",
+      "-smc7sh",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1077,7 +1084,12 @@
     28,
     15,
     44,
-    38
+    38,
+    34,
+    24,
+    13,
+    4,
+    49
   ],
   "history": [
     {
@@ -2319,6 +2331,16 @@
       "reading_topic": "retell-with-toys",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 125,
+      "date": "2026-06-20",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "picture-dictionary",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
