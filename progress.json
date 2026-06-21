@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 125,
+  "current_day": 126,
   "phonics": {
     "progression": [
       "S",
@@ -242,7 +242,8 @@
       "connect-story-to-life",
       "picture-walk",
       "favorite-book-revisit",
-      "point-to-words"
+      "point-to-words",
+      "turning-pages"
     ],
     "current_index": 0,
     "books_read": [
@@ -271,12 +272,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-3ns982",
-      "-st09hv",
-      "-yd8lpj",
-      "-yi1onw",
-      "2qvsf6",
-      "-yi1onw",
       "7eah8l",
       "k6e7qn",
       "-stt7ag",
@@ -299,7 +294,13 @@
       "-liuanj",
       "8jexik",
       "-smc7sh",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "885ub1",
+      "-liuanj",
+      "-ri749c",
+      "-7q4gyd",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1051,7 +1052,13 @@
       "-liuanj",
       "8jexik",
       "-smc7sh",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "885ub1",
+      "-liuanj",
+      "-ri749c",
+      "-7q4gyd",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1089,7 +1096,12 @@
     24,
     13,
     4,
-    49
+    49,
+    31,
+    25,
+    8,
+    53,
+    18
   ],
   "history": [
     {
@@ -2341,6 +2353,16 @@
       "reading_topic": "picture-dictionary",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 126,
+      "date": "2026-06-21",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "picture-dictionary",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
