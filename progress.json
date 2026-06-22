@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 126,
+  "current_day": 127,
   "phonics": {
     "progression": [
       "S",
@@ -272,12 +272,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "7eah8l",
-      "k6e7qn",
-      "-stt7ag",
-      "p3ir4u",
-      "-nn78ac",
-      "-yi1onw",
       "-smc7sh",
       "-7q4gyd",
       "-j0fvl8",
@@ -300,7 +294,13 @@
       "-liuanj",
       "-ri749c",
       "-7q4gyd",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-18ggzd",
+      "ycxga8",
+      "-87vknw",
+      "-yi1onw",
+      "-6o69mx"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1058,7 +1058,13 @@
       "-liuanj",
       "-ri749c",
       "-7q4gyd",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-18ggzd",
+      "ycxga8",
+      "-87vknw",
+      "-yi1onw",
+      "-6o69mx"
     ]
   },
   "worksheets_assigned": [
@@ -1101,7 +1107,12 @@
     25,
     8,
     53,
-    18
+    18,
+    19,
+    9,
+    21,
+    45,
+    54
   ],
   "history": [
     {
@@ -2363,6 +2374,16 @@
       "reading_topic": "picture-dictionary",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 127,
+      "date": "2026-06-22",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-recognition-7-10",
+      "reading_topic": "point-to-words",
+      "book": "Library Lion",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
