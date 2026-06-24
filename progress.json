@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 128,
+  "current_day": 129,
   "phonics": {
     "progression": [
       "S",
@@ -244,7 +244,8 @@
       "picture-walk",
       "favorite-book-revisit",
       "point-to-words",
-      "turning-pages"
+      "turning-pages",
+      "feelings-in-stories"
     ],
     "current_index": 0,
     "books_read": [
@@ -273,12 +274,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "6pdfza",
-      "il3pt0",
-      "c02xxf",
-      "-yi1onw",
-      "j3bl2i",
-      "-yi1onw",
       "7eah8l",
       "-liuanj",
       "8jexik",
@@ -301,7 +296,13 @@
       "fdkdu6",
       "-yd8lpj",
       "euaeef",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-smc7sh",
+      "331s5i",
+      "-j0fvl8",
+      "-st09hv",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1071,7 +1072,13 @@
       "fdkdu6",
       "-yd8lpj",
       "euaeef",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-smc7sh",
+      "331s5i",
+      "-j0fvl8",
+      "-st09hv",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -1124,7 +1131,12 @@
     20,
     55,
     48,
-    33
+    33,
+    22,
+    52,
+    36,
+    43,
+    16
   ],
   "history": [
     {
@@ -2406,6 +2418,16 @@
       "reading_topic": "make-a-book",
       "book": "Shapes Around Us",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 129,
+      "date": "2026-06-24",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "print-awareness",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
