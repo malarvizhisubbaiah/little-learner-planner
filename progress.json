@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 130,
+  "current_day": 131,
   "phonics": {
     "progression": [
       "S",
@@ -160,7 +160,8 @@
       "big-small-comparison",
       "sorting-by-shape",
       "counting-to-15",
-      "number-writing-1-5"
+      "number-writing-1-5",
+      "subtraction-with-objects"
     ],
     "current_index": 0
   },
@@ -274,12 +275,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "-liuanj",
-      "-ri749c",
-      "-7q4gyd",
-      "gixxy9",
-      "-yi1onw",
       "-18ggzd",
       "ycxga8",
       "-87vknw",
@@ -302,7 +297,13 @@
       "8nu5c7",
       "j3bl2i",
       "-yi1onw",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "6pdfza",
+      "8nu5c7",
+      "2qvsf6",
+      "-3n33t4",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1084,7 +1085,13 @@
       "8nu5c7",
       "j3bl2i",
       "-yi1onw",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "6pdfza",
+      "8nu5c7",
+      "2qvsf6",
+      "-3n33t4",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1147,7 +1154,12 @@
     30,
     56,
     46,
-    5
+    5,
+    42,
+    57,
+    27,
+    6,
+    11
   ],
   "history": [
     {
@@ -2449,6 +2461,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Animals in Winter",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 131,
+      "date": "2026-06-26",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "story-problems",
+      "reading_topic": "predict-what-happens-next",
+      "book": "At the Park",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
