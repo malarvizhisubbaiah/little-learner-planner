@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 132,
+  "current_day": 133,
   "phonics": {
     "progression": [
       "S",
@@ -276,12 +276,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "fdkdu6",
-      "-yd8lpj",
-      "euaeef",
-      "-nn78ac",
-      "-yi1onw",
       "-smc7sh",
       "331s5i",
       "-j0fvl8",
@@ -304,7 +298,13 @@
       "331s5i",
       "-ri749c",
       "-mldfdj",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-vez2ia",
+      "-u7g3q8",
+      "-87vknw",
+      "-yi1onw",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1098,7 +1098,13 @@
       "331s5i",
       "-ri749c",
       "-mldfdj",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-vez2ia",
+      "-u7g3q8",
+      "-87vknw",
+      "-yi1onw",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1111,7 +1117,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    42,
+    26,
+    15,
+    31,
+    3
+  ],
   "history": [
     {
       "day": 1,
@@ -2432,6 +2444,16 @@
       "reading_topic": "print-awareness",
       "book": "Library Lion",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 133,
+      "date": "2026-06-28",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "shapes-circle-square",
+      "reading_topic": "who-what-where-questions",
+      "book": "A Bad Case of Stripes",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
