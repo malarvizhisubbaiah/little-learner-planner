@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 133,
+  "current_day": 134,
   "phonics": {
     "progression": [
       "S",
@@ -161,7 +161,8 @@
       "sorting-by-shape",
       "counting-to-15",
       "number-writing-1-5",
-      "subtraction-with-objects"
+      "subtraction-with-objects",
+      "measurement-with-blocks"
     ],
     "current_index": 0
   },
@@ -276,12 +277,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "331s5i",
-      "-j0fvl8",
-      "-st09hv",
-      "-stt7ag",
-      "-yi1onw",
       "-ysgf43",
       "8nu5c7",
       "j3bl2i",
@@ -304,7 +299,13 @@
       "-u7g3q8",
       "-87vknw",
       "-yi1onw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "b21lyb",
+      "k6e7qn",
+      "-6o69mx",
+      "-91ikis",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1104,7 +1105,13 @@
       "-u7g3q8",
       "-87vknw",
       "-yi1onw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "b21lyb",
+      "k6e7qn",
+      "-6o69mx",
+      "-91ikis",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -1122,7 +1129,12 @@
     26,
     15,
     31,
-    3
+    3,
+    8,
+    53,
+    36,
+    16,
+    28
   ],
   "history": [
     {
@@ -2454,6 +2466,16 @@
       "reading_topic": "who-what-where-questions",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 134,
+      "date": "2026-06-29",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-10",
+      "reading_topic": "favorite-book-revisit",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
