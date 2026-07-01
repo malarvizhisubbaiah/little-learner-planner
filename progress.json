@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 135,
+  "current_day": 136,
   "phonics": {
     "progression": [
       "S",
@@ -278,12 +278,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "6pdfza",
-      "8nu5c7",
-      "2qvsf6",
-      "-3n33t4",
-      "c02xxf",
-      "-yi1onw",
       "g7o4iw",
       "331s5i",
       "-ri749c",
@@ -306,7 +300,13 @@
       "-liuanj",
       "-j0fvl8",
       "fdkdu6",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "y5vgct",
+      "-nzj9ge",
+      "j3bl2i",
+      "-yi1onw",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1118,7 +1118,13 @@
       "-liuanj",
       "-j0fvl8",
       "fdkdu6",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "y5vgct",
+      "-nzj9ge",
+      "j3bl2i",
+      "-yi1onw",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1146,7 +1152,12 @@
     0,
     4,
     29,
-    10
+    10,
+    55,
+    44,
+    27,
+    33,
+    17
   ],
   "history": [
     {
@@ -2498,6 +2509,16 @@
       "reading_topic": "picture-dictionary",
       "book": "Animals in Winter",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 136,
+      "date": "2026-07-01",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-bonds-to-5",
+      "reading_topic": "name-recognition",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
