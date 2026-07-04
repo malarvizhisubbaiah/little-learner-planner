@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 138,
+  "current_day": 139,
   "phonics": {
     "progression": [
       "S",
@@ -280,12 +280,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "b21lyb",
-      "k6e7qn",
-      "-6o69mx",
-      "-91ikis",
-      "-yd8lpj",
-      "-yi1onw",
       "-h95fnj",
       "-liuanj",
       "-j0fvl8",
@@ -308,7 +302,13 @@
       "-st09hv",
       "8jexik",
       "-liuanj",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "7eah8l",
+      "tgmhkf",
+      "-ctopef",
+      "-yi1onw",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1138,7 +1138,13 @@
       "-st09hv",
       "8jexik",
       "-liuanj",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "7eah8l",
+      "tgmhkf",
+      "-ctopef",
+      "-yi1onw",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -1181,7 +1187,12 @@
     46,
     54,
     11,
-    39
+    39,
+    12,
+    48,
+    57,
+    30,
+    9
   ],
   "history": [
     {
@@ -2563,6 +2574,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 139,
+      "date": "2026-07-04",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "picture-walk",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
