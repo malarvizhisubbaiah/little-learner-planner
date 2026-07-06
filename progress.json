@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 140,
+  "current_day": 141,
   "phonics": {
     "progression": [
       "S",
@@ -252,7 +252,8 @@
       "feelings-in-stories",
       "story-retelling",
       "make-a-book",
-      "picture-dictionary"
+      "picture-dictionary",
+      "favorite-book-revisit"
     ],
     "current_index": 0,
     "books_read": [
@@ -281,12 +282,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "y5vgct",
-      "-nzj9ge",
-      "j3bl2i",
-      "-yi1onw",
-      "gixxy9",
-      "-yi1onw",
       "euaeef",
       "331s5i",
       "-pbto60",
@@ -309,7 +304,13 @@
       "ycxga8",
       "-yd8lpj",
       "y5vgct",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "6pdfza",
+      "-kg85v4",
+      "-nn78ac",
+      "k6e7qn",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1151,7 +1152,13 @@
       "ycxga8",
       "-yd8lpj",
       "y5vgct",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "6pdfza",
+      "-kg85v4",
+      "-nn78ac",
+      "k6e7qn",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -1204,7 +1211,12 @@
     24,
     41,
     59,
-    6
+    6,
+    49,
+    58,
+    32,
+    13,
+    5
   ],
   "history": [
     {
@@ -2606,6 +2618,16 @@
       "reading_topic": "point-to-words",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 141,
+      "date": "2026-07-06",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "story-problems",
+      "reading_topic": "connect-story-to-life",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
