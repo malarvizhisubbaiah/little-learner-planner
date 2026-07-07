@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 141,
+  "current_day": 142,
   "phonics": {
     "progression": [
       "S",
@@ -282,12 +282,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "euaeef",
-      "331s5i",
-      "-pbto60",
-      "-ysgf43",
-      "-stt7ag",
-      "-yi1onw",
       "-ysgf43",
       "-st09hv",
       "8jexik",
@@ -310,7 +304,13 @@
       "-kg85v4",
       "-nn78ac",
       "k6e7qn",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-smc7sh",
+      "-otqon4",
+      "-6o69mx",
+      "-yi1onw",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1158,7 +1158,13 @@
       "-kg85v4",
       "-nn78ac",
       "k6e7qn",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-smc7sh",
+      "-otqon4",
+      "-6o69mx",
+      "-yi1onw",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -1216,7 +1222,12 @@
     58,
     32,
     13,
-    5
+    5,
+    35,
+    43,
+    25,
+    52,
+    19
   ],
   "history": [
     {
@@ -2628,6 +2639,16 @@
       "reading_topic": "connect-story-to-life",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 142,
+      "date": "2026-07-07",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "new-vocabulary-words",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
