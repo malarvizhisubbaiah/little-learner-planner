@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 143,
+  "current_day": 144,
   "phonics": {
     "progression": [
       "S",
@@ -254,7 +254,8 @@
       "story-retelling",
       "make-a-book",
       "picture-dictionary",
-      "favorite-book-revisit"
+      "favorite-book-revisit",
+      "point-to-words"
     ],
     "current_index": 0,
     "books_read": [
@@ -283,12 +284,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "7eah8l",
-      "tgmhkf",
-      "-ctopef",
-      "-yi1onw",
-      "-ri749c",
-      "-yi1onw",
       "-smc7sh",
       "ycxga8",
       "-yd8lpj",
@@ -311,7 +306,13 @@
       "-mldfdj",
       "-j0fvl8",
       "g7o4iw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-vez2ia",
+      "-st09hv",
+      "-pbto60",
+      "ycxga8",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1171,7 +1172,13 @@
       "-mldfdj",
       "-j0fvl8",
       "g7o4iw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-vez2ia",
+      "-st09hv",
+      "-pbto60",
+      "ycxga8",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1184,63 +1191,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    42,
-    26,
-    15,
-    31,
-    3,
-    8,
-    53,
-    36,
-    16,
-    28,
-    40,
-    0,
-    4,
-    29,
-    10,
-    55,
-    44,
-    27,
-    33,
-    17,
-    56,
-    2,
-    38,
-    1,
-    18,
-    7,
-    46,
-    54,
-    11,
-    39,
-    12,
-    48,
-    57,
-    30,
-    9,
-    34,
-    24,
-    41,
-    59,
-    6,
-    49,
-    58,
-    32,
-    13,
-    5,
-    35,
-    43,
-    25,
-    52,
-    19,
-    37,
-    22,
-    51,
-    47,
-    14
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -2671,6 +2622,16 @@
       "reading_topic": "story-retelling",
       "book": "Clark the Shark",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 144,
+      "date": "2026-07-09",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "shapes-circle-square",
+      "reading_topic": "feelings-in-stories",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
