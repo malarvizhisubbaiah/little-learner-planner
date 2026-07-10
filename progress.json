@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 144,
+  "current_day": 145,
   "phonics": {
     "progression": [
       "S",
@@ -284,12 +284,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "ycxga8",
-      "-yd8lpj",
-      "y5vgct",
-      "-87vknw",
-      "-yi1onw",
       "6pdfza",
       "-kg85v4",
       "-nn78ac",
@@ -312,7 +306,13 @@
       "-st09hv",
       "-pbto60",
       "ycxga8",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-66s437",
+      "k6e7qn",
+      "c02xxf",
+      "-yi1onw",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1178,7 +1178,13 @@
       "-st09hv",
       "-pbto60",
       "ycxga8",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-66s437",
+      "k6e7qn",
+      "c02xxf",
+      "-yi1onw",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1191,7 +1197,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    44,
+    18,
+    25,
+    58,
+    35
+  ],
   "history": [
     {
       "day": 1,
@@ -2632,6 +2644,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 145,
+      "date": "2026-07-10",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "favorite-book-revisit",
+      "book": "Animals in Winter",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
