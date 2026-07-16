@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 150,
+  "current_day": 151,
   "phonics": {
     "progression": [
       "S",
@@ -288,12 +288,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "g7o4iw",
-      "-kg85v4",
-      "-yd8lpj",
-      "-h95fnj",
-      "-ri749c",
-      "-yi1onw",
       "-ysgf43",
       "-st09hv",
       "-87vknw",
@@ -316,7 +310,13 @@
       "-otqon4",
       "-pbto60",
       "il3pt0",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-18ggzd",
+      "k6e7qn",
+      "-ctopef",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1218,7 +1218,13 @@
       "-otqon4",
       "-pbto60",
       "il3pt0",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-18ggzd",
+      "k6e7qn",
+      "-ctopef",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1261,7 +1267,12 @@
     40,
     30,
     27,
-    51
+    51,
+    7,
+    38,
+    53,
+    29,
+    45
   ],
   "history": [
     {
@@ -2763,6 +2774,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 151,
+      "date": "2026-07-16",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-recognition-7-10",
+      "reading_topic": "favorite-book-revisit",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
