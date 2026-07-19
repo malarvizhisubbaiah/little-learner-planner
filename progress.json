@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 153,
+  "current_day": 154,
   "phonics": {
     "progression": [
       "S",
@@ -290,12 +290,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "euaeef",
-      "rkdu9z",
-      "2qvsf6",
-      "-smc7sh",
-      "-j0fvl8",
-      "-yi1onw",
       "to4cgf",
       "-otqon4",
       "-pbto60",
@@ -318,7 +312,13 @@
       "-otqon4",
       "-ri749c",
       "fdkdu6",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-66s437",
+      "k6e7qn",
+      "j3bl2i",
+      "-yi1onw",
+      "-6o69mx"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1238,7 +1238,13 @@
       "-otqon4",
       "-ri749c",
       "fdkdu6",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-66s437",
+      "k6e7qn",
+      "j3bl2i",
+      "-yi1onw",
+      "-6o69mx"
     ]
   },
   "worksheets_assigned": [
@@ -1296,7 +1302,12 @@
     20,
     12,
     52,
-    41
+    41,
+    43,
+    15,
+    28,
+    56,
+    36
   ],
   "history": [
     {
@@ -2828,6 +2839,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 154,
+      "date": "2026-07-19",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "favorite-book-revisit",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
