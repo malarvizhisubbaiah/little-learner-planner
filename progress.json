@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 157,
+  "current_day": 158,
   "phonics": {
     "progression": [
       "S",
@@ -169,7 +169,8 @@
       "addition-with-objects-to-5",
       "counting-to-15",
       "big-small-comparison",
-      "patterns-ABAB"
+      "patterns-ABAB",
+      "shapes-circle-square"
     ],
     "current_index": 0
   },
@@ -292,12 +293,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-h95fnj",
-      "-otqon4",
-      "-ri749c",
-      "fdkdu6",
-      "8jexik",
-      "-yi1onw",
       "-66s437",
       "k6e7qn",
       "j3bl2i",
@@ -320,7 +315,13 @@
       "-st09hv",
       "c02xxf",
       "-yi1onw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "885ub1",
+      "-tm8g74",
+      "-stt7ag",
+      "-vez2ia",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1264,7 +1265,13 @@
       "-st09hv",
       "c02xxf",
       "-yi1onw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "885ub1",
+      "-tm8g74",
+      "-stt7ag",
+      "-vez2ia",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1282,7 +1289,12 @@
     43,
     19,
     21,
-    9
+    9,
+    51,
+    42,
+    14,
+    29,
+    32
   ],
   "history": [
     {
@@ -2854,6 +2866,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 158,
+      "date": "2026-07-23",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "repetition-in-stories",
+      "book": "A Bad Case of Stripes",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
