@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 158,
+  "current_day": 159,
   "phonics": {
     "progression": [
       "S",
@@ -264,7 +264,8 @@
       "make-a-book",
       "retell-with-toys",
       "make-a-book",
-      "story-retelling"
+      "story-retelling",
+      "find-letters-in-name"
     ],
     "current_index": 0,
     "books_read": [
@@ -293,12 +294,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-66s437",
-      "k6e7qn",
-      "j3bl2i",
-      "-yi1onw",
-      "-6o69mx",
-      "-yi1onw",
       "p3ir4u",
       "-7q4gyd",
       "-nn78ac",
@@ -321,7 +316,13 @@
       "-tm8g74",
       "-stt7ag",
       "-vez2ia",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "7eah8l",
+      "qjokh3",
+      "-yd8lpj",
+      "rkdu9z",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1271,7 +1272,13 @@
       "-tm8g74",
       "-stt7ag",
       "-vez2ia",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "7eah8l",
+      "qjokh3",
+      "-yd8lpj",
+      "rkdu9z",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -1294,7 +1301,12 @@
     42,
     14,
     29,
-    32
+    32,
+    54,
+    24,
+    38,
+    15,
+    5
   ],
   "history": [
     {
@@ -2876,6 +2888,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 159,
+      "date": "2026-07-24",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "rhyming-in-stories",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
