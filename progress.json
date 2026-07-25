@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 159,
+  "current_day": 160,
   "phonics": {
     "progression": [
       "S",
@@ -294,12 +294,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "p3ir4u",
-      "-7q4gyd",
-      "-nn78ac",
-      "cno7ay",
-      "-j0fvl8",
-      "-yi1onw",
       "885ub1",
       "il3pt0",
       "-87vknw",
@@ -322,7 +316,13 @@
       "qjokh3",
       "-yd8lpj",
       "rkdu9z",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-18ggzd",
+      "qjokh3",
+      "-6o69mx",
+      "-yi1onw",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1278,7 +1278,13 @@
       "qjokh3",
       "-yd8lpj",
       "rkdu9z",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-18ggzd",
+      "qjokh3",
+      "-6o69mx",
+      "-yi1onw",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -1306,7 +1312,12 @@
     24,
     38,
     15,
-    5
+    5,
+    52,
+    26,
+    8,
+    2,
+    36
   ],
   "history": [
     {
@@ -2898,6 +2909,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 160,
+      "date": "2026-07-25",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-recognition-7-10",
+      "reading_topic": "rhyming-in-stories",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
