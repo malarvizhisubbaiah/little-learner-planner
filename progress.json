@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 160,
+  "current_day": 161,
   "phonics": {
     "progression": [
       "S",
@@ -170,7 +170,8 @@
       "counting-to-15",
       "big-small-comparison",
       "patterns-ABAB",
-      "shapes-circle-square"
+      "shapes-circle-square",
+      "number-recognition-4-6"
     ],
     "current_index": 0
   },
@@ -294,12 +295,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "il3pt0",
-      "-87vknw",
-      "-mldfdj",
-      "2qvsf6",
-      "-yi1onw",
       "y5vgct",
       "-st09hv",
       "c02xxf",
@@ -322,7 +317,13 @@
       "qjokh3",
       "-6o69mx",
       "-yi1onw",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-cilvl0",
+      "-kg85v4",
+      "j3bl2i",
+      "-lsluj",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1284,7 +1285,13 @@
       "qjokh3",
       "-6o69mx",
       "-yi1onw",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "-cilvl0",
+      "-kg85v4",
+      "j3bl2i",
+      "-lsluj",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1317,7 +1324,12 @@
     26,
     8,
     2,
-    36
+    36,
+    55,
+    48,
+    3,
+    17,
+    28
   ],
   "history": [
     {
@@ -2919,6 +2931,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 161,
+      "date": "2026-07-26",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "sorting-by-color",
+      "reading_topic": "connect-story-to-life",
+      "book": "Stellaluna",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
