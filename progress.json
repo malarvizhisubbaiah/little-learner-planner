@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 162,
+  "current_day": 163,
   "phonics": {
     "progression": [
       "S",
@@ -296,12 +296,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "885ub1",
-      "-tm8g74",
-      "-stt7ag",
-      "-vez2ia",
-      "gixxy9",
-      "-yi1onw",
       "7eah8l",
       "qjokh3",
       "-yd8lpj",
@@ -324,7 +318,13 @@
       "cbnfsc",
       "-j0fvl8",
       "-tm8g74",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "p3ir4u",
+      "-st09hv",
+      "2qvsf6",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1298,7 +1298,13 @@
       "cbnfsc",
       "-j0fvl8",
       "-tm8g74",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "p3ir4u",
+      "-st09hv",
+      "2qvsf6",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1341,7 +1347,12 @@
     1,
     18,
     23,
-    31
+    31,
+    25,
+    30,
+    46,
+    53,
+    4
   ],
   "history": [
     {
@@ -2963,6 +2974,16 @@
       "reading_topic": "cover-prediction",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 163,
+      "date": "2026-07-28",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "sorting-by-shape",
+      "reading_topic": "feelings-in-stories",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
