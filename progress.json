@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 165,
+  "current_day": 166,
   "phonics": {
     "progression": [
       "S",
@@ -298,12 +298,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-cilvl0",
-      "-kg85v4",
-      "j3bl2i",
-      "-lsluj",
-      "-nn78ac",
-      "-yi1onw",
       "885ub1",
       "cbnfsc",
       "-j0fvl8",
@@ -326,7 +320,13 @@
       "k6e7qn",
       "-ctopef",
       "-285mf2",
-      "-yd8lpj"
+      "-yd8lpj",
+      "-yi1onw",
+      "to4cgf",
+      "-mldfdj",
+      "-6o69mx",
+      "-yi1onw",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1318,7 +1318,13 @@
       "k6e7qn",
       "-ctopef",
       "-285mf2",
-      "-yd8lpj"
+      "-yd8lpj",
+      "-yi1onw",
+      "to4cgf",
+      "-mldfdj",
+      "-6o69mx",
+      "-yi1onw",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1376,7 +1382,12 @@
     20,
     12,
     59,
-    0
+    0,
+    13,
+    35,
+    22,
+    47,
+    50
   ],
   "history": [
     {
@@ -3028,6 +3039,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 166,
+      "date": "2026-07-31",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "finger-counting",
+      "reading_topic": "story-retelling",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
