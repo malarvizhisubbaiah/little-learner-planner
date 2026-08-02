@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 167,
+  "current_day": 168,
   "phonics": {
     "progression": [
       "S",
@@ -270,7 +270,8 @@
       "story-retelling",
       "find-letters-in-name",
       "repetition-in-stories",
-      "book-handling"
+      "book-handling",
+      "connect-story-to-life"
     ],
     "current_index": 0,
     "books_read": [
@@ -299,12 +300,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "p3ir4u",
-      "-st09hv",
-      "2qvsf6",
-      "-yi1onw",
-      "c02xxf",
-      "-yi1onw",
       "-h95fnj",
       "tgmhkf",
       "-87vknw",
@@ -327,7 +322,13 @@
       "-tm8g74",
       "-pbto60",
       "-3ns982",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "7eah8l",
+      "331s5i",
+      "8jexik",
+      "-kg85v4",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1331,7 +1332,13 @@
       "-tm8g74",
       "-pbto60",
       "-3ns982",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "7eah8l",
+      "331s5i",
+      "8jexik",
+      "-kg85v4",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -1344,63 +1351,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    37,
-    43,
-    19,
-    21,
-    9,
-    51,
-    42,
-    14,
-    29,
-    32,
-    54,
-    24,
-    38,
-    15,
-    5,
-    52,
-    26,
-    8,
-    2,
-    36,
-    55,
-    48,
-    3,
-    17,
-    28,
-    41,
-    1,
-    18,
-    23,
-    31,
-    25,
-    30,
-    46,
-    53,
-    4,
-    16,
-    56,
-    27,
-    44,
-    34,
-    45,
-    20,
-    12,
-    59,
-    0,
-    13,
-    35,
-    22,
-    47,
-    50,
-    6,
-    33,
-    57,
-    11,
-    7
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -3071,6 +3022,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "Carla's Sandwich",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 168,
+      "date": "2026-08-02",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "print-awareness",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
