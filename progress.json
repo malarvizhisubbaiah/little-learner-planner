@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 168,
+  "current_day": 169,
   "phonics": {
     "progression": [
       "S",
@@ -300,12 +300,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-h95fnj",
-      "tgmhkf",
-      "-87vknw",
-      "cno7ay",
-      "-stt7ag",
-      "-yi1onw",
       "-zbpkgb",
       "k6e7qn",
       "-ctopef",
@@ -328,7 +322,13 @@
       "331s5i",
       "8jexik",
       "-kg85v4",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "-66s437",
+      "k6e7qn",
+      "-nn78ac",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1338,7 +1338,13 @@
       "331s5i",
       "8jexik",
       "-kg85v4",
-      "-ri749c"
+      "-ri749c",
+      "-yi1onw",
+      "-66s437",
+      "k6e7qn",
+      "-nn78ac",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1351,7 +1357,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    55,
+    31,
+    21,
+    19,
+    0
+  ],
   "history": [
     {
       "day": 1,
@@ -3032,6 +3044,16 @@
       "reading_topic": "print-awareness",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 169,
+      "date": "2026-08-03",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "favorite-book-revisit",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
