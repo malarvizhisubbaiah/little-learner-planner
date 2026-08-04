@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 169,
+  "current_day": 170,
   "phonics": {
     "progression": [
       "S",
@@ -173,7 +173,8 @@
       "shapes-circle-square",
       "number-recognition-4-6",
       "patterns-ABAB",
-      "big-small-comparison"
+      "big-small-comparison",
+      "number-recognition-4-6"
     ],
     "current_index": 0
   },
@@ -300,12 +301,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-zbpkgb",
-      "k6e7qn",
-      "-ctopef",
-      "-285mf2",
-      "-yd8lpj",
-      "-yi1onw",
       "to4cgf",
       "-mldfdj",
       "-6o69mx",
@@ -328,7 +323,13 @@
       "k6e7qn",
       "-nn78ac",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "euaeef",
+      "-liuanj",
+      "-stt7ag",
+      "-lsluj",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1344,7 +1345,13 @@
       "k6e7qn",
       "-nn78ac",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "euaeef",
+      "-liuanj",
+      "-stt7ag",
+      "-lsluj",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -1362,7 +1369,12 @@
     31,
     21,
     19,
-    0
+    0,
+    3,
+    11,
+    20,
+    56,
+    36
   ],
   "history": [
     {
@@ -3054,6 +3066,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "What Is Weather?",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 170,
+      "date": "2026-08-04",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "picture-dictionary",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
