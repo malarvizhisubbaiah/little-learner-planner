@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 173,
+  "current_day": 174,
   "phonics": {
     "progression": [
       "S",
@@ -274,7 +274,8 @@
       "repetition-in-stories",
       "book-handling",
       "connect-story-to-life",
-      "find-letters-in-name"
+      "find-letters-in-name",
+      "name-recognition"
     ],
     "current_index": 0,
     "books_read": [
@@ -303,12 +304,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-66s437",
-      "k6e7qn",
-      "-nn78ac",
-      "-yi1onw",
-      "c02xxf",
-      "-yi1onw",
       "euaeef",
       "-liuanj",
       "-stt7ag",
@@ -331,7 +326,13 @@
       "-liuanj",
       "-87vknw",
       "-3ns982",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-smc7sh",
+      "rkdu9z",
+      "8jexik",
+      "-nzj9ge",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1371,7 +1372,13 @@
       "-liuanj",
       "-87vknw",
       "-3ns982",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-smc7sh",
+      "rkdu9z",
+      "8jexik",
+      "-nzj9ge",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -1409,7 +1416,12 @@
     6,
     27,
     17,
-    46
+    46,
+    42,
+    23,
+    16,
+    37,
+    7
   ],
   "history": [
     {
@@ -3141,6 +3153,16 @@
       "reading_topic": "picture-dictionary",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 174,
+      "date": "2026-08-08",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "find-letters-in-name",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
