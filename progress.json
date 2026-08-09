@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 174,
+  "current_day": 175,
   "phonics": {
     "progression": [
       "S",
@@ -304,12 +304,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "euaeef",
-      "-liuanj",
-      "-stt7ag",
-      "-lsluj",
-      "-j0fvl8",
-      "-yi1onw",
       "6pdfza",
       "-kg85v4",
       "-yd8lpj",
@@ -332,7 +326,13 @@
       "rkdu9z",
       "8jexik",
       "-nzj9ge",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "cno7ay",
+      "il3pt0",
+      "c02xxf",
+      "-yi1onw",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1378,7 +1378,13 @@
       "rkdu9z",
       "8jexik",
       "-nzj9ge",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "cno7ay",
+      "il3pt0",
+      "c02xxf",
+      "-yi1onw",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1421,7 +1427,12 @@
     23,
     16,
     37,
-    7
+    7,
+    48,
+    15,
+    39,
+    54,
+    8
   ],
   "history": [
     {
@@ -3163,6 +3174,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "The Ugly Duckling",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 175,
+      "date": "2026-08-09",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "patterns-ABAB",
+      "reading_topic": "retell-with-toys",
+      "book": "Chester's Way",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
