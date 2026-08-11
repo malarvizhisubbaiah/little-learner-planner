@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 176,
+  "current_day": 177,
   "phonics": {
     "progression": [
       "S",
@@ -276,7 +276,8 @@
       "book-handling",
       "connect-story-to-life",
       "find-letters-in-name",
-      "name-recognition"
+      "name-recognition",
+      "picture-walk"
     ],
     "current_index": 0,
     "books_read": [
@@ -305,12 +306,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "cno7ay",
-      "-nzj9ge",
-      "gixxy9",
-      "-yi1onw",
-      "2qvsf6",
-      "-yi1onw",
       "885ub1",
       "-liuanj",
       "-87vknw",
@@ -333,7 +328,13 @@
       "qjokh3",
       "j3bl2i",
       "to4cgf",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "hwl7ua",
+      "-u7g3q8",
+      "-ctopef",
+      "tgmhkf",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1391,7 +1392,13 @@
       "qjokh3",
       "j3bl2i",
       "to4cgf",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "hwl7ua",
+      "-u7g3q8",
+      "-ctopef",
+      "tgmhkf",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -1444,7 +1451,12 @@
     2,
     34,
     29,
-    51
+    51,
+    43,
+    58,
+    30,
+    28,
+    9
   ],
   "history": [
     {
@@ -3206,6 +3218,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 177,
+      "date": "2026-08-11",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "patterns-AABB",
+      "reading_topic": "who-what-where-questions",
+      "book": "Stellaluna",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
