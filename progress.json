@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 181,
+  "current_day": 182,
   "phonics": {
     "progression": [
       "S",
@@ -177,7 +177,8 @@
       "number-recognition-4-6",
       "big-small-comparison",
       "finger-counting",
-      "big-small-comparison"
+      "big-small-comparison",
+      "number-bonds-to-5"
     ],
     "current_index": 0
   },
@@ -308,12 +309,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "hwl7ua",
-      "-u7g3q8",
-      "-ctopef",
-      "tgmhkf",
-      "-ri749c",
-      "-yi1onw",
       "-43t8fa",
       "-tm8g74",
       "gixxy9",
@@ -336,7 +331,13 @@
       "-st09hv",
       "-pbto60",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-smc7sh",
+      "-mldfdj",
+      "8jexik",
+      "y5vgct",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1424,7 +1425,13 @@
       "-st09hv",
       "-pbto60",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-smc7sh",
+      "-mldfdj",
+      "8jexik",
+      "y5vgct",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1442,7 +1449,12 @@
     22,
     34,
     2,
-    18
+    18,
+    43,
+    58,
+    17,
+    20,
+    33
   ],
   "history": [
     {
@@ -3254,6 +3266,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 182,
+      "date": "2026-08-16",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "story-retelling",
+      "book": "Stellaluna",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
