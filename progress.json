@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 182,
+  "current_day": 183,
   "phonics": {
     "progression": [
       "S",
@@ -280,7 +280,8 @@
       "find-letters-in-name",
       "name-recognition",
       "picture-walk",
-      "repetition-in-stories"
+      "repetition-in-stories",
+      "picture-walk"
     ],
     "current_index": 0,
     "books_read": [
@@ -309,12 +310,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-43t8fa",
-      "-tm8g74",
-      "gixxy9",
-      "-yi1onw",
-      "2qvsf6",
-      "-yi1onw",
       "to4cgf",
       "-nzj9ge",
       "-j0fvl8",
@@ -337,7 +332,13 @@
       "-mldfdj",
       "8jexik",
       "y5vgct",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "p3ir4u",
+      "rkdu9z",
+      "-ri749c",
+      "tgmhkf",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1431,7 +1432,13 @@
       "-mldfdj",
       "8jexik",
       "y5vgct",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "p3ir4u",
+      "rkdu9z",
+      "-ri749c",
+      "tgmhkf",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1454,7 +1461,12 @@
     58,
     17,
     20,
-    33
+    33,
+    59,
+    37,
+    48,
+    9,
+    19
   ],
   "history": [
     {
@@ -3276,6 +3288,16 @@
       "reading_topic": "story-retelling",
       "book": "Stellaluna",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 183,
+      "date": "2026-08-17",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "sorting-by-shape",
+      "reading_topic": "find-letters-in-name",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
