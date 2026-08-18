@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 183,
+  "current_day": 184,
   "phonics": {
     "progression": [
       "S",
@@ -310,12 +310,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "to4cgf",
-      "-nzj9ge",
-      "-j0fvl8",
-      "-3ns982",
-      "-87vknw",
-      "-yi1onw",
       "euaeef",
       "-285mf2",
       "-6o69mx",
@@ -338,7 +332,13 @@
       "rkdu9z",
       "-ri749c",
       "tgmhkf",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "7eah8l",
+      "rkdu9z",
+      "-stt7ag",
+      "-yi1onw",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1438,7 +1438,13 @@
       "rkdu9z",
       "-ri749c",
       "tgmhkf",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "7eah8l",
+      "rkdu9z",
+      "-stt7ag",
+      "-yi1onw",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -1466,7 +1472,12 @@
     37,
     48,
     9,
-    19
+    19,
+    39,
+    56,
+    29,
+    5,
+    47
   ],
   "history": [
     {
@@ -3298,6 +3309,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "The Ugly Duckling",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 184,
+      "date": "2026-08-18",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "find-letters-in-name",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
