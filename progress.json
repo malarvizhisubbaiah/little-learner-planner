@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 186,
+  "current_day": 187,
   "phonics": {
     "progression": [
       "S",
@@ -312,12 +312,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "-mldfdj",
-      "8jexik",
-      "y5vgct",
-      "-nn78ac",
-      "-yi1onw",
       "p3ir4u",
       "rkdu9z",
       "-ri749c",
@@ -340,7 +334,13 @@
       "-otqon4",
       "-6o69mx",
       "qjokh3",
-      "-yd8lpj"
+      "-yd8lpj",
+      "-yi1onw",
+      "-oxp8n3",
+      "-u7g3q8",
+      "gixxy9",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1458,7 +1458,13 @@
       "-otqon4",
       "-6o69mx",
       "qjokh3",
-      "-yd8lpj"
+      "-yd8lpj",
+      "-yi1onw",
+      "-oxp8n3",
+      "-u7g3q8",
+      "gixxy9",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1501,7 +1507,12 @@
     8,
     7,
     50,
-    23
+    23,
+    10,
+    36,
+    52,
+    4,
+    21
   ],
   "history": [
     {
@@ -3363,6 +3374,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "What Is Weather?",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 187,
+      "date": "2026-08-21",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "more-or-less",
+      "reading_topic": "who-what-where-questions",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
