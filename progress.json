@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 188,
+  "current_day": 189,
   "phonics": {
     "progression": [
       "S",
@@ -284,7 +284,8 @@
       "picture-walk",
       "repetition-in-stories",
       "picture-walk",
-      "rhyming-in-stories"
+      "rhyming-in-stories",
+      "new-vocabulary-words"
     ],
     "current_index": 0,
     "books_read": [
@@ -313,12 +314,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "7eah8l",
-      "rkdu9z",
-      "-stt7ag",
-      "-yi1onw",
-      "2qvsf6",
-      "-yi1onw",
       "-43t8fa",
       "qjokh3",
       "-87vknw",
@@ -341,7 +336,13 @@
       "-mldfdj",
       "-pbto60",
       "-vez2ia",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-43t8fa",
+      "qjokh3",
+      "-ri749c",
+      "-otqon4",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1471,7 +1472,13 @@
       "-mldfdj",
       "-pbto60",
       "-vez2ia",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-43t8fa",
+      "qjokh3",
+      "-ri749c",
+      "-otqon4",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -1524,7 +1531,12 @@
     41,
     16,
     6,
-    51
+    51,
+    49,
+    27,
+    12,
+    53,
+    0
   ],
   "history": [
     {
@@ -3406,6 +3418,16 @@
       "reading_topic": "story-retelling",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 189,
+      "date": "2026-08-23",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "sorting-by-size",
+      "reading_topic": "rhyming-in-stories",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
