@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 190,
+  "current_day": 191,
   "phonics": {
     "progression": [
       "S",
@@ -180,7 +180,8 @@
       "big-small-comparison",
       "number-bonds-to-5",
       "counting-1-to-10",
-      "shapes-circle-square"
+      "shapes-circle-square",
+      "subtraction-with-objects"
     ],
     "current_index": 0
   },
@@ -314,12 +315,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "7eah8l",
-      "-otqon4",
-      "-6o69mx",
-      "qjokh3",
-      "-yd8lpj",
-      "-yi1onw",
       "-oxp8n3",
       "-u7g3q8",
       "gixxy9",
@@ -342,7 +337,13 @@
       "fdkdu6",
       "2qvsf6",
       "-yi1onw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "-91ikis",
+      "-mldfdj",
+      "j3bl2i",
+      "-3n33t4",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1484,7 +1485,13 @@
       "fdkdu6",
       "2qvsf6",
       "-yi1onw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "-91ikis",
+      "-mldfdj",
+      "j3bl2i",
+      "-3n33t4",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -1547,7 +1554,12 @@
     14,
     55,
     46,
-    26
+    26,
+    57,
+    28,
+    30,
+    13,
+    40
   ],
   "history": [
     {
@@ -3449,6 +3461,16 @@
       "reading_topic": "make-a-book",
       "book": "Chester's Way",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 191,
+      "date": "2026-08-25",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "measurement-with-blocks",
+      "reading_topic": "story-retelling",
+      "book": "My Family",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
