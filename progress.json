@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 195,
+  "current_day": 196,
   "phonics": {
     "progression": [
       "S",
@@ -318,12 +318,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-91ikis",
-      "-mldfdj",
-      "j3bl2i",
-      "-3n33t4",
-      "8jexik",
-      "-yi1onw",
       "to4cgf",
       "fdkdu6",
       "-87vknw",
@@ -346,7 +340,13 @@
       "-7q4gyd",
       "-6o69mx",
       "rkdu9z",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-f7nk2v",
+      "qjokh3",
+      "-j0fvl8",
+      "-yi1onw",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1518,7 +1518,13 @@
       "-7q4gyd",
       "-6o69mx",
       "rkdu9z",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-f7nk2v",
+      "qjokh3",
+      "-j0fvl8",
+      "-yi1onw",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -1546,7 +1552,12 @@
     18,
     53,
     49,
-    38
+    38,
+    1,
+    47,
+    51,
+    37,
+    9
   ],
   "history": [
     {
@@ -3498,6 +3509,16 @@
       "reading_topic": "turning-pages",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 196,
+      "date": "2026-08-30",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-3",
+      "reading_topic": "rhyming-in-stories",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
