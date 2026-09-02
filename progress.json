@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 198,
+  "current_day": 199,
   "phonics": {
     "progression": [
       "S",
@@ -320,12 +320,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "p3ir4u",
-      "-liuanj",
-      "-yd8lpj",
-      "-3n33t4",
-      "-pbto60",
-      "-yi1onw",
       "y5vgct",
       "-7q4gyd",
       "-6o69mx",
@@ -348,7 +342,13 @@
       "-7q4gyd",
       "-stt7ag",
       "rkdu9z",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-f7nk2v",
+      "-liuanj",
+      "2qvsf6",
+      "-yi1onw",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1538,7 +1538,13 @@
       "-7q4gyd",
       "-stt7ag",
       "rkdu9z",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-f7nk2v",
+      "-liuanj",
+      "2qvsf6",
+      "-yi1onw",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1581,7 +1587,12 @@
     16,
     21,
     55,
-    2
+    2,
+    52,
+    34,
+    20,
+    6,
+    11
   ],
   "history": [
     {
@@ -3563,6 +3574,16 @@
       "reading_topic": "turning-pages",
       "book": "Chester's Way",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 199,
+      "date": "2026-09-02",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-3",
+      "reading_topic": "picture-dictionary",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
