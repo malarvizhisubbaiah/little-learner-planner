@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 199,
+  "current_day": 200,
   "phonics": {
     "progression": [
       "S",
@@ -183,7 +183,8 @@
       "shapes-circle-square",
       "subtraction-with-objects",
       "subtraction-with-objects",
-      "sorting-by-color"
+      "sorting-by-color",
+      "addition-with-objects-to-3"
     ],
     "current_index": 0
   },
@@ -320,12 +321,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "y5vgct",
-      "-7q4gyd",
-      "-6o69mx",
-      "rkdu9z",
-      "-nn78ac",
-      "-yi1onw",
       "-f7nk2v",
       "qjokh3",
       "-j0fvl8",
@@ -348,7 +343,13 @@
       "-liuanj",
       "2qvsf6",
       "-yi1onw",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-ysgf43",
+      "-7q4gyd",
+      "c02xxf",
+      "-f7nk2v",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1544,7 +1545,13 @@
       "-liuanj",
       "2qvsf6",
       "-yi1onw",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "-ysgf43",
+      "-7q4gyd",
+      "c02xxf",
+      "-f7nk2v",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -1592,7 +1599,12 @@
     34,
     20,
     6,
-    11
+    11,
+    27,
+    32,
+    13,
+    5,
+    41
   ],
   "history": [
     {
@@ -3584,6 +3596,16 @@
       "reading_topic": "picture-dictionary",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 200,
+      "date": "2026-09-03",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-recognition-1-3",
+      "reading_topic": "turning-pages",
+      "book": "The Little Red Hen",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
