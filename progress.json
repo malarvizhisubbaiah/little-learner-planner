@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 201,
+  "current_day": 202,
   "phonics": {
     "progression": [
       "S",
@@ -323,12 +323,6 @@
     "scenarios_used_last_5_days": [
       "-yi1onw",
       "wlk1wd",
-      "-otqon4",
-      "-ctopef",
-      "-cilvl0",
-      "j3bl2i",
-      "-yi1onw",
-      "wlk1wd",
       "-7q4gyd",
       "-stt7ag",
       "rkdu9z",
@@ -350,7 +344,13 @@
       "-otqon4",
       "-6o69mx",
       "k6e7qn",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-f7nk2v",
+      "rkdu9z",
+      "-yd8lpj",
+      "-yi1onw",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1558,7 +1558,13 @@
       "-otqon4",
       "-6o69mx",
       "k6e7qn",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-f7nk2v",
+      "rkdu9z",
+      "-yd8lpj",
+      "-yi1onw",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -1616,7 +1622,12 @@
     33,
     46,
     10,
-    25
+    25,
+    4,
+    30,
+    48,
+    19,
+    59
   ],
   "history": [
     {
@@ -3628,6 +3639,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 202,
+      "date": "2026-09-05",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-3",
+      "reading_topic": "find-letters-in-name",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
