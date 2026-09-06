@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 202,
+  "current_day": 203,
   "phonics": {
     "progression": [
       "S",
@@ -184,7 +184,8 @@
       "subtraction-with-objects",
       "subtraction-with-objects",
       "sorting-by-color",
-      "addition-with-objects-to-3"
+      "addition-with-objects-to-3",
+      "subtraction-with-objects"
     ],
     "current_index": 0
   },
@@ -322,12 +323,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "wlk1wd",
-      "-7q4gyd",
-      "-stt7ag",
-      "rkdu9z",
-      "-87vknw",
-      "-yi1onw",
       "-f7nk2v",
       "-liuanj",
       "2qvsf6",
@@ -350,7 +345,13 @@
       "rkdu9z",
       "-yd8lpj",
       "-yi1onw",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-3ns982",
+      "rkdu9z",
+      "-ri749c",
+      "-3n33t4",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1564,7 +1565,13 @@
       "rkdu9z",
       "-yd8lpj",
       "-yi1onw",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "-3ns982",
+      "rkdu9z",
+      "-ri749c",
+      "-3n33t4",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1627,7 +1634,12 @@
     30,
     48,
     19,
-    59
+    59,
+    40,
+    35,
+    28,
+    14,
+    3
   ],
   "history": [
     {
@@ -3649,6 +3661,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "My Body",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 203,
+      "date": "2026-09-06",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "big-small-comparison",
+      "reading_topic": "find-letters-in-name",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
