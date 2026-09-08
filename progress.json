@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 204,
+  "current_day": 205,
   "phonics": {
     "progression": [
       "S",
@@ -324,12 +324,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-ysgf43",
-      "-7q4gyd",
-      "c02xxf",
-      "-f7nk2v",
-      "8jexik",
-      "-yi1onw",
       "-18ggzd",
       "-otqon4",
       "-6o69mx",
@@ -352,7 +346,13 @@
       "qjokh3",
       "-stt7ag",
       "ycxga8",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "b21lyb",
+      "-otqon4",
+      "j3bl2i",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1578,7 +1578,13 @@
       "qjokh3",
       "-stt7ag",
       "ycxga8",
-      "-j0fvl8"
+      "-j0fvl8",
+      "-yi1onw",
+      "b21lyb",
+      "-otqon4",
+      "j3bl2i",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -1591,7 +1597,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    52,
+    34,
+    49,
+    24,
+    17
+  ],
   "history": [
     {
       "day": 1,
@@ -3632,6 +3644,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 205,
+      "date": "2026-09-08",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-10",
+      "reading_topic": "new-vocabulary-words",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
