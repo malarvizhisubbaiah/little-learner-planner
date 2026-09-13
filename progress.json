@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 209,
+  "current_day": 210,
   "phonics": {
     "progression": [
       "S",
@@ -298,7 +298,8 @@
       "find-letters-in-name",
       "favorite-book-revisit",
       "point-to-words",
-      "point-to-words"
+      "point-to-words",
+      "favorite-book-revisit"
     ],
     "current_index": 0,
     "books_read": [
@@ -327,12 +328,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "b21lyb",
-      "-otqon4",
-      "j3bl2i",
-      "-yi1onw",
-      "-87vknw",
-      "-yi1onw",
       "42k0b0",
       "il3pt0",
       "gixxy9",
@@ -355,7 +350,13 @@
       "qjokh3",
       "-pbto60",
       "-ysgf43",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "b21lyb",
+      "-kg85v4",
+      "-ri749c",
+      "k6e7qn",
+      "-j0fvl8"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1611,7 +1612,13 @@
       "qjokh3",
       "-pbto60",
       "-ysgf43",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "b21lyb",
+      "-kg85v4",
+      "-ri749c",
+      "k6e7qn",
+      "-j0fvl8"
     ]
   },
   "worksheets_assigned": [
@@ -1649,7 +1656,12 @@
     36,
     21,
     46,
-    18
+    18,
+    43,
+    7,
+    28,
+    19,
+    51
   ],
   "history": [
     {
@@ -3741,6 +3753,16 @@
       "reading_topic": "rhyming-in-stories",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 210,
+      "date": "2026-09-13",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-10",
+      "reading_topic": "connect-story-to-life",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
