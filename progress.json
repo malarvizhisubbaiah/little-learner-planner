@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 212,
+  "current_day": 213,
   "phonics": {
     "progression": [
       "S",
@@ -300,7 +300,8 @@
       "favorite-book-revisit",
       "point-to-words",
       "point-to-words",
-      "favorite-book-revisit"
+      "favorite-book-revisit",
+      "find-letters-in-name"
     ],
     "current_index": 0,
     "books_read": [
@@ -329,12 +330,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-3n33t4",
-      "tgmhkf",
-      "2qvsf6",
-      "-yi1onw",
-      "-yd8lpj",
-      "-yi1onw",
       "-h95fnj",
       "qjokh3",
       "-pbto60",
@@ -357,7 +352,13 @@
       "-kg85v4",
       "-87vknw",
       "-3n33t4",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-f7nk2v",
+      "k6e7qn",
+      "8jexik",
+      "rkdu9z",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1631,7 +1632,13 @@
       "-kg85v4",
       "-87vknw",
       "-3n33t4",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-f7nk2v",
+      "k6e7qn",
+      "8jexik",
+      "rkdu9z",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1684,7 +1691,12 @@
     3,
     57,
     26,
-    14
+    14,
+    33,
+    44,
+    11,
+    53,
+    4
   ],
   "history": [
     {
@@ -3806,6 +3818,16 @@
       "reading_topic": "connect-story-to-life",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 213,
+      "date": "2026-09-16",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-3",
+      "reading_topic": "favorite-book-revisit",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
