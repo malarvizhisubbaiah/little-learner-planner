@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 213,
+  "current_day": 214,
   "phonics": {
     "progression": [
       "S",
@@ -330,12 +330,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-h95fnj",
-      "qjokh3",
-      "-pbto60",
-      "-ysgf43",
-      "-6o69mx",
-      "-yi1onw",
       "b21lyb",
       "-kg85v4",
       "-ri749c",
@@ -358,7 +352,13 @@
       "k6e7qn",
       "8jexik",
       "rkdu9z",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-cilvl0",
+      "fdkdu6",
+      "-ctopef",
+      "-yi1onw",
+      "gixxy9"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1638,7 +1638,13 @@
       "k6e7qn",
       "8jexik",
       "rkdu9z",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-cilvl0",
+      "fdkdu6",
+      "-ctopef",
+      "-yi1onw",
+      "gixxy9"
     ]
   },
   "worksheets_assigned": [
@@ -1696,7 +1702,12 @@
     44,
     11,
     53,
-    4
+    4,
+    45,
+    1,
+    58,
+    35,
+    12
   ],
   "history": [
     {
@@ -3828,6 +3839,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 214,
+      "date": "2026-09-17",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "sorting-by-color",
+      "reading_topic": "make-a-book",
+      "book": "Chester's Way",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
