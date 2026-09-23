@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 219,
+  "current_day": 220,
   "phonics": {
     "progression": [
       "S",
@@ -334,12 +334,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-3n33t4",
-      "fdkdu6",
-      "-6o69mx",
-      "-zbpkgb",
-      "-pbto60",
-      "-yi1onw",
       "to4cgf",
       "ycxga8",
       "-ri749c",
@@ -362,7 +356,13 @@
       "-285mf2",
       "8jexik",
       "-u7g3q8",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-3n33t4",
+      "-285mf2",
+      "-ctopef",
+      "-yi1onw",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1678,7 +1678,13 @@
       "-285mf2",
       "8jexik",
       "-u7g3q8",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "-3n33t4",
+      "-285mf2",
+      "-ctopef",
+      "-yi1onw",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1706,7 +1712,12 @@
     56,
     2,
     40,
-    10
+    10,
+    34,
+    4,
+    17,
+    23,
+    45
   ],
   "history": [
     {
@@ -3898,6 +3909,16 @@
       "reading_topic": "book-handling",
       "book": "At the Park",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 220,
+      "date": "2026-09-23",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "subtraction-with-objects",
+      "reading_topic": "book-handling",
+      "book": "Stellaluna",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
