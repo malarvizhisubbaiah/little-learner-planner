@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 222,
+  "current_day": 223,
   "phonics": {
     "progression": [
       "S",
@@ -336,12 +336,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-f7nk2v",
-      "k6e7qn",
-      "j3bl2i",
-      "-3n33t4",
-      "2qvsf6",
-      "-yi1onw",
       "-43t8fa",
       "-285mf2",
       "8jexik",
@@ -364,7 +358,13 @@
       "-285mf2",
       "gixxy9",
       "fdkdu6",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "g7o4iw",
+      "-nzj9ge",
+      "-ri749c",
+      "-yi1onw",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1698,7 +1698,13 @@
       "-285mf2",
       "gixxy9",
       "fdkdu6",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "g7o4iw",
+      "-nzj9ge",
+      "-ri749c",
+      "-yi1onw",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -1741,7 +1747,12 @@
     57,
     19,
     1,
-    49
+    49,
+    15,
+    53,
+    37,
+    8,
+    29
   ],
   "history": [
     {
@@ -3963,6 +3974,16 @@
       "reading_topic": "book-handling",
       "book": "Animals in Winter",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 223,
+      "date": "2026-09-26",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "shapes-triangle-rectangle",
+      "reading_topic": "name-recognition",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
