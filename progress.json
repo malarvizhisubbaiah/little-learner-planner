@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 223,
+  "current_day": 224,
   "phonics": {
     "progression": [
       "S",
@@ -191,7 +191,8 @@
       "subtraction-with-objects",
       "counting-1-to-5",
       "subtraction-with-objects",
-      "shapes-triangle-rectangle"
+      "shapes-triangle-rectangle",
+      "counting-to-20"
     ],
     "current_index": 0
   },
@@ -336,12 +337,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-43t8fa",
-      "-285mf2",
-      "8jexik",
-      "-u7g3q8",
-      "c02xxf",
-      "-yi1onw",
       "-3n33t4",
       "-285mf2",
       "-ctopef",
@@ -364,7 +359,13 @@
       "-nzj9ge",
       "-ri749c",
       "-yi1onw",
-      "-yd8lpj"
+      "-yd8lpj",
+      "-yi1onw",
+      "-oxp8n3",
+      "ycxga8",
+      "-j0fvl8",
+      "-66s437",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1704,7 +1705,13 @@
       "-nzj9ge",
       "-ri749c",
       "-yi1onw",
-      "-yd8lpj"
+      "-yd8lpj",
+      "-yi1onw",
+      "-oxp8n3",
+      "ycxga8",
+      "-j0fvl8",
+      "-66s437",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -1752,7 +1759,12 @@
     53,
     37,
     8,
-    29
+    29,
+    52,
+    7,
+    3,
+    32,
+    24
   ],
   "history": [
     {
@@ -3984,6 +3996,16 @@
       "reading_topic": "name-recognition",
       "book": "What Is Weather?",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 224,
+      "date": "2026-09-27",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "more-or-less",
+      "reading_topic": "point-to-words",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
