@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 225,
+  "current_day": 226,
   "phonics": {
     "progression": [
       "S",
@@ -338,12 +338,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "k6e7qn",
-      "-6o69mx",
-      "g7o4iw",
-      "-pbto60",
-      "-yi1onw",
       "y5vgct",
       "-285mf2",
       "gixxy9",
@@ -366,7 +360,13 @@
       "-liuanj",
       "2qvsf6",
       "k6e7qn",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "42k0b0",
+      "cbnfsc",
+      "c02xxf",
+      "-yi1onw",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1718,7 +1718,13 @@
       "-liuanj",
       "2qvsf6",
       "k6e7qn",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "42k0b0",
+      "cbnfsc",
+      "c02xxf",
+      "-yi1onw",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1776,7 +1782,12 @@
     59,
     12,
     22,
-    39
+    39,
+    38,
+    54,
+    16,
+    48,
+    5
   ],
   "history": [
     {
@@ -4028,6 +4039,16 @@
       "reading_topic": "picture-dictionary",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 226,
+      "date": "2026-09-29",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "tall-short-comparison",
+      "reading_topic": "cover-prediction",
+      "book": "Clark the Shark",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
