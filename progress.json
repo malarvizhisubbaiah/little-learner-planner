@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 228,
+  "current_day": 229,
   "phonics": {
     "progression": [
       "S",
@@ -341,12 +341,6 @@
     "scenarios_used_last_5_days": [
       "-yi1onw",
       "-oxp8n3",
-      "ycxga8",
-      "-j0fvl8",
-      "-66s437",
-      "j3bl2i",
-      "-yi1onw",
-      "-oxp8n3",
       "-liuanj",
       "2qvsf6",
       "k6e7qn",
@@ -368,7 +362,13 @@
       "8nu5c7",
       "gixxy9",
       "ycxga8",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "7eah8l",
+      "cbnfsc",
+      "-nn78ac",
+      "-yi1onw",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1738,7 +1738,13 @@
       "8nu5c7",
       "gixxy9",
       "ycxga8",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "7eah8l",
+      "cbnfsc",
+      "-nn78ac",
+      "-yi1onw",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -1751,7 +1757,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    42,
+    27,
+    31,
+    2,
+    11
+  ],
   "history": [
     {
       "day": 1,
@@ -4032,6 +4044,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Animals in Winter",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 229,
+      "date": "2026-10-02",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "cover-prediction",
+      "book": "1 2 3 Count With Me",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
