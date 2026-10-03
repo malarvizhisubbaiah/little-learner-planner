@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 229,
+  "current_day": 230,
   "phonics": {
     "progression": [
       "S",
@@ -193,7 +193,8 @@
       "subtraction-with-objects",
       "shapes-triangle-rectangle",
       "counting-to-20",
-      "number-recognition-7-10"
+      "number-recognition-7-10",
+      "number-recognition-4-6"
     ],
     "current_index": 0
   },
@@ -340,12 +341,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-oxp8n3",
-      "-liuanj",
-      "2qvsf6",
-      "k6e7qn",
-      "8jexik",
-      "-yi1onw",
       "42k0b0",
       "cbnfsc",
       "c02xxf",
@@ -368,7 +363,13 @@
       "cbnfsc",
       "-nn78ac",
       "-yi1onw",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-66s437",
+      "8nu5c7",
+      "-j0fvl8",
+      "-lsluj",
+      "-ri749c"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1744,7 +1745,13 @@
       "cbnfsc",
       "-nn78ac",
       "-yi1onw",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-66s437",
+      "8nu5c7",
+      "-j0fvl8",
+      "-lsluj",
+      "-ri749c"
     ]
   },
   "worksheets_assigned": [
@@ -1762,7 +1769,12 @@
     27,
     31,
     2,
-    11
+    11,
+    9,
+    47,
+    14,
+    35,
+    53
   ],
   "history": [
     {
@@ -4054,6 +4066,16 @@
       "reading_topic": "cover-prediction",
       "book": "1 2 3 Count With Me",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 230,
+      "date": "2026-10-03",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "predict-what-happens-next",
+      "book": "Animals in Winter",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
