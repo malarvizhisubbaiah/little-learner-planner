@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 231,
+  "current_day": 232,
   "phonics": {
     "progression": [
       "S",
@@ -342,12 +342,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-18ggzd",
-      "-mldfdj",
-      "-stt7ag",
-      "-18ggzd",
-      "-6o69mx",
-      "-yi1onw",
       "y5vgct",
       "8nu5c7",
       "gixxy9",
@@ -370,7 +364,13 @@
       "8nu5c7",
       "8jexik",
       "cbnfsc",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-h95fnj",
+      "il3pt0",
+      "c02xxf",
+      "-yi1onw",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1758,7 +1758,13 @@
       "8nu5c7",
       "8jexik",
       "cbnfsc",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-h95fnj",
+      "il3pt0",
+      "c02xxf",
+      "-yi1onw",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -1786,7 +1792,12 @@
     54,
     1,
     40,
-    24
+    24,
+    44,
+    20,
+    51,
+    18,
+    38
   ],
   "history": [
     {
@@ -4098,6 +4109,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Shapes Around Us",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 232,
+      "date": "2026-10-05",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-5",
+      "reading_topic": "retell-with-toys",
+      "book": "At the Park",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
