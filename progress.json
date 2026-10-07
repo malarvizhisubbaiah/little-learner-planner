@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 233,
+  "current_day": 234,
   "phonics": {
     "progression": [
       "S",
@@ -314,7 +314,8 @@
       "make-a-book",
       "favorite-book-revisit",
       "point-to-words",
-      "cover-prediction"
+      "cover-prediction",
+      "predict-what-happens-next"
     ],
     "current_index": 0,
     "books_read": [
@@ -343,12 +344,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "7eah8l",
-      "cbnfsc",
-      "-nn78ac",
-      "-yi1onw",
-      "-87vknw",
-      "-yi1onw",
       "-66s437",
       "8nu5c7",
       "-j0fvl8",
@@ -371,7 +366,13 @@
       "-tm8g74",
       "-6o69mx",
       "g7o4iw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "-66s437",
+      "fdkdu6",
+      "gixxy9",
+      "8nu5c7",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1771,7 +1772,13 @@
       "-tm8g74",
       "-6o69mx",
       "g7o4iw",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "-66s437",
+      "fdkdu6",
+      "gixxy9",
+      "8nu5c7",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -1809,7 +1816,12 @@
     21,
     41,
     3,
-    17
+    17,
+    13,
+    26,
+    45,
+    30,
+    56
   ],
   "history": [
     {
@@ -4141,6 +4153,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "Chester's Way",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 234,
+      "date": "2026-10-07",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "make-a-book",
+      "book": "The Three Billy Goats Gruff",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
