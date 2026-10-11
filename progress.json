@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 237,
+  "current_day": 238,
   "phonics": {
     "progression": [
       "S",
@@ -346,12 +346,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "wlk1wd",
-      "-tm8g74",
-      "-6o69mx",
-      "g7o4iw",
-      "-ctopef",
-      "-yi1onw",
       "-66s437",
       "fdkdu6",
       "gixxy9",
@@ -374,7 +368,13 @@
       "ycxga8",
       "j3bl2i",
       "-tm8g74",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "hwl7ua",
+      "-liuanj",
+      "c02xxf",
+      "-yi1onw",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1798,7 +1798,13 @@
       "ycxga8",
       "j3bl2i",
       "-tm8g74",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "hwl7ua",
+      "-liuanj",
+      "c02xxf",
+      "-yi1onw",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -1856,7 +1862,12 @@
     52,
     5,
     12,
-    22
+    22,
+    8,
+    29,
+    15,
+    49,
+    58
   ],
   "history": [
     {
@@ -4228,6 +4239,16 @@
       "reading_topic": "point-to-words",
       "book": "The Little Red Hen",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 238,
+      "date": "2026-10-11",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "patterns-AABB",
+      "reading_topic": "picture-dictionary",
+      "book": "At the Park",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
