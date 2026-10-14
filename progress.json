@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 240,
+  "current_day": 241,
   "phonics": {
     "progression": [
       "S",
@@ -348,12 +348,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "g7o4iw",
-      "-7q4gyd",
-      "-j0fvl8",
-      "-oxp8n3",
-      "-pbto60",
-      "-yi1onw",
       "-h95fnj",
       "ycxga8",
       "j3bl2i",
@@ -376,7 +370,13 @@
       "-otqon4",
       "gixxy9",
       "-tm8g74",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "7eah8l",
+      "cbnfsc",
+      "2qvsf6",
+      "-yi1onw",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1818,7 +1818,13 @@
       "-otqon4",
       "gixxy9",
       "-tm8g74",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "7eah8l",
+      "cbnfsc",
+      "2qvsf6",
+      "-yi1onw",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1831,7 +1837,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    26,
+    40,
+    0,
+    13,
+    55
+  ],
   "history": [
     {
       "day": 1,
@@ -4232,6 +4244,16 @@
       "reading_topic": "new-vocabulary-words",
       "book": "Chester's Way",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 241,
+      "date": "2026-10-14",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "ordering-by-size",
+      "reading_topic": "cover-prediction",
+      "book": "At the Park",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
