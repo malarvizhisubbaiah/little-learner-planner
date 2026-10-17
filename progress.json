@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 243,
+  "current_day": 244,
   "phonics": {
     "progression": [
       "S",
@@ -352,12 +352,6 @@
       "-yi1onw",
       "-ysgf43",
       "-otqon4",
-      "-ri749c",
-      "-cilvl0",
-      "-6o69mx",
-      "-yi1onw",
-      "-ysgf43",
-      "-otqon4",
       "gixxy9",
       "-tm8g74",
       "-ctopef",
@@ -378,7 +372,13 @@
       "-7q4gyd",
       "j3bl2i",
       "k6e7qn",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-zbpkgb",
+      "-tm8g74",
+      "-pbto60",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1838,7 +1838,13 @@
       "-7q4gyd",
       "j3bl2i",
       "k6e7qn",
-      "-87vknw"
+      "-87vknw",
+      "-yi1onw",
+      "-zbpkgb",
+      "-tm8g74",
+      "-pbto60",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1866,7 +1872,12 @@
     47,
     24,
     34,
-    12
+    12,
+    8,
+    7,
+    51,
+    37,
+    48
   ],
   "history": [
     {
@@ -4298,6 +4309,16 @@
       "reading_topic": "turning-pages",
       "book": "Shapes Around Us",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 244,
+      "date": "2026-10-17",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-5",
+      "reading_topic": "repetition-in-stories",
+      "book": "My Family",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
