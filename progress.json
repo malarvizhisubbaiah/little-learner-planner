@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 244,
+  "current_day": 245,
   "phonics": {
     "progression": [
       "S",
@@ -198,7 +198,8 @@
       "shapes-triangle-rectangle",
       "more-or-less",
       "sorting-by-color",
-      "number-recognition-7-10"
+      "number-recognition-7-10",
+      "sorting-by-shape"
     ],
     "current_index": 0
   },
@@ -350,12 +351,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-ysgf43",
-      "-otqon4",
-      "gixxy9",
-      "-tm8g74",
-      "-ctopef",
-      "-yi1onw",
       "7eah8l",
       "cbnfsc",
       "2qvsf6",
@@ -378,7 +373,13 @@
       "-tm8g74",
       "-pbto60",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "euaeef",
+      "cbnfsc",
+      "-ri749c",
+      "p3ir4u",
+      "-6o69mx"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1844,7 +1845,13 @@
       "-tm8g74",
       "-pbto60",
       "-yi1onw",
-      "c02xxf"
+      "c02xxf",
+      "-yi1onw",
+      "euaeef",
+      "cbnfsc",
+      "-ri749c",
+      "p3ir4u",
+      "-6o69mx"
     ]
   },
   "worksheets_assigned": [
@@ -1877,7 +1884,12 @@
     7,
     51,
     37,
-    48
+    48,
+    27,
+    33,
+    9,
+    54,
+    14
   ],
   "history": [
     {
@@ -4319,6 +4331,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 245,
+      "date": "2026-10-18",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "cover-prediction",
+      "book": "My Family",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
