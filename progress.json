@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 245,
+  "current_day": 246,
   "phonics": {
     "progression": [
       "S",
@@ -322,7 +322,8 @@
       "predict-what-happens-next",
       "repetition-in-stories",
       "repetition-in-stories",
-      "favorite-book-revisit"
+      "favorite-book-revisit",
+      "print-awareness"
     ],
     "current_index": 0,
     "books_read": [
@@ -351,12 +352,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "7eah8l",
-      "cbnfsc",
-      "2qvsf6",
-      "-yi1onw",
-      "-nn78ac",
-      "-yi1onw",
       "-66s437",
       "cbnfsc",
       "-j0fvl8",
@@ -379,7 +374,13 @@
       "cbnfsc",
       "-ri749c",
       "p3ir4u",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-h95fnj",
+      "-nzj9ge",
+      "gixxy9",
+      "331s5i",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1851,7 +1852,13 @@
       "cbnfsc",
       "-ri749c",
       "p3ir4u",
-      "-6o69mx"
+      "-6o69mx",
+      "-yi1onw",
+      "-h95fnj",
+      "-nzj9ge",
+      "gixxy9",
+      "331s5i",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -1889,7 +1896,12 @@
     33,
     9,
     54,
-    14
+    14,
+    29,
+    16,
+    39,
+    58,
+    2
   ],
   "history": [
     {
@@ -4341,6 +4353,16 @@
       "reading_topic": "cover-prediction",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 246,
+      "date": "2026-10-19",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "addition-with-objects-to-5",
+      "reading_topic": "name-recognition",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
