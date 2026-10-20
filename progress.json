@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 246,
+  "current_day": 247,
   "phonics": {
     "progression": [
       "S",
@@ -352,12 +352,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-66s437",
-      "cbnfsc",
-      "-j0fvl8",
-      "-18ggzd",
-      "-stt7ag",
-      "-yi1onw",
       "-18ggzd",
       "-7q4gyd",
       "j3bl2i",
@@ -380,7 +374,13 @@
       "-nzj9ge",
       "gixxy9",
       "331s5i",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "g7o4iw",
+      "331s5i",
+      "2qvsf6",
+      "-yi1onw",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1858,7 +1858,13 @@
       "-nzj9ge",
       "gixxy9",
       "331s5i",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "g7o4iw",
+      "331s5i",
+      "2qvsf6",
+      "-yi1onw",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1901,7 +1907,12 @@
     16,
     39,
     58,
-    2
+    2,
+    10,
+    57,
+    28,
+    42,
+    38
   ],
   "history": [
     {
@@ -4363,6 +4374,16 @@
       "reading_topic": "name-recognition",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 247,
+      "date": "2026-10-20",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "shapes-triangle-rectangle",
+      "reading_topic": "print-awareness",
+      "book": "Chester's Way",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
