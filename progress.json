@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 248,
+  "current_day": 249,
   "phonics": {
     "progression": [
       "S",
@@ -324,7 +324,8 @@
       "repetition-in-stories",
       "repetition-in-stories",
       "favorite-book-revisit",
-      "print-awareness"
+      "print-awareness",
+      "book-handling"
     ],
     "current_index": 0,
     "books_read": [
@@ -353,12 +354,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-zbpkgb",
-      "-tm8g74",
-      "-pbto60",
-      "-yi1onw",
-      "c02xxf",
-      "-yi1onw",
       "euaeef",
       "cbnfsc",
       "-ri749c",
@@ -381,7 +376,13 @@
       "-285mf2",
       "-j0fvl8",
       "-smc7sh",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-smc7sh",
+      "-tm8g74",
+      "-87vknw",
+      "-285mf2",
+      "-nn78ac"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1871,7 +1872,13 @@
       "-285mf2",
       "-j0fvl8",
       "-smc7sh",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "-smc7sh",
+      "-tm8g74",
+      "-87vknw",
+      "-285mf2",
+      "-nn78ac"
     ]
   },
   "worksheets_assigned": [
@@ -1924,7 +1931,12 @@
     44,
     30,
     1,
-    56
+    56,
+    41,
+    23,
+    17,
+    3,
+    50
   ],
   "history": [
     {
@@ -4406,6 +4418,16 @@
       "reading_topic": "book-handling",
       "book": "The Ugly Duckling",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 249,
+      "date": "2026-10-22",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-to-15",
+      "reading_topic": "repetition-in-stories",
+      "book": "1 2 3 Count With Me",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
