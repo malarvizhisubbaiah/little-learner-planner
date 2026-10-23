@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 249,
+  "current_day": 250,
   "phonics": {
     "progression": [
       "S",
@@ -354,12 +354,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "euaeef",
-      "cbnfsc",
-      "-ri749c",
-      "p3ir4u",
-      "-6o69mx",
-      "-yi1onw",
       "-h95fnj",
       "-nzj9ge",
       "gixxy9",
@@ -382,7 +376,13 @@
       "-tm8g74",
       "-87vknw",
       "-285mf2",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-66s437",
+      "-st09hv",
+      "j3bl2i",
+      "-yi1onw",
+      "c02xxf"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1878,7 +1878,13 @@
       "-tm8g74",
       "-87vknw",
       "-285mf2",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-66s437",
+      "-st09hv",
+      "j3bl2i",
+      "-yi1onw",
+      "c02xxf"
     ]
   },
   "worksheets_assigned": [
@@ -1936,7 +1942,12 @@
     23,
     17,
     3,
-    50
+    50,
+    19,
+    6,
+    46,
+    25,
+    52
   ],
   "history": [
     {
@@ -4428,6 +4439,16 @@
       "reading_topic": "repetition-in-stories",
       "book": "1 2 3 Count With Me",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 250,
+      "date": "2026-10-23",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "counting-to-20",
+      "reading_topic": "feelings-in-stories",
+      "book": "Enemy Pie",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
