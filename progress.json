@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 254,
+  "current_day": 255,
   "phonics": {
     "progression": [
       "S",
@@ -328,7 +328,8 @@
       "favorite-book-revisit",
       "print-awareness",
       "book-handling",
-      "favorite-book-revisit"
+      "favorite-book-revisit",
+      "retell-with-toys"
     ],
     "current_index": 0,
     "books_read": [
@@ -357,12 +358,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-66s437",
-      "-st09hv",
-      "j3bl2i",
-      "-yi1onw",
-      "c02xxf",
-      "-yi1onw",
       "wlk1wd",
       "-otqon4",
       "-6o69mx",
@@ -385,7 +380,13 @@
       "-nzj9ge",
       "-j0fvl8",
       "885ub1",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "885ub1",
+      "-kg85v4",
+      "-87vknw",
+      "il3pt0",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1911,7 +1912,13 @@
       "-nzj9ge",
       "-j0fvl8",
       "885ub1",
-      "gixxy9"
+      "gixxy9",
+      "-yi1onw",
+      "885ub1",
+      "-kg85v4",
+      "-87vknw",
+      "il3pt0",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -1934,7 +1941,12 @@
     17,
     56,
     25,
-    2
+    2,
+    33,
+    49,
+    50,
+    19,
+    4
   ],
   "history": [
     {
@@ -4476,6 +4488,16 @@
       "reading_topic": "name-recognition",
       "book": "My Family",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 255,
+      "date": "2026-10-28",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "connect-story-to-life",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
