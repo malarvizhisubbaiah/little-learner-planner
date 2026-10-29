@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 255,
+  "current_day": 256,
   "phonics": {
     "progression": [
       "S",
@@ -358,12 +358,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "wlk1wd",
-      "-otqon4",
-      "-6o69mx",
-      "-66s437",
-      "-pbto60",
-      "-yi1onw",
       "-zbpkgb",
       "cbnfsc",
       "8jexik",
@@ -386,7 +380,13 @@
       "-kg85v4",
       "-87vknw",
       "il3pt0",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-18ggzd",
+      "-liuanj",
+      "j3bl2i",
+      "-yi1onw",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1918,7 +1918,13 @@
       "-kg85v4",
       "-87vknw",
       "il3pt0",
-      "2qvsf6"
+      "2qvsf6",
+      "-yi1onw",
+      "-18ggzd",
+      "-liuanj",
+      "j3bl2i",
+      "-yi1onw",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -1946,7 +1952,12 @@
     49,
     50,
     19,
-    4
+    4,
+    54,
+    40,
+    21,
+    32,
+    7
   ],
   "history": [
     {
@@ -4498,6 +4509,16 @@
       "reading_topic": "connect-story-to-life",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 256,
+      "date": "2026-10-29",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-recognition-7-10",
+      "reading_topic": "picture-dictionary",
+      "book": "Shapes Around Us",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
