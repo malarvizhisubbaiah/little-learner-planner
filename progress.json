@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 257,
+  "current_day": 258,
   "phonics": {
     "progression": [
       "S",
@@ -330,7 +330,8 @@
       "print-awareness",
       "book-handling",
       "favorite-book-revisit",
-      "retell-with-toys"
+      "retell-with-toys",
+      "picture-walk"
     ],
     "current_index": 0,
     "books_read": [
@@ -359,12 +360,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "g7o4iw",
-      "tgmhkf",
-      "-ri749c",
-      "-yi1onw",
-      "-ctopef",
-      "-yi1onw",
       "885ub1",
       "-nzj9ge",
       "-j0fvl8",
@@ -387,7 +382,13 @@
       "cbnfsc",
       "-6o69mx",
       "-zbpkgb",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "euaeef",
+      "8nu5c7",
+      "-yd8lpj",
+      "tgmhkf",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1931,7 +1932,13 @@
       "cbnfsc",
       "-6o69mx",
       "-zbpkgb",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "euaeef",
+      "8nu5c7",
+      "-yd8lpj",
+      "tgmhkf",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -1969,7 +1976,12 @@
     34,
     0,
     47,
-    28
+    28,
+    26,
+    36,
+    11,
+    58,
+    9
   ],
   "history": [
     {
@@ -4541,6 +4553,16 @@
       "reading_topic": "cover-prediction",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 258,
+      "date": "2026-10-31",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "predict-what-happens-next",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
