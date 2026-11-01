@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 258,
+  "current_day": 259,
   "phonics": {
     "progression": [
       "S",
@@ -361,12 +361,6 @@
     "scenarios_used_last_5_days": [
       "-yi1onw",
       "885ub1",
-      "-nzj9ge",
-      "-j0fvl8",
-      "885ub1",
-      "gixxy9",
-      "-yi1onw",
-      "885ub1",
       "-kg85v4",
       "-87vknw",
       "il3pt0",
@@ -388,7 +382,13 @@
       "8nu5c7",
       "-yd8lpj",
       "tgmhkf",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "euaeef",
+      "tgmhkf",
+      "-ri749c",
+      "-yi1onw",
+      "-ctopef"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1938,7 +1938,13 @@
       "8nu5c7",
       "-yd8lpj",
       "tgmhkf",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "euaeef",
+      "tgmhkf",
+      "-ri749c",
+      "-yi1onw",
+      "-ctopef"
     ]
   },
   "worksheets_assigned": [
@@ -1981,7 +1987,12 @@
     36,
     11,
     58,
-    9
+    9,
+    12,
+    59,
+    37,
+    24,
+    43
   ],
   "history": [
     {
@@ -4563,6 +4574,16 @@
       "reading_topic": "predict-what-happens-next",
       "book": "Colors Everywhere",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 259,
+      "date": "2026-11-01",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "picture-walk",
+      "book": "The Ugly Duckling",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
