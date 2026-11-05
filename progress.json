@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 262,
+  "current_day": 263,
   "phonics": {
     "progression": [
       "S",
@@ -204,7 +204,8 @@
       "counting-to-20",
       "number-writing-6-10",
       "counting-1-to-5",
-      "number-writing-6-10"
+      "number-writing-6-10",
+      "story-problems"
     ],
     "current_index": 0
   },
@@ -363,12 +364,6 @@
     "scenarios_used_last_5_days": [
       "-yi1onw",
       "euaeef",
-      "8nu5c7",
-      "-yd8lpj",
-      "tgmhkf",
-      "-pbto60",
-      "-yi1onw",
-      "euaeef",
       "tgmhkf",
       "-ri749c",
       "-yi1onw",
@@ -390,7 +385,13 @@
       "-st09hv",
       "-stt7ag",
       "-yi1onw",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "g7o4iw",
+      "-285mf2",
+      "-nn78ac",
+      "6pdfza",
+      "2qvsf6"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1964,7 +1965,13 @@
       "-st09hv",
       "-stt7ag",
       "-yi1onw",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "g7o4iw",
+      "-285mf2",
+      "-nn78ac",
+      "6pdfza",
+      "2qvsf6"
     ]
   },
   "worksheets_assigned": [
@@ -2027,7 +2034,12 @@
     22,
     51,
     13,
-    42
+    42,
+    1,
+    52,
+    48,
+    5,
+    20
   ],
   "history": [
     {
@@ -4649,6 +4661,16 @@
       "reading_topic": "feelings-in-stories",
       "book": "The Ugly Duckling",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 263,
+      "date": "2026-11-05",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "shapes-triangle-rectangle",
+      "reading_topic": "book-handling",
+      "book": "My Body",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
