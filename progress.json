@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 264,
+  "current_day": 265,
   "phonics": {
     "progression": [
       "S",
@@ -364,12 +364,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "ycxga8",
-      "gixxy9",
-      "885ub1",
-      "8jexik",
-      "-yi1onw",
       "42k0b0",
       "331s5i",
       "-87vknw",
@@ -392,7 +386,13 @@
       "k6e7qn",
       "c02xxf",
       "-7q4gyd",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "wlk1wd",
+      "tgmhkf",
+      "-6o69mx",
+      "-yi1onw",
+      "-yd8lpj"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1978,7 +1978,13 @@
       "k6e7qn",
       "c02xxf",
       "-7q4gyd",
-      "-pbto60"
+      "-pbto60",
+      "-yi1onw",
+      "wlk1wd",
+      "tgmhkf",
+      "-6o69mx",
+      "-yi1onw",
+      "-yd8lpj"
     ]
   },
   "worksheets_assigned": [
@@ -1991,7 +1997,13 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [],
+  "brain_quest_used": [
+    33,
+    27,
+    45,
+    8,
+    10
+  ],
   "history": [
     {
       "day": 1,
@@ -4632,6 +4644,16 @@
       "reading_topic": "favorite-book-revisit",
       "book": "Clark the Shark",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 265,
+      "date": "2026-11-07",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "shape-hunt",
+      "reading_topic": "picture-walk",
+      "book": "Colors Everywhere",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
