@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 266,
+  "current_day": 267,
   "phonics": {
     "progression": [
       "S",
@@ -336,7 +336,8 @@
       "retell-with-toys",
       "picture-walk",
       "picture-dictionary",
-      "turning-pages"
+      "turning-pages",
+      "rhyming-in-stories"
     ],
     "current_index": 0,
     "books_read": [
@@ -365,12 +366,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-lsluj",
-      "-st09hv",
-      "-stt7ag",
-      "-yi1onw",
-      "j3bl2i",
-      "-yi1onw",
       "g7o4iw",
       "-285mf2",
       "-nn78ac",
@@ -393,7 +388,13 @@
       "il3pt0",
       "-ri749c",
       "y5vgct",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "euaeef",
+      "-nzj9ge",
+      "gixxy9",
+      "qjokh3",
+      "8jexik"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1991,7 +1992,13 @@
       "il3pt0",
       "-ri749c",
       "y5vgct",
-      "-ctopef"
+      "-ctopef",
+      "-yi1onw",
+      "euaeef",
+      "-nzj9ge",
+      "gixxy9",
+      "qjokh3",
+      "8jexik"
     ]
   },
   "worksheets_assigned": [
@@ -2014,7 +2021,12 @@
     4,
     0,
     55,
-    29
+    29,
+    42,
+    54,
+    9,
+    12,
+    25
   ],
   "history": [
     {
@@ -4676,6 +4688,16 @@
       "reading_topic": "retell-with-toys",
       "book": "Enemy Pie",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 267,
+      "date": "2026-11-09",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "name-recognition",
+      "book": "A Bad Case of Stripes",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
