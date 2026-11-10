@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 267,
+  "current_day": 268,
   "phonics": {
     "progression": [
       "S",
@@ -366,12 +366,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "g7o4iw",
-      "-285mf2",
-      "-nn78ac",
-      "6pdfza",
-      "2qvsf6",
-      "-yi1onw",
       "-smc7sh",
       "k6e7qn",
       "c02xxf",
@@ -394,7 +388,13 @@
       "-nzj9ge",
       "gixxy9",
       "qjokh3",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "cno7ay",
+      "-kg85v4",
+      "-j0fvl8",
+      "-yi1onw",
+      "-stt7ag"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -1998,7 +1998,13 @@
       "-nzj9ge",
       "gixxy9",
       "qjokh3",
-      "8jexik"
+      "8jexik",
+      "-yi1onw",
+      "cno7ay",
+      "-kg85v4",
+      "-j0fvl8",
+      "-yi1onw",
+      "-stt7ag"
     ]
   },
   "worksheets_assigned": [
@@ -2026,7 +2032,12 @@
     54,
     9,
     12,
-    25
+    25,
+    3,
+    17,
+    59,
+    49,
+    34
   ],
   "history": [
     {
@@ -4698,6 +4709,16 @@
       "reading_topic": "name-recognition",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
+    },
+    {
+      "day": 268,
+      "date": "2026-11-10",
+      "focus": "phonics",
+      "letter": "Q",
+      "maths_topic": "patterns-ABAB",
+      "reading_topic": "connect-story-to-life",
+      "book": "Goldilocks and the Three Bears",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
     }
   ]
 }
