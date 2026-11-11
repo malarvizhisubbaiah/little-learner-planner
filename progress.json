@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 268,
+  "current_day": 269,
   "phonics": {
     "progression": [
       "S",
@@ -206,7 +206,8 @@
       "counting-1-to-5",
       "number-writing-6-10",
       "story-problems",
-      "number-bonds-to-5"
+      "number-bonds-to-5",
+      "subtraction-with-objects"
     ],
     "current_index": 0
   },
@@ -366,12 +367,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-smc7sh",
-      "k6e7qn",
-      "c02xxf",
-      "-7q4gyd",
-      "-pbto60",
-      "-yi1onw",
       "wlk1wd",
       "tgmhkf",
       "-6o69mx",
@@ -394,7 +389,13 @@
       "-kg85v4",
       "-j0fvl8",
       "-yi1onw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "euaeef",
+      "-285mf2",
+      "-nn78ac",
+      "-3n33t4",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -2004,7 +2005,13 @@
       "-kg85v4",
       "-j0fvl8",
       "-yi1onw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "euaeef",
+      "-285mf2",
+      "-nn78ac",
+      "-3n33t4",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -2037,7 +2044,12 @@
     17,
     59,
     49,
-    34
+    34,
+    1,
+    40,
+    51,
+    21,
+    7
   ],
   "history": [
     {
@@ -4719,6 +4731,16 @@
       "reading_topic": "connect-story-to-life",
       "book": "Goldilocks and the Three Bears",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 269,
+      "date": "2026-11-11",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-1-5",
+      "reading_topic": "book-handling",
+      "book": "What Is Weather?",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
