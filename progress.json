@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 274,
+  "current_day": 275,
   "phonics": {
     "progression": [
       "S",
@@ -208,7 +208,8 @@
       "story-problems",
       "number-bonds-to-5",
       "subtraction-with-objects",
-      "finger-counting"
+      "finger-counting",
+      "sorting-by-shape"
     ],
     "current_index": 0
   },
@@ -370,12 +371,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-66s437",
-      "-kg85v4",
-      "2qvsf6",
-      "-7q4gyd",
-      "-87vknw",
-      "-yi1onw",
       "-3n33t4",
       "-otqon4",
       "c02xxf",
@@ -398,7 +393,13 @@
       "-285mf2",
       "-ctopef",
       "-yi1onw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "885ub1",
+      "rkdu9z",
+      "8jexik",
+      "p3ir4u",
+      "j3bl2i"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -2044,7 +2045,13 @@
       "-285mf2",
       "-ctopef",
       "-yi1onw",
-      "-stt7ag"
+      "-stt7ag",
+      "-yi1onw",
+      "885ub1",
+      "rkdu9z",
+      "8jexik",
+      "p3ir4u",
+      "j3bl2i"
     ]
   },
   "worksheets_assigned": [
@@ -2107,7 +2114,12 @@
     14,
     39,
     24,
-    41
+    41,
+    53,
+    32,
+    2,
+    22,
+    13
   ],
   "history": [
     {
@@ -4849,6 +4861,16 @@
       "reading_topic": "book-handling",
       "book": "The Three Billy Goats Gruff",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/letters-alphabet"
+    },
+    {
+      "day": 275,
+      "date": "2026-11-17",
+      "focus": "maths",
+      "letter": "Q",
+      "maths_topic": "number-writing-6-10",
+      "reading_topic": "find-letters-in-name",
+      "book": "Brave Irene",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
     }
   ]
 }
