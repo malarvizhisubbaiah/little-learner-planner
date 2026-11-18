@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 275,
+  "current_day": 276,
   "phonics": {
     "progression": [
       "S",
@@ -342,7 +342,8 @@
       "turning-pages",
       "rhyming-in-stories",
       "turning-pages",
-      "picture-dictionary"
+      "picture-dictionary",
+      "point-to-words"
     ],
     "current_index": 0,
     "books_read": [
@@ -371,12 +372,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "-3n33t4",
-      "-otqon4",
-      "c02xxf",
-      "-yi1onw",
-      "-yd8lpj",
-      "-yi1onw",
       "y5vgct",
       "-otqon4",
       "-6o69mx",
@@ -399,7 +394,13 @@
       "rkdu9z",
       "8jexik",
       "p3ir4u",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-zbpkgb",
+      "-otqon4",
+      "2qvsf6",
+      "ycxga8",
+      "-87vknw"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -2051,7 +2052,13 @@
       "rkdu9z",
       "8jexik",
       "p3ir4u",
-      "j3bl2i"
+      "j3bl2i",
+      "-yi1onw",
+      "-zbpkgb",
+      "-otqon4",
+      "2qvsf6",
+      "ycxga8",
+      "-87vknw"
     ]
   },
   "worksheets_assigned": [
@@ -2064,63 +2071,7 @@
     "https://www.education.com/worksheets/preschool/",
     "https://www.k5learning.com/free-preschool-kindergarten-worksheets/simple-math"
   ],
-  "brain_quest_used": [
-    33,
-    27,
-    45,
-    8,
-    10,
-    36,
-    4,
-    0,
-    55,
-    29,
-    42,
-    54,
-    9,
-    12,
-    25,
-    3,
-    17,
-    59,
-    49,
-    34,
-    1,
-    40,
-    51,
-    21,
-    7,
-    57,
-    38,
-    18,
-    5,
-    46,
-    58,
-    16,
-    37,
-    26,
-    43,
-    23,
-    31,
-    52,
-    15,
-    48,
-    19,
-    44,
-    28,
-    35,
-    56,
-    6,
-    14,
-    39,
-    24,
-    41,
-    53,
-    32,
-    2,
-    22,
-    13
-  ],
+  "brain_quest_used": [],
   "history": [
     {
       "day": 1,
@@ -4871,6 +4822,16 @@
       "reading_topic": "find-letters-in-name",
       "book": "Brave Irene",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 276,
+      "date": "2026-11-18",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "counting-1-to-5",
+      "reading_topic": "new-vocabulary-words",
+      "book": "Library Lion",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
