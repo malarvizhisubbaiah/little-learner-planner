@@ -3,7 +3,7 @@
   "child_name": "Little Learner",
   "child_age": "3.5",
   "start_date": "2026-02-17",
-  "current_day": 278,
+  "current_day": 279,
   "phonics": {
     "progression": [
       "S",
@@ -344,7 +344,8 @@
       "rhyming-in-stories",
       "turning-pages",
       "picture-dictionary",
-      "point-to-words"
+      "point-to-words",
+      "who-what-where-questions"
     ],
     "current_index": 0,
     "books_read": [
@@ -373,12 +374,6 @@
   "activities_used": {
     "scenarios_used_last_5_days": [
       "-yi1onw",
-      "cno7ay",
-      "-285mf2",
-      "-ctopef",
-      "-yi1onw",
-      "-stt7ag",
-      "-yi1onw",
       "885ub1",
       "rkdu9z",
       "8jexik",
@@ -401,7 +396,13 @@
       "-u7g3q8",
       "-ri749c",
       "g7o4iw",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-3ns982",
+      "-tm8g74",
+      "-j0fvl8",
+      "-u7g3q8",
+      "-pbto60"
     ],
     "all_scenarios_hashes": [
       "-x1l3sz",
@@ -2071,7 +2072,13 @@
       "-u7g3q8",
       "-ri749c",
       "g7o4iw",
-      "-nn78ac"
+      "-nn78ac",
+      "-yi1onw",
+      "-3ns982",
+      "-tm8g74",
+      "-j0fvl8",
+      "-u7g3q8",
+      "-pbto60"
     ]
   },
   "worksheets_assigned": [
@@ -2094,7 +2101,12 @@
     0,
     10,
     49,
-    3
+    3,
+    27,
+    35,
+    58,
+    44,
+    2
   ],
   "history": [
     {
@@ -4876,6 +4888,16 @@
       "reading_topic": "who-what-where-questions",
       "book": "A Bad Case of Stripes",
       "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/numbers-counting"
+    },
+    {
+      "day": 279,
+      "date": "2026-11-21",
+      "focus": "reading",
+      "letter": "Q",
+      "maths_topic": "big-small-comparison",
+      "reading_topic": "repetition-in-stories",
+      "book": "Clark the Shark",
+      "worksheet": "https://www.k5learning.com/free-preschool-kindergarten-worksheets/vocabulary"
     }
   ]
 }
